@@ -5,6 +5,7 @@ import time
 import requests
 from tqdm import tqdm
 from retry import retry
+from datetime import datetime
 
 def sub_check(url,bar):
     headers = {'User-Agent': 'ClashforWindows/0.18.1'}
@@ -68,3 +69,7 @@ if __name__=='__main__':
     with open("./logs/old/old","a") as f:
         for url in old_list:
             f.write(url+'\n')
+    with open("./logs/old/time","w",encoding="UTF-8") as f:
+        currentTime = datetime.now().strftime("%Y-%m-%d\t%H:%M:%S")
+        f.write('更新时间:\t'+currentTime+'\n')
+        
