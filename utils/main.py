@@ -1,3 +1,3 @@
 import freev2
 
-freev2.getconf()
+freev2.get_conf()
