@@ -76,7 +76,10 @@ def get_conf():
     url_list = data['V2board']
     for url in url_list:
         sub = tempsite(url)
-        sub.set_env()
-        sub.save_conf()
+        try:
+            sub.set_env()
+            sub.save_conf()
+        except:
+            pass  
 
 # get_conf()
