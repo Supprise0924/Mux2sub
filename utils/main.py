@@ -1,3 +1,6 @@
 import freev2
+import freess
 
-freev2.get_conf()
+if __name__=='__main__':
+    freev2.get_conf()
+    freess.get_conf()
