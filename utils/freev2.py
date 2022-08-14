@@ -58,7 +58,6 @@ class tempsite():
             try:
                 req=requests.get(sub_url,timeout=5)
                 v2conf=req.text
-                print(111)
                 with open('./sub_list', 'a') as f:
                     f.write(sub_url+'\n')
                 break
