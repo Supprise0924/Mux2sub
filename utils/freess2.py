@@ -79,7 +79,7 @@ class tempsite():
                     f.write(v2conf)
 
 def get_conf():
-    with open('./config.yaml',encoding="UTF-8") as f:
+    with open('./utils/config.yaml',encoding="UTF-8") as f:
         data = yaml.load(f, Loader=yaml.FullLoader)
     url_list = data['SSpanel2']
     for url in url_list:
