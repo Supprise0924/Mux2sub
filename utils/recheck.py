@@ -69,3 +69,12 @@ if __name__=='__main__':
     with open("./logs/old/time","w",encoding="UTF-8") as f:
         currentTime = datetime.now().strftime("%Y-%m-%d\t%H:%M:%S")
         f.write('更新时间:\t'+currentTime+'\n')
+    with open('./urllist', 'r') as f:
+        data = f.read()
+    url_list = data.split()
+    new_list = list(set(url_list))
+    with open("./urllist","w") as f:
+        # str = '\n'
+        # f.write(str.join(list))
+        for url in new_list:
+            f.write(url+'\n')
