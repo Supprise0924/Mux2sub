@@ -47,7 +47,7 @@ jobs:
         git add ./logs
         git add ./utils
         git add urllist
-        git commit -m "检查订阅 $(date '+%Y-%m-%d %H:%M:%S')"
+        git commit -m "⏰ 检查订阅 $(date '+%Y-%m-%d %H:%M:%S')"
         
     - name: 推送更改
       uses:  ad-m/github-push-action@master
