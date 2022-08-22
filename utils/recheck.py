@@ -30,7 +30,7 @@ def sub_check(url,bar):
                     else: # 流量小于10MB
                         old_list.append(url)       
                 except:
-                    new_list.append(url)  
+                    old_list.append(url)  
                 # output_text='无流量信息捏'
             else:
                 old_list.append(url)
