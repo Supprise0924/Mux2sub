@@ -8,7 +8,7 @@
 
 ![image-20220814224513411](https://cdn.jsdelivr.net/gh/RenaLio/images/imgs/202208142245548.png)
 
-## Type：SSpanel2(🗑️ **废弃！方法已合并**)
+## Type：SSpanel2(🗑️ **废弃！方法已合并** )
 
 ![image-20220814224656280](https://cdn.jsdelivr.net/gh/RenaLio/images/imgs/202208142246404.png)
 
