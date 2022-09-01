@@ -1,7 +1,7 @@
 #---------------------------------------------------#
-## 更新：2022-09-01 05:32:54
+## 更新：2022-09-01 05:33:41
 ## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
-## 链接：https://a.kuaicloud.xyz/link/LYoRmsubkcX4yg9B?clash=1
+## 链接：http://dy.luoxin.fun/link/DeHS24SYWc9mbO8j?clash=1
 #---------------------------------------------------#
 
 # HTTP 代理端口
@@ -14,7 +14,7 @@ socks-port: 7891
 redir-port: 7892 
 
 # 允许局域网的连接
-allow-lan: false
+allow-lan: true
 
 # 规则模式：Rule（规则） / Global（全局代理）/ Direct（全局直连）
 mode: rule
@@ -34,32 +34,18 @@ secret: ''
 
 
 proxies:
-  - {"name":"🇭🇰 b香港高速-5","type":"vmess","server":"xg5.dianshangqw.xyz","port":16666,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇯🇵 日本高速","type":"vmess","server":"rb.dianshangqw.xyz","port":16666,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇺🇲 美国新泽西","type":"vmess","server":"usa1.dianshangqw.xyz","port":16666,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇺🇲 美国旧金山-中转","type":"vmess","server":"36.139.9.191","port":45586,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇰🇷 韩国高速-1","type":"vmess","server":"hg.dianshangqw.xyz","port":16666,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇭🇰 香港BGP","type":"vmess","server":"xg33.dianshangqw.xyz","port":16666,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇭🇰 香港高速","type":"vmess","server":"xgzh.dianshangqw.xyz","port":16666,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇭🇰 香港高速--2","type":"vmess","server":"xg2.dianshangqw.xyz","port":16666,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇭🇰 香港高速-1","type":"vmess","server":"azxg.dianshangqw.xyz","port":16666,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇭🇰 香港高速-4","type":"vmess","server":"xg4.dianshangqw.xyz","port":16666,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
+  - {"name":"A.备用地址nmcloud.ml","type":"vmess","server":"1.1.1.1","port":443,"uuid":"587c3910-c7f2-3af6-bd03-23a3530474a8","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"A.经常更新订阅 留意流量使用情况","type":"vmess","server":"1.1.1.1","port":443,"uuid":"587c3910-c7f2-3af6-bd03-23a3530474a8","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"A.购买网址:www.nima.moe","type":"vmess","server":"www.nima.moe","port":443,"uuid":"587c3910-c7f2-3af6-bd03-23a3530474a8","alterId":0,"cipher":"auto","udp":true}
 
 proxy-groups:
 -
   name: 🔰国外流量
   type: select
   proxies:
-    - '🇭🇰 b香港高速-5'
-    - '🇯🇵 日本高速'
-    - '🇺🇲 美国新泽西'
-    - '🇺🇲 美国旧金山-中转'
-    - '🇰🇷 韩国高速-1'
-    - '🇭🇰 香港BGP'
-    - '🇭🇰 香港高速'
-    - '🇭🇰 香港高速--2'
-    - '🇭🇰 香港高速-1'
-    - '🇭🇰 香港高速-4'
+    - A.备用地址nmcloud.ml
+    - 'A.经常更新订阅 留意流量使用情况'
+    - 'A.购买网址:www.nima.moe'
     - 🚀直接连接
 -
   name: ⚓️其他流量
@@ -72,76 +58,41 @@ proxy-groups:
   type: select
   proxies:
     - 🔰国外流量
-    - '🇭🇰 b香港高速-5'
-    - '🇯🇵 日本高速'
-    - '🇺🇲 美国新泽西'
-    - '🇺🇲 美国旧金山-中转'
-    - '🇰🇷 韩国高速-1'
-    - '🇭🇰 香港BGP'
-    - '🇭🇰 香港高速'
-    - '🇭🇰 香港高速--2'
-    - '🇭🇰 香港高速-1'
-    - '🇭🇰 香港高速-4'
+    - A.备用地址nmcloud.ml
+    - 'A.经常更新订阅 留意流量使用情况'
+    - 'A.购买网址:www.nima.moe'
 -
   name: 🎬Youtube
   type: select
   proxies:
     - 🔰国外流量
-    - '🇭🇰 b香港高速-5'
-    - '🇯🇵 日本高速'
-    - '🇺🇲 美国新泽西'
-    - '🇺🇲 美国旧金山-中转'
-    - '🇰🇷 韩国高速-1'
-    - '🇭🇰 香港BGP'
-    - '🇭🇰 香港高速'
-    - '🇭🇰 香港高速--2'
-    - '🇭🇰 香港高速-1'
-    - '🇭🇰 香港高速-4'
+    - A.备用地址nmcloud.ml
+    - 'A.经常更新订阅 留意流量使用情况'
+    - 'A.购买网址:www.nima.moe'
 -
   name: 🎬Netflix
   type: select
   proxies:
     - 🔰国外流量
-    - '🇭🇰 b香港高速-5'
-    - '🇯🇵 日本高速'
-    - '🇺🇲 美国新泽西'
-    - '🇺🇲 美国旧金山-中转'
-    - '🇰🇷 韩国高速-1'
-    - '🇭🇰 香港BGP'
-    - '🇭🇰 香港高速'
-    - '🇭🇰 香港高速--2'
-    - '🇭🇰 香港高速-1'
-    - '🇭🇰 香港高速-4'
+    - A.备用地址nmcloud.ml
+    - 'A.经常更新订阅 留意流量使用情况'
+    - 'A.购买网址:www.nima.moe'
 -
   name: 🎬哔哩哔哩
   type: select
   proxies:
     - 🚀直接连接
-    - '🇭🇰 b香港高速-5'
-    - '🇯🇵 日本高速'
-    - '🇺🇲 美国新泽西'
-    - '🇺🇲 美国旧金山-中转'
-    - '🇰🇷 韩国高速-1'
-    - '🇭🇰 香港BGP'
-    - '🇭🇰 香港高速'
-    - '🇭🇰 香港高速--2'
-    - '🇭🇰 香港高速-1'
-    - '🇭🇰 香港高速-4'
+    - A.备用地址nmcloud.ml
+    - 'A.经常更新订阅 留意流量使用情况'
+    - 'A.购买网址:www.nima.moe'
 -
   name: 🎬国外媒体
   type: select
   proxies:
     - 🔰国外流量
-    - '🇭🇰 b香港高速-5'
-    - '🇯🇵 日本高速'
-    - '🇺🇲 美国新泽西'
-    - '🇺🇲 美国旧金山-中转'
-    - '🇰🇷 韩国高速-1'
-    - '🇭🇰 香港BGP'
-    - '🇭🇰 香港高速'
-    - '🇭🇰 香港高速--2'
-    - '🇭🇰 香港高速-1'
-    - '🇭🇰 香港高速-4'
+    - A.备用地址nmcloud.ml
+    - 'A.经常更新订阅 留意流量使用情况'
+    - 'A.购买网址:www.nima.moe'
 -
   name: 🍎苹果服务
   type: select

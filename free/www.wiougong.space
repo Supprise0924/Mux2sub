@@ -1,7 +1,7 @@
 #---------------------------------------------------#
-## 更新：2022-09-01 05:32:55
+## 更新：2022-09-01 05:35:10
 ## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
-## 链接：https://jd.apqiang.com/link/cZ5m5QmE5GBEY8ms?clash=1
+## 链接：https://www.wogwog.top/link/hYgRBh5PNx4PlSdw?clash=1
 #---------------------------------------------------#
 
 # HTTP 代理端口
@@ -17,7 +17,7 @@ redir-port: 7892
 allow-lan: true
 
 # 规则模式：Rule（规则） / Global（全局代理）/ Direct（全局直连）
-mode: rule
+mode: Rule
 
 # 设置日志输出级别 (默认级别：silent，即不输出任何内容，以避免因日志内容过大而导致程序内存溢出）。
 # 5 个级别：silent / info / warning / error / debug。级别越高日志输出量越大，越倾向于调试，若需要请自行开启。
@@ -34,76 +34,58 @@ secret: ''
 
 
 proxies:
-  - {"name":"香港A","type":"trojan","server":"szdx-anhb.jiashumao.net","port":22481,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"ahbn.jiashumao.net"}
-  - {"name":"香港B","type":"trojan","server":"bnbq-zf.jiashumao.net","port":26381,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"bnbq.jiashumao.net"}
-  - {"name":"香港C","type":"trojan","server":"hkc-zf.jiashumao.net","port":33481,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"hkc.jiashumao.net"}
-  - {"name":"香港D","type":"trojan","server":"hkd-zf.jiashumao.net","port":28481,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"hkd.jiashumao.net"}
-  - {"name":"香港E","type":"trojan","server":"sxdx-nf.jiashumao.net","port":35401,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"nf.jiashumao.net"}
-  - {"name":"日本A","type":"trojan","server":"jpa-zf.jiashumao.net","port":29881,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"jpa.jiashumao.net"}
-  - {"name":"日本B","type":"trojan","server":"jpb-zf.jiashumao.net","port":20479,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"jpb.jiashumao.net"}
-  - {"name":"日本C","type":"trojan","server":"jpc-zf.jiashumao.net","port":27301,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"jpc.jiashumao.net"}
-  - {"name":"台湾A","type":"trojan","server":"twa-zf.jiashumao.net","port":27919,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"twa.jiashumao.net"}
-  - {"name":"台湾B","type":"trojan","server":"twb-zf.jiashumao.net","port":25888,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"twb.jiashumao.net"}
-  - {"name":"美国A","type":"trojan","server":"usa-zf.jiashumao.net","port":42001,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"usa.jiashumao.net"}
-  - {"name":"美国B","type":"trojan","server":"usb-zf.jiashumao.net","port":43001,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"usb.jiashumao.net"}
-  - {"name":"美国C","type":"trojan","server":"usc-zf.jiashumao.net","port":26972,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"ahbn.jiashumao.net"}
-  - {"name":"新加坡","type":"trojan","server":"sg-zf.jiashumao.net","port":29465,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"sg.jiashumao.net"}
-  - {"name":"土耳其","type":"trojan","server":"trq-zf.jiashumao.net","port":30606,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"trq.jiashumao.net"}
-  - {"name":"澳门","type":"trojan","server":"ma-zf.jiashumao.net","port":22983,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"ma-ctm.jiashumao.net"}
-  - {"name":"越南","type":"trojan","server":"yn-zf.jiashumao.net","port":40375,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"yn.jiashumao.net"}
-  - {"name":"韩国","type":"trojan","server":"hanguo.jiashumao.net","port":34210,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"hanguo.jiashumao.net"}
-  - {"name":"马来西亚","type":"trojan","server":"mlxy-zf.jiashumao.net","port":27171,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"mlxy.jiashumao.net"}
-  - {"name":"印度","type":"trojan","server":"yd.jiashumao.net","port":29957,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"yd.jiashumao.net"}
-  - {"name":"澳洲","type":"trojan","server":"aozhou.jiashumao.net","port":36580,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"aozhou.jiashumao.net"}
-  - {"name":"德国","type":"trojan","server":"dg.jiashumao.net","port":29957,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"dg.jiashumao.net"}
-  - {"name":"加拿大","type":"trojan","server":"jnd.jiashumao.net","port":30519,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"jnd.jiashumao.net"}
-  - {"name":"西班牙","type":"trojan","server":"xby-zf.jiashumao.net","port":48501,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"xby.jiashumao.net"}
-  - {"name":"乌克兰","type":"trojan","server":"wkl.jiashumao.net","port":50519,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"wkl.jiashumao.net"}
-  - {"name":"荷兰","type":"trojan","server":"hl.jiashumao.net","port":45519,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"hl.jiashumao.net"}
-  - {"name":"波兰","type":"trojan","server":"bl.jiashumao.net","port":43505,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"bl.jiashumao.net"}
-  - {"name":"英国","type":"trojan","server":"yg.jiashumao.net","port":36419,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"yg.jiashumao.net"}
-  - {"name":"法国","type":"trojan","server":"fg.jiashumao.net","port":35580,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"fg.jiashumao.net"}
-  - {"name":"注1:请定时更新订阅","type":"trojan","server":"zzfjfgjytjyrtehrt54gsgsdfggedrh5re4364352536234yddd56gsffdsherhbresgsdfdsfssdxxww.us","port":443,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"zzfjfgjytjyrtehrt54gsgsdfggedrh5re4364352536234yddd56gsffdsherhbresgsdfdsfssdxxww.us"}
-  - {"name":"注2:等级过期后无法订阅","type":"trojan","server":"zzfjfgjytjyrtehrt54gsgsdfggedrh5re4364352536234yddd56gsffdsherhbresgsdfdsfssdxxww.us","port":443,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"zzfjfgjytjyrtehrt54gsgsdfggedrh5re4364352536234yddd56gsffdsherhbresgsdfdsfssdxxww.us"}
-  - {"name":"注3:免费套餐限速10Mbps","type":"trojan","server":"zzfjfgjytjyrtehrt54gsgsdfggedrh5re4364352536234yddd56gsffdsherhbresgsdfdsfssdxxww.us","port":443,"password":"ac1b54a5-0fea-35df-80f5-95428b1715e9","sni":"zzfjfgjytjyrtehrt54gsgsdfggedrh5re4364352536234yddd56gsffdsherhbresgsdfdsfssdxxww.us"}
+  - {"name":"[vip1]︱V2ray︱①台湾 600M｜×1倍率｜限速100M","type":"vmess","server":"29.wgong1.top","port":52229,"uuid":"b22bd715-2bca-35e9-ae45-7dcf2aaefa12","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱②台湾Hinet原生节点 600M｜×1倍率｜限速100M","type":"vmess","server":"30.wgong1.top","port":52230,"uuid":"b22bd715-2bca-35e9-ae45-7dcf2aaefa12","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱③日本 1000M｜×1倍率｜限速100M","type":"vmess","server":"31.wgong1.top","port":52231,"uuid":"b22bd715-2bca-35e9-ae45-7dcf2aaefa12","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱④香港 600M｜×1倍率｜限速100M","type":"vmess","server":"32.wgong1.top","port":52232,"uuid":"b22bd715-2bca-35e9-ae45-7dcf2aaefa12","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑤日本NTT 1000M｜×1倍率｜限速100M","type":"vmess","server":"33.wgong1.top","port":52233,"uuid":"b22bd715-2bca-35e9-ae45-7dcf2aaefa12","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑥新加坡 1000M｜×1倍率｜限速100M","type":"vmess","server":"34.wgong1.top","port":52234,"uuid":"b22bd715-2bca-35e9-ae45-7dcf2aaefa12","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑦韩国 600M｜×1倍率｜限速100M","type":"vmess","server":"111.wgong1.top","port":52211,"uuid":"b22bd715-2bca-35e9-ae45-7dcf2aaefa12","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑧日本 1000M｜×1倍率｜限速100M","type":"vmess","server":"112.wgong1.top","port":52212,"uuid":"b22bd715-2bca-35e9-ae45-7dcf2aaefa12","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑨新加坡 1000M｜×1倍率｜限速100M","type":"vmess","server":"113.wgong1.top","port":52213,"uuid":"b22bd715-2bca-35e9-ae45-7dcf2aaefa12","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑩日本 1000M｜×1倍率｜限速100M","type":"vmess","server":"114.wgong1.top","port":52214,"uuid":"b22bd715-2bca-35e9-ae45-7dcf2aaefa12","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑪日本1000M｜×1倍率｜限速100M","type":"vmess","server":"115.wgong1.top","port":52215,"uuid":"b22bd715-2bca-35e9-ae45-7dcf2aaefa12","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑫日本 1000M｜×1倍率｜限速100M","type":"vmess","server":"116.wgong1.top","port":52216,"uuid":"b22bd715-2bca-35e9-ae45-7dcf2aaefa12","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑬日本原生 1000M｜×1倍率｜限速100M","type":"vmess","server":"117.wgong1.top","port":52217,"uuid":"b22bd715-2bca-35e9-ae45-7dcf2aaefa12","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑭日本 1000M｜×1倍率｜限速100M","type":"vmess","server":"118.wgong1.top","port":52218,"uuid":"b22bd715-2bca-35e9-ae45-7dcf2aaefa12","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑮美国 1000M｜×1倍率｜限速100M","type":"vmess","server":"119.wgong1.top","port":52219,"uuid":"b22bd715-2bca-35e9-ae45-7dcf2aaefa12","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑯美国 1000M｜×1倍率｜限速100M","type":"vmess","server":"120.wgong1.top","port":52220,"uuid":"b22bd715-2bca-35e9-ae45-7dcf2aaefa12","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑰日本 1000M｜×1倍率｜限速100M","type":"vmess","server":"121.wgong1.top","port":52221,"uuid":"b22bd715-2bca-35e9-ae45-7dcf2aaefa12","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑱韩国 1000M｜×1倍率｜限速100M","type":"vmess","server":"122.wgong1.top","port":52222,"uuid":"b22bd715-2bca-35e9-ae45-7dcf2aaefa12","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑲韩国｜原生节点 1000M｜×1倍率｜限速100M","type":"vmess","server":"123.wgong1.top","port":52223,"uuid":"b22bd715-2bca-35e9-ae45-7dcf2aaefa12","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑳韩国｜原生节点 1000M｜×1倍率｜限速100M","type":"vmess","server":"124.wgong1.top","port":52224,"uuid":"b22bd715-2bca-35e9-ae45-7dcf2aaefa12","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱㉑韩国 1000M｜×1倍率｜限速100M","type":"vmess","server":"133.wgong1.top","port":52333,"uuid":"b22bd715-2bca-35e9-ae45-7dcf2aaefa12","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱㉒韩国 1000M｜×1倍率｜限速100M","type":"vmess","server":"134.wgong1.top","port":52334,"uuid":"b22bd715-2bca-35e9-ae45-7dcf2aaefa12","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱㉓日本 1000M｜×1倍率｜限速100M","type":"vmess","server":"135.wgong1.top","port":52335,"uuid":"b22bd715-2bca-35e9-ae45-7dcf2aaefa12","alterId":2,"cipher":"auto","udp":true}
 
 proxy-groups:
 -
   name: Proxy
   type: select
   proxies:
-    - 香港A
-    - 香港B
-    - 香港C
-    - 香港D
-    - 香港E
-    - 日本A
-    - 日本B
-    - 日本C
-    - 台湾A
-    - 台湾B
-    - 美国A
-    - 美国B
-    - 美国C
-    - 新加坡
-    - 土耳其
-    - 澳门
-    - 越南
-    - 韩国
-    - 马来西亚
-    - 印度
-    - 澳洲
-    - 德国
-    - 加拿大
-    - 西班牙
-    - 乌克兰
-    - 荷兰
-    - 波兰
-    - 英国
-    - 法国
-    - '注1:请定时更新订阅'
-    - '注2:等级过期后无法订阅'
-    - '注3:免费套餐限速10Mbps'
+    - '[vip1]︱V2ray︱①台湾 600M｜×1倍率｜限速100M'
+    - '[vip1]︱V2ray︱②台湾Hinet原生节点 600M｜×1倍率｜限速100M'
+    - '[vip1]︱V2ray︱③日本 1000M｜×1倍率｜限速100M'
+    - '[vip1]︱V2ray︱④香港 600M｜×1倍率｜限速100M'
+    - '[vip1]︱V2ray︱⑤日本NTT 1000M｜×1倍率｜限速100M'
+    - '[vip1]︱V2ray︱⑥新加坡 1000M｜×1倍率｜限速100M'
+    - '[vip1]︱V2ray︱⑦韩国 600M｜×1倍率｜限速100M'
+    - '[vip1]︱V2ray︱⑧日本 1000M｜×1倍率｜限速100M'
+    - '[vip1]︱V2ray︱⑨新加坡 1000M｜×1倍率｜限速100M'
+    - '[vip1]︱V2ray︱⑩日本 1000M｜×1倍率｜限速100M'
+    - '[vip1]︱V2ray︱⑪日本1000M｜×1倍率｜限速100M'
+    - '[vip1]︱V2ray︱⑫日本 1000M｜×1倍率｜限速100M'
+    - '[vip1]︱V2ray︱⑬日本原生 1000M｜×1倍率｜限速100M'
+    - '[vip1]︱V2ray︱⑭日本 1000M｜×1倍率｜限速100M'
+    - '[vip1]︱V2ray︱⑮美国 1000M｜×1倍率｜限速100M'
+    - '[vip1]︱V2ray︱⑯美国 1000M｜×1倍率｜限速100M'
+    - '[vip1]︱V2ray︱⑰日本 1000M｜×1倍率｜限速100M'
+    - '[vip1]︱V2ray︱⑱韩国 1000M｜×1倍率｜限速100M'
+    - '[vip1]︱V2ray︱⑲韩国｜原生节点 1000M｜×1倍率｜限速100M'
+    - '[vip1]︱V2ray︱⑳韩国｜原生节点 1000M｜×1倍率｜限速100M'
+    - '[vip1]︱V2ray︱㉑韩国 1000M｜×1倍率｜限速100M'
+    - '[vip1]︱V2ray︱㉒韩国 1000M｜×1倍率｜限速100M'
+    - '[vip1]︱V2ray︱㉓日本 1000M｜×1倍率｜限速100M'
 -
   name: Domestic
   type: select
@@ -131,12 +113,6 @@ proxy-groups:
 
 # 规则
 rules:
-- DOMAIN,bob.400511.net,DIRECT
-- DOMAIN,houduan.apqiang.com,DIRECT
-- DOMAIN,app.crisp.chat,DIRECT
-- DOMAIN,jd.apqiang.com,DIRECT
-- DOMAIN,jsm.apqiang.com,DIRECT
-- DOMAIN,node.apqiang.com,DIRECT
 # (GlobalTV)
 # > ABC
 - DOMAIN-SUFFIX,edgedatg.com,GlobalTV

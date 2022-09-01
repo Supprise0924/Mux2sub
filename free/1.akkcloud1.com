@@ -1,161 +1,68 @@
+#!MANAGED-CONFIG https://jx.2.akkcloud1.com/link/h2M4FMa4CHxSSmbk?clash=1
+
 #---------------------------------------------------#
-## 更新：2022-09-01 05:32:54
-## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
-## 链接：https://a.kuaicloud.xyz/link/LYoRmsubkcX4yg9B?clash=1
+## 上次更新于：2022-09-01 05:34:10
 #---------------------------------------------------#
 
-# HTTP 代理端口
-port: 7890 
-
-# SOCKS5 代理端口
-socks-port: 7891 
-
-# Linux 和 macOS 的 redir 代理端口
-redir-port: 7892 
-
-# 允许局域网的连接
+port: 7890
+socks-port: 7891
+redir-port: 7892
 allow-lan: false
-
-# 规则模式：Rule（规则） / Global（全局代理）/ Direct（全局直连）
 mode: rule
-
-# 设置日志输出级别 (默认级别：silent，即不输出任何内容，以避免因日志内容过大而导致程序内存溢出）。
-# 5 个级别：silent / info / warning / error / debug。级别越高日志输出量越大，越倾向于调试，若需要请自行开启。
 log-level: silent
-# Clash 的 RESTful API
 external-controller: '0.0.0.0:9090'
-
-# RESTful API 的口令
-secret: '' 
-
-# 您可以将静态网页资源（如 clash-dashboard）放置在一个目录中，clash 将会服务于 `RESTful API/ui`
-# 参数应填写配置目录的相对路径或绝对路径。
-# external-ui: folder
-
-
-proxies:
-  - {"name":"🇭🇰 b香港高速-5","type":"vmess","server":"xg5.dianshangqw.xyz","port":16666,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇯🇵 日本高速","type":"vmess","server":"rb.dianshangqw.xyz","port":16666,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇺🇲 美国新泽西","type":"vmess","server":"usa1.dianshangqw.xyz","port":16666,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇺🇲 美国旧金山-中转","type":"vmess","server":"36.139.9.191","port":45586,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇰🇷 韩国高速-1","type":"vmess","server":"hg.dianshangqw.xyz","port":16666,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇭🇰 香港BGP","type":"vmess","server":"xg33.dianshangqw.xyz","port":16666,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇭🇰 香港高速","type":"vmess","server":"xgzh.dianshangqw.xyz","port":16666,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇭🇰 香港高速--2","type":"vmess","server":"xg2.dianshangqw.xyz","port":16666,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇭🇰 香港高速-1","type":"vmess","server":"azxg.dianshangqw.xyz","port":16666,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇭🇰 香港高速-4","type":"vmess","server":"xg4.dianshangqw.xyz","port":16666,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-
+secret: ''
+proxies: {  }
 proxy-groups:
--
-  name: 🔰国外流量
-  type: select
-  proxies:
-    - '🇭🇰 b香港高速-5'
-    - '🇯🇵 日本高速'
-    - '🇺🇲 美国新泽西'
-    - '🇺🇲 美国旧金山-中转'
-    - '🇰🇷 韩国高速-1'
-    - '🇭🇰 香港BGP'
-    - '🇭🇰 香港高速'
-    - '🇭🇰 香港高速--2'
-    - '🇭🇰 香港高速-1'
-    - '🇭🇰 香港高速-4'
-    - 🚀直接连接
--
-  name: ⚓️其他流量
-  type: select
-  proxies:
-    - 🔰国外流量
-    - 🚀直接连接
--
-  name: ✈️Telegram
-  type: select
-  proxies:
-    - 🔰国外流量
-    - '🇭🇰 b香港高速-5'
-    - '🇯🇵 日本高速'
-    - '🇺🇲 美国新泽西'
-    - '🇺🇲 美国旧金山-中转'
-    - '🇰🇷 韩国高速-1'
-    - '🇭🇰 香港BGP'
-    - '🇭🇰 香港高速'
-    - '🇭🇰 香港高速--2'
-    - '🇭🇰 香港高速-1'
-    - '🇭🇰 香港高速-4'
--
-  name: 🎬Youtube
-  type: select
-  proxies:
-    - 🔰国外流量
-    - '🇭🇰 b香港高速-5'
-    - '🇯🇵 日本高速'
-    - '🇺🇲 美国新泽西'
-    - '🇺🇲 美国旧金山-中转'
-    - '🇰🇷 韩国高速-1'
-    - '🇭🇰 香港BGP'
-    - '🇭🇰 香港高速'
-    - '🇭🇰 香港高速--2'
-    - '🇭🇰 香港高速-1'
-    - '🇭🇰 香港高速-4'
--
-  name: 🎬Netflix
-  type: select
-  proxies:
-    - 🔰国外流量
-    - '🇭🇰 b香港高速-5'
-    - '🇯🇵 日本高速'
-    - '🇺🇲 美国新泽西'
-    - '🇺🇲 美国旧金山-中转'
-    - '🇰🇷 韩国高速-1'
-    - '🇭🇰 香港BGP'
-    - '🇭🇰 香港高速'
-    - '🇭🇰 香港高速--2'
-    - '🇭🇰 香港高速-1'
-    - '🇭🇰 香港高速-4'
--
-  name: 🎬哔哩哔哩
-  type: select
-  proxies:
-    - 🚀直接连接
-    - '🇭🇰 b香港高速-5'
-    - '🇯🇵 日本高速'
-    - '🇺🇲 美国新泽西'
-    - '🇺🇲 美国旧金山-中转'
-    - '🇰🇷 韩国高速-1'
-    - '🇭🇰 香港BGP'
-    - '🇭🇰 香港高速'
-    - '🇭🇰 香港高速--2'
-    - '🇭🇰 香港高速-1'
-    - '🇭🇰 香港高速-4'
--
-  name: 🎬国外媒体
-  type: select
-  proxies:
-    - 🔰国外流量
-    - '🇭🇰 b香港高速-5'
-    - '🇯🇵 日本高速'
-    - '🇺🇲 美国新泽西'
-    - '🇺🇲 美国旧金山-中转'
-    - '🇰🇷 韩国高速-1'
-    - '🇭🇰 香港BGP'
-    - '🇭🇰 香港高速'
-    - '🇭🇰 香港高速--2'
-    - '🇭🇰 香港高速-1'
-    - '🇭🇰 香港高速-4'
--
-  name: 🍎苹果服务
-  type: select
-  proxies:
-    - 🚀直接连接
-    - 🔰国外流量
--
-  name: 🚀直接连接
-  type: select
-  proxies:
-    - DIRECT
+  -
+    name: 🔰国外流量
+    type: select
+    proxies:
+      - 🚀直接连接
+  -
+    name: ⚓️其他流量
+    type: select
+    proxies:
+      - 🔰国外流量
+      - 🚀直接连接
+  -
+    name: ✈️Telegram
+    type: select
+    proxies:
+      - 🔰国外流量
+  -
+    name: 🎬Youtube
+    type: select
+    proxies:
+      - 🔰国外流量
+  -
+    name: 🎬Netflix
+    type: select
+    proxies:
+      - 🔰国外流量
+  -
+    name: 🎬哔哩哔哩
+    type: select
+    proxies:
+      - 🚀直接连接
+  -
+    name: 🎬国外媒体
+    type: select
+    proxies:
+      - 🔰国外流量
+  -
+    name: 🍎苹果服务
+    type: select
+    proxies:
+      - 🚀直接连接
+      - 🔰国外流量
+  -
+    name: 🚀直接连接
+    type: select
+    proxies:
+      - DIRECT
 
 
-# 规则
 rules:
   - DOMAIN-SUFFIX,smtp,DIRECT
   - DOMAIN-KEYWORD,aria2,DIRECT

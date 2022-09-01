@@ -1,161 +1,398 @@
+#!MANAGED-CONFIG https://www.yzhxy.top/link/J5B2I1OQOSjYvrGf?clash=1
+
 #---------------------------------------------------#
-## 更新：2022-09-01 05:32:54
-## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
-## 链接：https://a.kuaicloud.xyz/link/LYoRmsubkcX4yg9B?clash=1
+## 上次更新于：2022-09-01 05:35:00
 #---------------------------------------------------#
 
-# HTTP 代理端口
-port: 7890 
-
-# SOCKS5 代理端口
-socks-port: 7891 
-
-# Linux 和 macOS 的 redir 代理端口
-redir-port: 7892 
-
-# 允许局域网的连接
+port: 7890
+socks-port: 7891
+redir-port: 7892
 allow-lan: false
-
-# 规则模式：Rule（规则） / Global（全局代理）/ Direct（全局直连）
 mode: rule
-
-# 设置日志输出级别 (默认级别：silent，即不输出任何内容，以避免因日志内容过大而导致程序内存溢出）。
-# 5 个级别：silent / info / warning / error / debug。级别越高日志输出量越大，越倾向于调试，若需要请自行开启。
 log-level: silent
-# Clash 的 RESTful API
 external-controller: '0.0.0.0:9090'
-
-# RESTful API 的口令
-secret: '' 
-
-# 您可以将静态网页资源（如 clash-dashboard）放置在一个目录中，clash 将会服务于 `RESTful API/ui`
-# 参数应填写配置目录的相对路径或绝对路径。
-# external-ui: folder
-
-
+secret: ''
 proxies:
-  - {"name":"🇭🇰 b香港高速-5","type":"vmess","server":"xg5.dianshangqw.xyz","port":16666,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇯🇵 日本高速","type":"vmess","server":"rb.dianshangqw.xyz","port":16666,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇺🇲 美国新泽西","type":"vmess","server":"usa1.dianshangqw.xyz","port":16666,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇺🇲 美国旧金山-中转","type":"vmess","server":"36.139.9.191","port":45586,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇰🇷 韩国高速-1","type":"vmess","server":"hg.dianshangqw.xyz","port":16666,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇭🇰 香港BGP","type":"vmess","server":"xg33.dianshangqw.xyz","port":16666,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇭🇰 香港高速","type":"vmess","server":"xgzh.dianshangqw.xyz","port":16666,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇭🇰 香港高速--2","type":"vmess","server":"xg2.dianshangqw.xyz","port":16666,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇭🇰 香港高速-1","type":"vmess","server":"azxg.dianshangqw.xyz","port":16666,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇭🇰 香港高速-4","type":"vmess","server":"xg4.dianshangqw.xyz","port":16666,"uuid":"eb2012df-4b6e-3993-8d17-2cc7ada747df","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-
+  -
+    name: A新加坡福利节点【免流】
+    type: vmess
+    server: 36.139.9.191
+    port: 46553
+    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: 36.139.9.191
+    ws-opts:
+      path: /index
+      headers: { Host: 36.139.9.191 }
+  -
+    name: V1-台湾-1-sc-IEPL【2倍率】
+    type: vmess
+    server: fsyy.fosi.hk
+    port: 25690
+    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: fsyy.fosi.hk
+    ws-opts:
+      path: /index
+      headers: { Host: fsyy.fosi.hk }
+  -
+    name: V1-台湾-2-sc-广港
+    type: vmess
+    server: 36.139.9.191
+    port: 46548
+    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: 36.139.9.191
+    ws-opts:
+      path: /index
+      headers: { Host: 36.139.9.191 }
+  -
+    name: V1-菲律宾-2-sc-广港
+    type: vmess
+    server: 36.139.9.191
+    port: 46559
+    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: 36.139.9.191
+    ws-opts:
+      path: /index
+      headers: { Host: 36.139.9.191 }
+  -
+    name: V1-越南-1-sc-IEPL【2倍率】
+    type: vmess
+    server: gyiepl.1aba.cn
+    port: 36508
+    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: gyiepl.1aba.cn
+    ws-opts:
+      path: /index
+      headers: { Host: gyiepl.1aba.cn }
+  -
+    name: V1-越南-2-sc—广港
+    type: vmess
+    server: 36.139.9.191
+    port: 46549
+    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: 36.139.9.191
+    ws-opts:
+      path: /index
+      headers: { Host: 36.139.9.191 }
+  -
+    name: V1-韩国-1-sc-IEPL【2倍率】
+    type: vmess
+    server: gyiepl.1aba.cn
+    port: 36509
+    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: gyiepl.1aba.cn
+    ws-opts:
+      path: /index
+      headers: { Host: gyiepl.1aba.cn }
+  -
+    name: V1-韩国-2-sc-广港
+    type: vmess
+    server: 36.139.9.191
+    port: 46550
+    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: 36.139.9.191
+    ws-opts:
+      path: /index
+      headers: { Host: 36.139.9.191 }
+  -
+    name: V1-香港-1-sc-IEPL【2倍率】
+    type: vmess
+    server: fsyy.fosi.hk
+    port: 25689
+    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: fsyy.fosi.hk
+    ws-opts:
+      path: /index
+      headers: { Host: fsyy.fosi.hk }
+  -
+    name: V1-香港-2-sc-广港
+    type: vmess
+    server: 36.139.9.191
+    port: 46560
+    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: 36.139.9.191
+    ws-opts:
+      path: /index
+      headers: { Host: 36.139.9.191 }
+  -
+    name: '[Lv1-中转]-加拿大d-1'
+    type: vmess
+    server: 36.138.4.197
+    port: 45504
+    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: 36.138.4.197
+    ws-opts:
+      path: /index
+      headers: { Host: 36.138.4.197 }
+  -
+    name: '[Lv1-中转]-印度-1-d'
+    type: vmess
+    server: 183.245.147.54
+    port: 45428
+    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: 183.245.147.54
+    ws-opts:
+      path: /index
+      headers: { Host: 183.245.147.54 }
+  -
+    name: '[Lv1-中转]-印度-2-d'
+    type: vmess
+    server: 36.139.9.191
+    port: 46309
+    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: 36.139.9.191
+    ws-opts:
+      path: /index
+      headers: { Host: 36.139.9.191 }
+  -
+    name: '[Lv1-日本a]-中转-皖日隧道+L'
+    type: vmess
+    server: 36.138.4.197
+    port: 45503
+    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: 36.138.4.197
+    ws-opts:
+      path: /index
+      headers: { Host: 36.138.4.197 }
+  -
+    name: '[Lv1-日本b]中转广港BGP+L'
+    type: vmess
+    server: 36.139.9.191
+    port: 46326
+    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: 36.139.9.191
+    ws-opts:
+      path: /index
+      headers: { Host: 36.139.9.191 }
 proxy-groups:
--
-  name: 🔰国外流量
-  type: select
-  proxies:
-    - '🇭🇰 b香港高速-5'
-    - '🇯🇵 日本高速'
-    - '🇺🇲 美国新泽西'
-    - '🇺🇲 美国旧金山-中转'
-    - '🇰🇷 韩国高速-1'
-    - '🇭🇰 香港BGP'
-    - '🇭🇰 香港高速'
-    - '🇭🇰 香港高速--2'
-    - '🇭🇰 香港高速-1'
-    - '🇭🇰 香港高速-4'
-    - 🚀直接连接
--
-  name: ⚓️其他流量
-  type: select
-  proxies:
-    - 🔰国外流量
-    - 🚀直接连接
--
-  name: ✈️Telegram
-  type: select
-  proxies:
-    - 🔰国外流量
-    - '🇭🇰 b香港高速-5'
-    - '🇯🇵 日本高速'
-    - '🇺🇲 美国新泽西'
-    - '🇺🇲 美国旧金山-中转'
-    - '🇰🇷 韩国高速-1'
-    - '🇭🇰 香港BGP'
-    - '🇭🇰 香港高速'
-    - '🇭🇰 香港高速--2'
-    - '🇭🇰 香港高速-1'
-    - '🇭🇰 香港高速-4'
--
-  name: 🎬Youtube
-  type: select
-  proxies:
-    - 🔰国外流量
-    - '🇭🇰 b香港高速-5'
-    - '🇯🇵 日本高速'
-    - '🇺🇲 美国新泽西'
-    - '🇺🇲 美国旧金山-中转'
-    - '🇰🇷 韩国高速-1'
-    - '🇭🇰 香港BGP'
-    - '🇭🇰 香港高速'
-    - '🇭🇰 香港高速--2'
-    - '🇭🇰 香港高速-1'
-    - '🇭🇰 香港高速-4'
--
-  name: 🎬Netflix
-  type: select
-  proxies:
-    - 🔰国外流量
-    - '🇭🇰 b香港高速-5'
-    - '🇯🇵 日本高速'
-    - '🇺🇲 美国新泽西'
-    - '🇺🇲 美国旧金山-中转'
-    - '🇰🇷 韩国高速-1'
-    - '🇭🇰 香港BGP'
-    - '🇭🇰 香港高速'
-    - '🇭🇰 香港高速--2'
-    - '🇭🇰 香港高速-1'
-    - '🇭🇰 香港高速-4'
--
-  name: 🎬哔哩哔哩
-  type: select
-  proxies:
-    - 🚀直接连接
-    - '🇭🇰 b香港高速-5'
-    - '🇯🇵 日本高速'
-    - '🇺🇲 美国新泽西'
-    - '🇺🇲 美国旧金山-中转'
-    - '🇰🇷 韩国高速-1'
-    - '🇭🇰 香港BGP'
-    - '🇭🇰 香港高速'
-    - '🇭🇰 香港高速--2'
-    - '🇭🇰 香港高速-1'
-    - '🇭🇰 香港高速-4'
--
-  name: 🎬国外媒体
-  type: select
-  proxies:
-    - 🔰国外流量
-    - '🇭🇰 b香港高速-5'
-    - '🇯🇵 日本高速'
-    - '🇺🇲 美国新泽西'
-    - '🇺🇲 美国旧金山-中转'
-    - '🇰🇷 韩国高速-1'
-    - '🇭🇰 香港BGP'
-    - '🇭🇰 香港高速'
-    - '🇭🇰 香港高速--2'
-    - '🇭🇰 香港高速-1'
-    - '🇭🇰 香港高速-4'
--
-  name: 🍎苹果服务
-  type: select
-  proxies:
-    - 🚀直接连接
-    - 🔰国外流量
--
-  name: 🚀直接连接
-  type: select
-  proxies:
-    - DIRECT
+  -
+    name: 🔰国外流量
+    type: select
+    proxies:
+      - A新加坡福利节点【免流】
+      - V1-台湾-1-sc-IEPL【2倍率】
+      - V1-台湾-2-sc-广港
+      - V1-菲律宾-2-sc-广港
+      - V1-越南-1-sc-IEPL【2倍率】
+      - V1-越南-2-sc—广港
+      - V1-韩国-1-sc-IEPL【2倍率】
+      - V1-韩国-2-sc-广港
+      - V1-香港-1-sc-IEPL【2倍率】
+      - V1-香港-2-sc-广港
+      - '[Lv1-中转]-加拿大d-1'
+      - '[Lv1-中转]-印度-1-d'
+      - '[Lv1-中转]-印度-2-d'
+      - '[Lv1-日本a]-中转-皖日隧道+L'
+      - '[Lv1-日本b]中转广港BGP+L'
+      - 🚀直接连接
+  -
+    name: ⚓️其他流量
+    type: select
+    proxies:
+      - 🔰国外流量
+      - 🚀直接连接
+  -
+    name: ✈️Telegram
+    type: select
+    proxies:
+      - 🔰国外流量
+      - A新加坡福利节点【免流】
+      - V1-台湾-1-sc-IEPL【2倍率】
+      - V1-台湾-2-sc-广港
+      - V1-菲律宾-2-sc-广港
+      - V1-越南-1-sc-IEPL【2倍率】
+      - V1-越南-2-sc—广港
+      - V1-韩国-1-sc-IEPL【2倍率】
+      - V1-韩国-2-sc-广港
+      - V1-香港-1-sc-IEPL【2倍率】
+      - V1-香港-2-sc-广港
+      - '[Lv1-中转]-加拿大d-1'
+      - '[Lv1-中转]-印度-1-d'
+      - '[Lv1-中转]-印度-2-d'
+      - '[Lv1-日本a]-中转-皖日隧道+L'
+      - '[Lv1-日本b]中转广港BGP+L'
+  -
+    name: 🎬Youtube
+    type: select
+    proxies:
+      - 🔰国外流量
+      - A新加坡福利节点【免流】
+      - V1-台湾-1-sc-IEPL【2倍率】
+      - V1-台湾-2-sc-广港
+      - V1-菲律宾-2-sc-广港
+      - V1-越南-1-sc-IEPL【2倍率】
+      - V1-越南-2-sc—广港
+      - V1-韩国-1-sc-IEPL【2倍率】
+      - V1-韩国-2-sc-广港
+      - V1-香港-1-sc-IEPL【2倍率】
+      - V1-香港-2-sc-广港
+      - '[Lv1-中转]-加拿大d-1'
+      - '[Lv1-中转]-印度-1-d'
+      - '[Lv1-中转]-印度-2-d'
+      - '[Lv1-日本a]-中转-皖日隧道+L'
+      - '[Lv1-日本b]中转广港BGP+L'
+  -
+    name: 🎬Netflix
+    type: select
+    proxies:
+      - 🔰国外流量
+      - A新加坡福利节点【免流】
+      - V1-台湾-1-sc-IEPL【2倍率】
+      - V1-台湾-2-sc-广港
+      - V1-菲律宾-2-sc-广港
+      - V1-越南-1-sc-IEPL【2倍率】
+      - V1-越南-2-sc—广港
+      - V1-韩国-1-sc-IEPL【2倍率】
+      - V1-韩国-2-sc-广港
+      - V1-香港-1-sc-IEPL【2倍率】
+      - V1-香港-2-sc-广港
+      - '[Lv1-中转]-加拿大d-1'
+      - '[Lv1-中转]-印度-1-d'
+      - '[Lv1-中转]-印度-2-d'
+      - '[Lv1-日本a]-中转-皖日隧道+L'
+      - '[Lv1-日本b]中转广港BGP+L'
+  -
+    name: 🎬哔哩哔哩
+    type: select
+    proxies:
+      - 🚀直接连接
+      - A新加坡福利节点【免流】
+      - V1-台湾-1-sc-IEPL【2倍率】
+      - V1-台湾-2-sc-广港
+      - V1-菲律宾-2-sc-广港
+      - V1-越南-1-sc-IEPL【2倍率】
+      - V1-越南-2-sc—广港
+      - V1-韩国-1-sc-IEPL【2倍率】
+      - V1-韩国-2-sc-广港
+      - V1-香港-1-sc-IEPL【2倍率】
+      - V1-香港-2-sc-广港
+      - '[Lv1-中转]-加拿大d-1'
+      - '[Lv1-中转]-印度-1-d'
+      - '[Lv1-中转]-印度-2-d'
+      - '[Lv1-日本a]-中转-皖日隧道+L'
+      - '[Lv1-日本b]中转广港BGP+L'
+  -
+    name: 🎬国外媒体
+    type: select
+    proxies:
+      - 🔰国外流量
+      - A新加坡福利节点【免流】
+      - V1-台湾-1-sc-IEPL【2倍率】
+      - V1-台湾-2-sc-广港
+      - V1-菲律宾-2-sc-广港
+      - V1-越南-1-sc-IEPL【2倍率】
+      - V1-越南-2-sc—广港
+      - V1-韩国-1-sc-IEPL【2倍率】
+      - V1-韩国-2-sc-广港
+      - V1-香港-1-sc-IEPL【2倍率】
+      - V1-香港-2-sc-广港
+      - '[Lv1-中转]-加拿大d-1'
+      - '[Lv1-中转]-印度-1-d'
+      - '[Lv1-中转]-印度-2-d'
+      - '[Lv1-日本a]-中转-皖日隧道+L'
+      - '[Lv1-日本b]中转广港BGP+L'
+  -
+    name: 🍎苹果服务
+    type: select
+    proxies:
+      - 🚀直接连接
+      - 🔰国外流量
+  -
+    name: 🚀直接连接
+    type: select
+    proxies:
+      - DIRECT
 
 
-# 规则
 rules:
   - DOMAIN-SUFFIX,smtp,DIRECT
   - DOMAIN-KEYWORD,aria2,DIRECT
