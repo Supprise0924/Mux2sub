@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://www.yzhxy.top/link/J5B2I1OQOSjYvrGf?clash=1
+#!MANAGED-CONFIG https://www.yzhxy.top/link/vmdPaTylCXvyLrj0?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-09-01 05:35:00
+## 上次更新于：2022-09-01 06:35:30
 #---------------------------------------------------#
 
 port: 7890
@@ -18,7 +18,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46553
-    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    uuid: f13a2161-dd2b-3904-803c-6d19d6376543
     alterId: 0
     cipher: auto
     udp: true
@@ -34,7 +34,7 @@ proxies:
     type: vmess
     server: fsyy.fosi.hk
     port: 25690
-    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    uuid: f13a2161-dd2b-3904-803c-6d19d6376543
     alterId: 0
     cipher: auto
     udp: true
@@ -50,7 +50,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46548
-    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    uuid: f13a2161-dd2b-3904-803c-6d19d6376543
     alterId: 0
     cipher: auto
     udp: true
@@ -66,7 +66,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46559
-    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    uuid: f13a2161-dd2b-3904-803c-6d19d6376543
     alterId: 0
     cipher: auto
     udp: true
@@ -80,25 +80,25 @@ proxies:
   -
     name: V1-越南-1-sc-IEPL【2倍率】
     type: vmess
-    server: gyiepl.1aba.cn
-    port: 36508
-    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    server: fsyy.fosi.hk
+    port: 25693
+    uuid: f13a2161-dd2b-3904-803c-6d19d6376543
     alterId: 0
     cipher: auto
     udp: true
     network: ws
     ws-path: /index
     ws-headers:
-      Host: gyiepl.1aba.cn
+      Host: fsyy.fosi.hk
     ws-opts:
       path: /index
-      headers: { Host: gyiepl.1aba.cn }
+      headers: { Host: fsyy.fosi.hk }
   -
     name: V1-越南-2-sc—广港
     type: vmess
     server: 36.139.9.191
     port: 46549
-    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    uuid: f13a2161-dd2b-3904-803c-6d19d6376543
     alterId: 0
     cipher: auto
     udp: true
@@ -114,7 +114,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 36509
-    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    uuid: f13a2161-dd2b-3904-803c-6d19d6376543
     alterId: 0
     cipher: auto
     udp: true
@@ -130,7 +130,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46550
-    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    uuid: f13a2161-dd2b-3904-803c-6d19d6376543
     alterId: 0
     cipher: auto
     udp: true
@@ -142,11 +142,11 @@ proxies:
       path: /index
       headers: { Host: 36.139.9.191 }
   -
-    name: V1-香港-1-sc-IEPL【2倍率】
+    name: V1-香港-1-sc-【极速节点】2倍率
     type: vmess
     server: fsyy.fosi.hk
     port: 25689
-    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    uuid: f13a2161-dd2b-3904-803c-6d19d6376543
     alterId: 0
     cipher: auto
     udp: true
@@ -162,7 +162,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46560
-    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    uuid: f13a2161-dd2b-3904-803c-6d19d6376543
     alterId: 0
     cipher: auto
     udp: true
@@ -178,7 +178,7 @@ proxies:
     type: vmess
     server: 36.138.4.197
     port: 45504
-    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    uuid: f13a2161-dd2b-3904-803c-6d19d6376543
     alterId: 0
     cipher: auto
     udp: true
@@ -194,7 +194,7 @@ proxies:
     type: vmess
     server: 183.245.147.54
     port: 45428
-    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    uuid: f13a2161-dd2b-3904-803c-6d19d6376543
     alterId: 0
     cipher: auto
     udp: true
@@ -210,7 +210,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46309
-    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    uuid: f13a2161-dd2b-3904-803c-6d19d6376543
     alterId: 2
     cipher: auto
     udp: true
@@ -226,7 +226,7 @@ proxies:
     type: vmess
     server: 36.138.4.197
     port: 45503
-    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    uuid: f13a2161-dd2b-3904-803c-6d19d6376543
     alterId: 2
     cipher: auto
     udp: true
@@ -242,7 +242,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46326
-    uuid: 0900f545-83f1-3860-9dae-7ad60c07cd7a
+    uuid: f13a2161-dd2b-3904-803c-6d19d6376543
     alterId: 2
     cipher: auto
     udp: true
@@ -266,7 +266,7 @@ proxy-groups:
       - V1-越南-2-sc—广港
       - V1-韩国-1-sc-IEPL【2倍率】
       - V1-韩国-2-sc-广港
-      - V1-香港-1-sc-IEPL【2倍率】
+      - V1-香港-1-sc-【极速节点】2倍率
       - V1-香港-2-sc-广港
       - '[Lv1-中转]-加拿大d-1'
       - '[Lv1-中转]-印度-1-d'
@@ -293,7 +293,7 @@ proxy-groups:
       - V1-越南-2-sc—广港
       - V1-韩国-1-sc-IEPL【2倍率】
       - V1-韩国-2-sc-广港
-      - V1-香港-1-sc-IEPL【2倍率】
+      - V1-香港-1-sc-【极速节点】2倍率
       - V1-香港-2-sc-广港
       - '[Lv1-中转]-加拿大d-1'
       - '[Lv1-中转]-印度-1-d'
@@ -313,7 +313,7 @@ proxy-groups:
       - V1-越南-2-sc—广港
       - V1-韩国-1-sc-IEPL【2倍率】
       - V1-韩国-2-sc-广港
-      - V1-香港-1-sc-IEPL【2倍率】
+      - V1-香港-1-sc-【极速节点】2倍率
       - V1-香港-2-sc-广港
       - '[Lv1-中转]-加拿大d-1'
       - '[Lv1-中转]-印度-1-d'
@@ -333,7 +333,7 @@ proxy-groups:
       - V1-越南-2-sc—广港
       - V1-韩国-1-sc-IEPL【2倍率】
       - V1-韩国-2-sc-广港
-      - V1-香港-1-sc-IEPL【2倍率】
+      - V1-香港-1-sc-【极速节点】2倍率
       - V1-香港-2-sc-广港
       - '[Lv1-中转]-加拿大d-1'
       - '[Lv1-中转]-印度-1-d'
@@ -353,7 +353,7 @@ proxy-groups:
       - V1-越南-2-sc—广港
       - V1-韩国-1-sc-IEPL【2倍率】
       - V1-韩国-2-sc-广港
-      - V1-香港-1-sc-IEPL【2倍率】
+      - V1-香港-1-sc-【极速节点】2倍率
       - V1-香港-2-sc-广港
       - '[Lv1-中转]-加拿大d-1'
       - '[Lv1-中转]-印度-1-d'
@@ -373,7 +373,7 @@ proxy-groups:
       - V1-越南-2-sc—广港
       - V1-韩国-1-sc-IEPL【2倍率】
       - V1-韩国-2-sc-广港
-      - V1-香港-1-sc-IEPL【2倍率】
+      - V1-香港-1-sc-【极速节点】2倍率
       - V1-香港-2-sc-广港
       - '[Lv1-中转]-加拿大d-1'
       - '[Lv1-中转]-印度-1-d'
