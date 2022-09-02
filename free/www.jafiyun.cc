@@ -1,7 +1,7 @@
 #---------------------------------------------------#
-## 更新：2022-09-02 06:33:08
+## 更新：2022-09-02 08:57:03
 ## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
-## 链接：https://www.jafiyun.today/link/0fWQmUfV7wpMITFg?clash=1
+## 链接：https://www.jafiyun.today/link/NuOX0wyjj39twmWq?clash=1
 #---------------------------------------------------#
 
 # HTTP 代理端口
@@ -34,33 +34,34 @@ secret: ''
 
 
 proxies:
-  - {"name":"Vip1丨28-台湾丨Trojan丨NETFLIX丨Disney+","type":"trojan","server":"scloud28.jafiyun.world","port":22028,"password":"8d748039-7ac3-3456-9cc6-a0ed2141f1fa","sni":"scloud28.jafiyun.world"}
-  - {"name":"Vip1丨29-台湾丨Trojan丨NETFLIX丨Disney+","type":"trojan","server":"scloud29.jafiyun.world","port":22029,"password":"8d748039-7ac3-3456-9cc6-a0ed2141f1fa","sni":"scloud29.jafiyun.world"}
-  - {"name":"Vip1丨30-台湾丨Trojan丨NETFLIX丨Disney+","type":"trojan","server":"scloud30.jafiyun.world","port":22030,"password":"8d748039-7ac3-3456-9cc6-a0ed2141f1fa","sni":"scloud30.jafiyun.world"}
-  - {"name":"Vip1丨41-香港丨Trojan丨NETFLIX丨Disney+","type":"trojan","server":"scloud41.jafiyun.world","port":22041,"password":"8d748039-7ac3-3456-9cc6-a0ed2141f1fa","sni":"scloud41.jafiyun.world"}
-  - {"name":"Vip1丨42-香港丨Trojan丨NETFLIX丨Disney+","type":"trojan","server":"scloud42.jafiyun.world","port":22042,"password":"8d748039-7ac3-3456-9cc6-a0ed2141f1fa","sni":"scloud42.jafiyun.world"}
-  - {"name":"Vip1丨43-香港丨Trojan丨NETFLIX丨Disney+","type":"trojan","server":"scloud43.jafiyun.world","port":22043,"password":"8d748039-7ac3-3456-9cc6-a0ed2141f1fa","sni":"scloud43.jafiyun.world"}
-  - {"name":"Vip1丨50-日本丨NETFLIX丨Disney+","type":"trojan","server":"scloud50.jafiyun.world","port":22050,"password":"8d748039-7ac3-3456-9cc6-a0ed2141f1fa","sni":"scloud50.jafiyun.world"}
-  - {"name":"Vip1丨51-台湾丨Trojan丨NETFLIX丨Disney+","type":"trojan","server":"scloud51.jafiyun.world","port":22051,"password":"8d748039-7ac3-3456-9cc6-a0ed2141f1fa","sni":"scloud51.jafiyun.world"}
-  - {"name":"Vip1丨52-韩国丨Trojan丨NETFLIX丨Disney+","type":"trojan","server":"scloud52.jafiyun.world","port":22052,"password":"8d748039-7ac3-3456-9cc6-a0ed2141f1fa","sni":"scloud52.jafiyun.world"}
-  - {"name":"Vip1丨57-美国丨Trojan丨NETFLIX丨Disney+","type":"trojan","server":"scloud57.jafiyun.world","port":22057,"password":"8d748039-7ac3-3456-9cc6-a0ed2141f1fa","sni":"scloud57.jafiyun.world"}
-  - {"name":"Vip1丨58-香港丨Trojan丨NETFLIX丨Disney+","type":"trojan","server":"scloud58.jafiyun.world","port":22058,"password":"8d748039-7ac3-3456-9cc6-a0ed2141f1fa","sni":"scloud58.jafiyun.world"}
-  - {"name":"Vip1丨加拿大08丨","type":"vmess","server":"us08.jafiyun.world","port":21121,"uuid":"8d748039-7ac3-3456-9cc6-a0ed2141f1fa","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨印度09丨","type":"vmess","server":"us09.jafiyun.world","port":21122,"uuid":"8d748039-7ac3-3456-9cc6-a0ed2141f1fa","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨巴西丨NETFLIX丨TIKTOK","type":"vmess","server":"br01.jafiyun.world","port":21162,"uuid":"8d748039-7ac3-3456-9cc6-a0ed2141f1fa","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨德国06丨","type":"vmess","server":"us06.jafiyun.world","port":21119,"uuid":"8d748039-7ac3-3456-9cc6-a0ed2141f1fa","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨新加坡01丨倍率*2丨谷歌更新","type":"vmess","server":"sg01.jafiyun.world","port":21104,"uuid":"8d748039-7ac3-3456-9cc6-a0ed2141f1fa","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨新加坡02丨谷歌更新","type":"vmess","server":"sg02.jafiyun.world","port":21105,"uuid":"8d748039-7ac3-3456-9cc6-a0ed2141f1fa","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨新加坡03丨","type":"vmess","server":"sg03.jafiyun.world","port":21106,"uuid":"8d748039-7ac3-3456-9cc6-a0ed2141f1fa","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨日本01丨","type":"vmess","server":"jp01.jafiyun.world","port":21124,"uuid":"8d748039-7ac3-3456-9cc6-a0ed2141f1fa","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨日本02丨","type":"vmess","server":"jp02.jafiyun.world","port":21125,"uuid":"8d748039-7ac3-3456-9cc6-a0ed2141f1fa","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨澳大利亚01丨61 丨","type":"vmess","server":"au01.jafiyun.world","port":21161,"uuid":"8d748039-7ac3-3456-9cc6-a0ed2141f1fa","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨美国01丨 ","type":"vmess","server":"us01.jafiyun.world","port":21114,"uuid":"8d748039-7ac3-3456-9cc6-a0ed2141f1fa","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨美国02丨","type":"vmess","server":"us02.jafiyun.world","port":21115,"uuid":"8d748039-7ac3-3456-9cc6-a0ed2141f1fa","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨美国03丨","type":"vmess","server":"us03.jafiyun.world","port":21116,"uuid":"8d748039-7ac3-3456-9cc6-a0ed2141f1fa","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨英国10丨","type":"vmess","server":"us10.jafiyun.world","port":21123,"uuid":"8d748039-7ac3-3456-9cc6-a0ed2141f1fa","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨荷兰07丨","type":"vmess","server":"us07.jafiyun.world","port":21120,"uuid":"8d748039-7ac3-3456-9cc6-a0ed2141f1fa","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨阿联酋-迪拜丨TIKTOK","type":"vmess","server":"ae01.jafiyun.world","port":21164,"uuid":"8d748039-7ac3-3456-9cc6-a0ed2141f1fa","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨28-台湾丨Trojan丨NETFLIX丨Disney+","type":"trojan","server":"scloud28.jafiyun.world","port":22028,"password":"f02c2486-6ca7-363d-a4cc-2b70b1979824","sni":"scloud28.jafiyun.world"}
+  - {"name":"Vip1丨29-台湾丨Trojan丨NETFLIX丨Disney+","type":"trojan","server":"scloud29.jafiyun.world","port":22029,"password":"f02c2486-6ca7-363d-a4cc-2b70b1979824","sni":"scloud29.jafiyun.world"}
+  - {"name":"Vip1丨30-台湾丨Trojan丨NETFLIX丨Disney+","type":"trojan","server":"scloud30.jafiyun.world","port":22030,"password":"f02c2486-6ca7-363d-a4cc-2b70b1979824","sni":"scloud30.jafiyun.world"}
+  - {"name":"Vip1丨41-香港丨Trojan丨NETFLIX丨Disney+","type":"trojan","server":"scloud41.jafiyun.world","port":22041,"password":"f02c2486-6ca7-363d-a4cc-2b70b1979824","sni":"scloud41.jafiyun.world"}
+  - {"name":"Vip1丨42-香港丨Trojan丨NETFLIX丨Disney+","type":"trojan","server":"scloud42.jafiyun.world","port":22042,"password":"f02c2486-6ca7-363d-a4cc-2b70b1979824","sni":"scloud42.jafiyun.world"}
+  - {"name":"Vip1丨43-香港丨Trojan丨NETFLIX丨Disney+","type":"trojan","server":"scloud43.jafiyun.world","port":22043,"password":"f02c2486-6ca7-363d-a4cc-2b70b1979824","sni":"scloud43.jafiyun.world"}
+  - {"name":"Vip1丨50-日本丨NETFLIX丨Disney+","type":"trojan","server":"scloud50.jafiyun.world","port":22050,"password":"f02c2486-6ca7-363d-a4cc-2b70b1979824","sni":"scloud50.jafiyun.world"}
+  - {"name":"Vip1丨51-台湾丨Trojan丨NETFLIX丨Disney+","type":"trojan","server":"scloud51.jafiyun.world","port":22051,"password":"f02c2486-6ca7-363d-a4cc-2b70b1979824","sni":"scloud51.jafiyun.world"}
+  - {"name":"Vip1丨52-韩国丨Trojan丨NETFLIX丨Disney+","type":"trojan","server":"scloud52.jafiyun.world","port":22052,"password":"f02c2486-6ca7-363d-a4cc-2b70b1979824","sni":"scloud52.jafiyun.world"}
+  - {"name":"Vip1丨57-美国丨Trojan丨NETFLIX丨Disney+","type":"trojan","server":"scloud57.jafiyun.world","port":22057,"password":"f02c2486-6ca7-363d-a4cc-2b70b1979824","sni":"scloud57.jafiyun.world"}
+  - {"name":"Vip1丨58-香港丨Trojan丨NETFLIX丨Disney+","type":"trojan","server":"scloud58.jafiyun.world","port":22058,"password":"f02c2486-6ca7-363d-a4cc-2b70b1979824","sni":"scloud58.jafiyun.world"}
+  - {"name":"Vip1丨加拿大08丨","type":"vmess","server":"us08.jafiyun.world","port":21121,"uuid":"f02c2486-6ca7-363d-a4cc-2b70b1979824","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨印度09丨","type":"vmess","server":"us09.jafiyun.world","port":21122,"uuid":"f02c2486-6ca7-363d-a4cc-2b70b1979824","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨巴西丨NETFLIX丨TIKTOK","type":"vmess","server":"br01.jafiyun.world","port":21162,"uuid":"f02c2486-6ca7-363d-a4cc-2b70b1979824","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨德国06丨","type":"vmess","server":"us06.jafiyun.world","port":21119,"uuid":"f02c2486-6ca7-363d-a4cc-2b70b1979824","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨新加坡01丨倍率*2丨谷歌更新","type":"vmess","server":"sg01.jafiyun.world","port":21104,"uuid":"f02c2486-6ca7-363d-a4cc-2b70b1979824","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨新加坡02丨谷歌更新","type":"vmess","server":"sg02.jafiyun.world","port":21105,"uuid":"f02c2486-6ca7-363d-a4cc-2b70b1979824","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨新加坡03丨","type":"vmess","server":"sg03.jafiyun.world","port":21106,"uuid":"f02c2486-6ca7-363d-a4cc-2b70b1979824","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨日本01丨","type":"vmess","server":"jp01.jafiyun.world","port":21124,"uuid":"f02c2486-6ca7-363d-a4cc-2b70b1979824","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨日本02丨","type":"vmess","server":"jp02.jafiyun.world","port":21125,"uuid":"f02c2486-6ca7-363d-a4cc-2b70b1979824","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨日本03丨","type":"vmess","server":"jp03.jafiyun.world","port":21126,"uuid":"f02c2486-6ca7-363d-a4cc-2b70b1979824","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨澳大利亚01丨61 丨","type":"vmess","server":"au01.jafiyun.world","port":21161,"uuid":"f02c2486-6ca7-363d-a4cc-2b70b1979824","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨美国01丨 ","type":"vmess","server":"us01.jafiyun.world","port":21114,"uuid":"f02c2486-6ca7-363d-a4cc-2b70b1979824","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨美国02丨","type":"vmess","server":"us02.jafiyun.world","port":21115,"uuid":"f02c2486-6ca7-363d-a4cc-2b70b1979824","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨美国03丨","type":"vmess","server":"us03.jafiyun.world","port":21116,"uuid":"f02c2486-6ca7-363d-a4cc-2b70b1979824","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨英国10丨","type":"vmess","server":"us10.jafiyun.world","port":21123,"uuid":"f02c2486-6ca7-363d-a4cc-2b70b1979824","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨荷兰07丨","type":"vmess","server":"us07.jafiyun.world","port":21120,"uuid":"f02c2486-6ca7-363d-a4cc-2b70b1979824","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨阿联酋-迪拜丨TIKTOK","type":"vmess","server":"ae01.jafiyun.world","port":21164,"uuid":"f02c2486-6ca7-363d-a4cc-2b70b1979824","alterId":2,"cipher":"auto","udp":true}
 
 proxy-groups:
 -
@@ -87,6 +88,7 @@ proxy-groups:
     - Vip1丨新加坡03丨
     - Vip1丨日本01丨
     - Vip1丨日本02丨
+    - Vip1丨日本03丨
     - 'Vip1丨澳大利亚01丨61 丨'
     - 'Vip1丨美国01丨 '
     - Vip1丨美国02丨
