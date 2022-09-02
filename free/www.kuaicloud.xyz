@@ -1,7 +1,7 @@
 #---------------------------------------------------#
-## 更新：2022-09-02 02:53:36
+## 更新：2022-09-02 04:36:18
 ## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
-## 链接：https://a.kuaicloud.xyz/link/hviA6hqwRa9mVVyn?clash=1
+## 链接：https://a.kuaicloud.xyz/link/3MbrWCELEdNj2p3B?clash=1
 #---------------------------------------------------#
 
 # HTTP 代理端口
@@ -34,16 +34,17 @@ secret: ''
 
 
 proxies:
-  - {"name":"🇭🇰 b香港高速-5","type":"vmess","server":"xg5.dianshangqw.xyz","port":16666,"uuid":"9cf4b1b9-7db2-3e8f-be85-53f4f4516599","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇸🇬 新加坡高速","type":"vmess","server":"xjp.dianshangqw.xyz","port":16666,"uuid":"9cf4b1b9-7db2-3e8f-be85-53f4f4516599","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇯🇵 日本高速","type":"vmess","server":"rb.dianshangqw.xyz","port":16666,"uuid":"9cf4b1b9-7db2-3e8f-be85-53f4f4516599","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇺🇲 美国新泽西","type":"vmess","server":"usa1.dianshangqw.xyz","port":16666,"uuid":"9cf4b1b9-7db2-3e8f-be85-53f4f4516599","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇺🇲 美国旧金山-中转","type":"vmess","server":"36.139.9.191","port":45586,"uuid":"9cf4b1b9-7db2-3e8f-be85-53f4f4516599","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇰🇷 韩国高速-1","type":"vmess","server":"hg.dianshangqw.xyz","port":16666,"uuid":"9cf4b1b9-7db2-3e8f-be85-53f4f4516599","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇭🇰 香港BGP","type":"vmess","server":"xg33.dianshangqw.xyz","port":16666,"uuid":"9cf4b1b9-7db2-3e8f-be85-53f4f4516599","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇭🇰 香港高速","type":"vmess","server":"xgzh.dianshangqw.xyz","port":16666,"uuid":"9cf4b1b9-7db2-3e8f-be85-53f4f4516599","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇭🇰 香港高速--2","type":"vmess","server":"xg2.dianshangqw.xyz","port":16666,"uuid":"9cf4b1b9-7db2-3e8f-be85-53f4f4516599","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇭🇰 香港高速-1","type":"vmess","server":"azxg.dianshangqw.xyz","port":16666,"uuid":"9cf4b1b9-7db2-3e8f-be85-53f4f4516599","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
+  - {"name":"🇭🇰 b香港高速-5","type":"vmess","server":"xg5.dianshangqw.xyz","port":16666,"uuid":"141d1ae9-701f-338d-80e2-449f9c53dbec","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
+  - {"name":"🇸🇬 新加坡高速","type":"vmess","server":"xjp.dianshangqw.xyz","port":16666,"uuid":"141d1ae9-701f-338d-80e2-449f9c53dbec","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
+  - {"name":"🇯🇵 日本高速","type":"vmess","server":"rb.dianshangqw.xyz","port":16666,"uuid":"141d1ae9-701f-338d-80e2-449f9c53dbec","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
+  - {"name":"🇯🇵 日本高速1","type":"vmess","server":"rb1.dianshangqw.xyz","port":16666,"uuid":"141d1ae9-701f-338d-80e2-449f9c53dbec","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
+  - {"name":"🇺🇲 美国新泽西","type":"vmess","server":"usa1.dianshangqw.xyz","port":16666,"uuid":"141d1ae9-701f-338d-80e2-449f9c53dbec","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
+  - {"name":"🇺🇲 美国旧金山-中转","type":"vmess","server":"36.139.9.191","port":45586,"uuid":"141d1ae9-701f-338d-80e2-449f9c53dbec","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
+  - {"name":"🇰🇷 韩国高速-1","type":"vmess","server":"hg.dianshangqw.xyz","port":16666,"uuid":"141d1ae9-701f-338d-80e2-449f9c53dbec","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
+  - {"name":"🇭🇰 香港BGP","type":"vmess","server":"xg33.dianshangqw.xyz","port":16666,"uuid":"141d1ae9-701f-338d-80e2-449f9c53dbec","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
+  - {"name":"🇭🇰 香港高速","type":"vmess","server":"xgzh.dianshangqw.xyz","port":16666,"uuid":"141d1ae9-701f-338d-80e2-449f9c53dbec","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
+  - {"name":"🇭🇰 香港高速--2","type":"vmess","server":"xg2.dianshangqw.xyz","port":16666,"uuid":"141d1ae9-701f-338d-80e2-449f9c53dbec","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
+  - {"name":"🇭🇰 香港高速-1","type":"vmess","server":"azxg.dianshangqw.xyz","port":16666,"uuid":"141d1ae9-701f-338d-80e2-449f9c53dbec","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
 
 proxy-groups:
 -
@@ -53,6 +54,7 @@ proxy-groups:
     - '🇭🇰 b香港高速-5'
     - '🇸🇬 新加坡高速'
     - '🇯🇵 日本高速'
+    - '🇯🇵 日本高速1'
     - '🇺🇲 美国新泽西'
     - '🇺🇲 美国旧金山-中转'
     - '🇰🇷 韩国高速-1'
@@ -75,6 +77,7 @@ proxy-groups:
     - '🇭🇰 b香港高速-5'
     - '🇸🇬 新加坡高速'
     - '🇯🇵 日本高速'
+    - '🇯🇵 日本高速1'
     - '🇺🇲 美国新泽西'
     - '🇺🇲 美国旧金山-中转'
     - '🇰🇷 韩国高速-1'
@@ -90,6 +93,7 @@ proxy-groups:
     - '🇭🇰 b香港高速-5'
     - '🇸🇬 新加坡高速'
     - '🇯🇵 日本高速'
+    - '🇯🇵 日本高速1'
     - '🇺🇲 美国新泽西'
     - '🇺🇲 美国旧金山-中转'
     - '🇰🇷 韩国高速-1'
@@ -105,6 +109,7 @@ proxy-groups:
     - '🇭🇰 b香港高速-5'
     - '🇸🇬 新加坡高速'
     - '🇯🇵 日本高速'
+    - '🇯🇵 日本高速1'
     - '🇺🇲 美国新泽西'
     - '🇺🇲 美国旧金山-中转'
     - '🇰🇷 韩国高速-1'
@@ -120,6 +125,7 @@ proxy-groups:
     - '🇭🇰 b香港高速-5'
     - '🇸🇬 新加坡高速'
     - '🇯🇵 日本高速'
+    - '🇯🇵 日本高速1'
     - '🇺🇲 美国新泽西'
     - '🇺🇲 美国旧金山-中转'
     - '🇰🇷 韩国高速-1'
@@ -135,6 +141,7 @@ proxy-groups:
     - '🇭🇰 b香港高速-5'
     - '🇸🇬 新加坡高速'
     - '🇯🇵 日本高速'
+    - '🇯🇵 日本高速1'
     - '🇺🇲 美国新泽西'
     - '🇺🇲 美国旧金山-中转'
     - '🇰🇷 韩国高速-1'
