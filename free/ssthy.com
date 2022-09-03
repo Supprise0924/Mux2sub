@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://ssthy.net/link/vjAeG6BYvGDr7GYz?clash=1
+#!MANAGED-CONFIG https://ssthy.net/link/TYKZYIRRAIqGQ1KV?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-09-03 10:28:28
+## 上次更新于：2022-09-04 12:42:57
 #---------------------------------------------------#
 
 port: 7890
@@ -14,11 +14,11 @@ external-controller: '0.0.0.0:9090'
 secret: ''
 proxies:
   -
-    name: '国内 ssthy.net | x2.0 | 免费节点'
+    name: '国内 ssthy.net | x1.0 | 免费节点'
     type: vmess
     server: s400l.cmcuct.org
     port: 24488
-    uuid: 9476efd9-b1a9-37af-8847-888a39feb7fd
+    uuid: ffb1acc1-2c84-30ea-a070-2b9cd86b86a4
     alterId: 0
     cipher: auto
     udp: true
@@ -35,7 +35,7 @@ proxies:
     type: vmess
     server: sd2.cmcuct.org
     port: 24402
-    uuid: 9476efd9-b1a9-37af-8847-888a39feb7fd
+    uuid: ffb1acc1-2c84-30ea-a070-2b9cd86b86a4
     alterId: 0
     cipher: auto
     udp: true
@@ -52,7 +52,7 @@ proxy-groups:
     name: 🔰国外流量
     type: select
     proxies:
-      - '国内 ssthy.net | x2.0 | 免费节点'
+      - '国内 ssthy.net | x1.0 | 免费节点'
       - '国际 ssthy.com | x0.5 | 免费节点'
       - 🚀直接连接
   -
@@ -66,35 +66,35 @@ proxy-groups:
     type: select
     proxies:
       - 🔰国外流量
-      - '国内 ssthy.net | x2.0 | 免费节点'
+      - '国内 ssthy.net | x1.0 | 免费节点'
       - '国际 ssthy.com | x0.5 | 免费节点'
   -
     name: 🎬Youtube
     type: select
     proxies:
       - 🔰国外流量
-      - '国内 ssthy.net | x2.0 | 免费节点'
+      - '国内 ssthy.net | x1.0 | 免费节点'
       - '国际 ssthy.com | x0.5 | 免费节点'
   -
     name: 🎬Netflix
     type: select
     proxies:
       - 🔰国外流量
-      - '国内 ssthy.net | x2.0 | 免费节点'
+      - '国内 ssthy.net | x1.0 | 免费节点'
       - '国际 ssthy.com | x0.5 | 免费节点'
   -
     name: 🎬哔哩哔哩
     type: select
     proxies:
       - 🚀直接连接
-      - '国内 ssthy.net | x2.0 | 免费节点'
+      - '国内 ssthy.net | x1.0 | 免费节点'
       - '国际 ssthy.com | x0.5 | 免费节点'
   -
     name: 🎬国外媒体
     type: select
     proxies:
       - 🔰国外流量
-      - '国内 ssthy.net | x2.0 | 免费节点'
+      - '国内 ssthy.net | x1.0 | 免费节点'
       - '国际 ssthy.com | x0.5 | 免费节点'
   -
     name: 🍎苹果服务
