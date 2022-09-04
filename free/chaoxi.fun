@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://chaoxi.run-17.xyz/link/nWlwplHLUoNb6dcv?clash=1
+#!MANAGED-CONFIG https://chaoxi.run-23.xyz/link/VhgdXThmJ906BtW0?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-09-04 08:54:57
+## 上次更新于：2022-09-04 10:28:16
 #---------------------------------------------------#
 
 mixed-port: 7890
