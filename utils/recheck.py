@@ -75,7 +75,7 @@ if __name__ == '__main__':
 
     with open('./urllist', 'r') as f:
         data = f.read()
-    url_list = data.split('\n')
+    url_list = data.split()
     new_list = list(set(url_list))
     with open("./urllist", "w") as f:
         # str = '\n'
@@ -85,7 +85,7 @@ if __name__ == '__main__':
     
     with open('./logs/old/old', 'r') as f:
         data = f.read()
-    url_list = data.split('\n')
+    url_list = data.split()
     old_list.extend(url_list)
     new_list = list(set(old_list))
     with open("./logs/old/old", "w") as f:
@@ -97,7 +97,7 @@ if __name__ == '__main__':
     
     with open('./logs/old/bin', 'r') as f:
         data = f.read()
-    url_list = data.split('\n')
+    url_list = data.split()
     bin_list.extend(url_list)
     new_list = list(set(old_list))
     with open("./logs/old/bin", "w") as f:
