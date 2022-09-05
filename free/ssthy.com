@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://ssthy.net/link/8SHlwyHnNPnJjBRk?clash=1
+#!MANAGED-CONFIG https://ssthy.net/link/FhouxVv1BOkRzFgA?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-09-05 06:35:35
+## 上次更新于：2022-09-05 08:59:28
 #---------------------------------------------------#
 
 port: 7890
@@ -14,11 +14,11 @@ external-controller: '0.0.0.0:9090'
 secret: ''
 proxies:
   -
-    name: '国内 ssthy.net | x1.0 | 免费节点'
+    name: '国内 ssthy.net | x0.3 | 免费节点'
     type: vmess
     server: s400l.cmcuct.org
     port: 24488
-    uuid: c2c3bcc6-3ed9-3406-acb1-b353644d7741
+    uuid: d3efc48a-3221-3149-a759-796a852dc9cd
     alterId: 0
     cipher: auto
     udp: true
@@ -31,11 +31,11 @@ proxies:
       path: /download
       headers: { Host: us.domain.com }
   -
-    name: '国际 ssthy.com | x0.5 | 免费节点'
+    name: '国际 ssthy.com | x0.1 | 免费节点'
     type: vmess
     server: sd2.cmcuct.org
     port: 24402
-    uuid: c2c3bcc6-3ed9-3406-acb1-b353644d7741
+    uuid: d3efc48a-3221-3149-a759-796a852dc9cd
     alterId: 0
     cipher: auto
     udp: true
@@ -52,8 +52,8 @@ proxy-groups:
     name: 🔰国外流量
     type: select
     proxies:
-      - '国内 ssthy.net | x1.0 | 免费节点'
-      - '国际 ssthy.com | x0.5 | 免费节点'
+      - '国内 ssthy.net | x0.3 | 免费节点'
+      - '国际 ssthy.com | x0.1 | 免费节点'
       - 🚀直接连接
   -
     name: ⚓️其他流量
@@ -66,36 +66,36 @@ proxy-groups:
     type: select
     proxies:
       - 🔰国外流量
-      - '国内 ssthy.net | x1.0 | 免费节点'
-      - '国际 ssthy.com | x0.5 | 免费节点'
+      - '国内 ssthy.net | x0.3 | 免费节点'
+      - '国际 ssthy.com | x0.1 | 免费节点'
   -
     name: 🎬Youtube
     type: select
     proxies:
       - 🔰国外流量
-      - '国内 ssthy.net | x1.0 | 免费节点'
-      - '国际 ssthy.com | x0.5 | 免费节点'
+      - '国内 ssthy.net | x0.3 | 免费节点'
+      - '国际 ssthy.com | x0.1 | 免费节点'
   -
     name: 🎬Netflix
     type: select
     proxies:
       - 🔰国外流量
-      - '国内 ssthy.net | x1.0 | 免费节点'
-      - '国际 ssthy.com | x0.5 | 免费节点'
+      - '国内 ssthy.net | x0.3 | 免费节点'
+      - '国际 ssthy.com | x0.1 | 免费节点'
   -
     name: 🎬哔哩哔哩
     type: select
     proxies:
       - 🚀直接连接
-      - '国内 ssthy.net | x1.0 | 免费节点'
-      - '国际 ssthy.com | x0.5 | 免费节点'
+      - '国内 ssthy.net | x0.3 | 免费节点'
+      - '国际 ssthy.com | x0.1 | 免费节点'
   -
     name: 🎬国外媒体
     type: select
     proxies:
       - 🔰国外流量
-      - '国内 ssthy.net | x1.0 | 免费节点'
-      - '国际 ssthy.com | x0.5 | 免费节点'
+      - '国内 ssthy.net | x0.3 | 免费节点'
+      - '国际 ssthy.com | x0.1 | 免费节点'
   -
     name: 🍎苹果服务
     type: select
