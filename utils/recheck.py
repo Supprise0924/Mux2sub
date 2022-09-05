@@ -99,7 +99,7 @@ if __name__ == '__main__':
         data = f.read()
     url_list = data.split()
     bin_list.extend(url_list)
-    new_list = list(set(old_list))
+    new_list = list(set(bin_list))
     with open("./logs/old/bin", "w") as f:
         # str = '\n'
         # f.write(str.join(list))
