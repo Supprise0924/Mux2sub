@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://sttlink.com/link/CmKn0SpHqjv36jiQ?clash=1
+#!MANAGED-CONFIG https://sttlink.com/link/BpK7Yhckx6KuA0Tn?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-09-06 11:10:38
+## 上次更新于：2022-09-06 01:48:06
 #---------------------------------------------------#
 
 port: 7890
@@ -18,7 +18,7 @@ proxies:
     type: vmess
     server: 127.0.0.1
     port: 80
-    uuid: cc9635e7-f1b1-38b5-b7a1-55d3327ed42f
+    uuid: 5cd6dae2-de7d-3af1-bfd1-48090fb60c86
     alterId: 0
     cipher: auto
     udp: true
