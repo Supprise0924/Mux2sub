@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://www.yzhxy.top/link/1WgsewKwMhWYk44R?clash=1
+#!MANAGED-CONFIG https://www.yzhxy.top/link/5bxd0u7Jp5M2pKtt?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-09-08 02:41:24
+## 上次更新于：2022-09-08 04:37:54
 #---------------------------------------------------#
 
 port: 7890
@@ -18,7 +18,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46553
-    uuid: e706a266-3729-315c-91dd-57552323bf13
+    uuid: 7f735b68-afac-3dd0-8f7e-ff4d3bee6776
     alterId: 0
     cipher: auto
     udp: true
@@ -34,7 +34,7 @@ proxies:
     type: vmess
     server: fsyy.fosi.hk
     port: 25690
-    uuid: e706a266-3729-315c-91dd-57552323bf13
+    uuid: 7f735b68-afac-3dd0-8f7e-ff4d3bee6776
     alterId: 0
     cipher: auto
     udp: true
@@ -50,7 +50,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46548
-    uuid: e706a266-3729-315c-91dd-57552323bf13
+    uuid: 7f735b68-afac-3dd0-8f7e-ff4d3bee6776
     alterId: 0
     cipher: auto
     udp: true
@@ -66,7 +66,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46559
-    uuid: e706a266-3729-315c-91dd-57552323bf13
+    uuid: 7f735b68-afac-3dd0-8f7e-ff4d3bee6776
     alterId: 0
     cipher: auto
     udp: true
@@ -82,7 +82,7 @@ proxies:
     type: vmess
     server: fsyy.fosi.hk
     port: 25693
-    uuid: e706a266-3729-315c-91dd-57552323bf13
+    uuid: 7f735b68-afac-3dd0-8f7e-ff4d3bee6776
     alterId: 0
     cipher: auto
     udp: true
@@ -98,7 +98,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46549
-    uuid: e706a266-3729-315c-91dd-57552323bf13
+    uuid: 7f735b68-afac-3dd0-8f7e-ff4d3bee6776
     alterId: 0
     cipher: auto
     udp: true
@@ -114,7 +114,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 36509
-    uuid: e706a266-3729-315c-91dd-57552323bf13
+    uuid: 7f735b68-afac-3dd0-8f7e-ff4d3bee6776
     alterId: 0
     cipher: auto
     udp: true
@@ -130,7 +130,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46550
-    uuid: e706a266-3729-315c-91dd-57552323bf13
+    uuid: 7f735b68-afac-3dd0-8f7e-ff4d3bee6776
     alterId: 0
     cipher: auto
     udp: true
@@ -146,7 +146,7 @@ proxies:
     type: vmess
     server: fsyy.fosi.hk
     port: 25689
-    uuid: e706a266-3729-315c-91dd-57552323bf13
+    uuid: 7f735b68-afac-3dd0-8f7e-ff4d3bee6776
     alterId: 0
     cipher: auto
     udp: true
@@ -162,7 +162,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46560
-    uuid: e706a266-3729-315c-91dd-57552323bf13
+    uuid: 7f735b68-afac-3dd0-8f7e-ff4d3bee6776
     alterId: 0
     cipher: auto
     udp: true
@@ -178,7 +178,7 @@ proxies:
     type: vmess
     server: 36.138.4.197
     port: 45504
-    uuid: e706a266-3729-315c-91dd-57552323bf13
+    uuid: 7f735b68-afac-3dd0-8f7e-ff4d3bee6776
     alterId: 0
     cipher: auto
     udp: true
@@ -194,7 +194,7 @@ proxies:
     type: vmess
     server: 183.245.147.54
     port: 45428
-    uuid: e706a266-3729-315c-91dd-57552323bf13
+    uuid: 7f735b68-afac-3dd0-8f7e-ff4d3bee6776
     alterId: 0
     cipher: auto
     udp: true
@@ -210,7 +210,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46309
-    uuid: e706a266-3729-315c-91dd-57552323bf13
+    uuid: 7f735b68-afac-3dd0-8f7e-ff4d3bee6776
     alterId: 2
     cipher: auto
     udp: true
@@ -226,7 +226,7 @@ proxies:
     type: vmess
     server: 36.138.4.197
     port: 45503
-    uuid: e706a266-3729-315c-91dd-57552323bf13
+    uuid: 7f735b68-afac-3dd0-8f7e-ff4d3bee6776
     alterId: 2
     cipher: auto
     udp: true
@@ -242,7 +242,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46326
-    uuid: e706a266-3729-315c-91dd-57552323bf13
+    uuid: 7f735b68-afac-3dd0-8f7e-ff4d3bee6776
     alterId: 2
     cipher: auto
     udp: true
