@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://sttlink.cc/link/sg9A9sh40FiPlzMJ?clash=1
+#!MANAGED-CONFIG https://sttlink.cc/link/zy32sR6j32FdlRZU?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-09-07 03:09:38
+## 上次更新于：2022-09-07 04:42:05
 #---------------------------------------------------#
 
 port: 7890
@@ -18,7 +18,7 @@ proxies:
     type: vmess
     server: 127.0.0.1
     port: 80
-    uuid: 6ca13d05-5dc2-3fb8-ac20-0c2d5ad3a4b5
+    uuid: 2b816d1f-c334-3af8-8790-26218715f3e1
     alterId: 0
     cipher: auto
     udp: true
@@ -152,6 +152,129 @@ rules:
  - DOMAIN-SUFFIX,disneystreaming.com,🎬Disney+
  - DOMAIN-SUFFIX,dssott.com,🎬Disney+
  - DOMAIN,cdn.registerdisney.go.com,🎬Disney+
+ - DOMAIN-SUFFIX,disney.asia,🎬Disney+
+ - DOMAIN-SUFFIX,disney.be,🎬Disney+
+ - DOMAIN-SUFFIX,disney.bg,🎬Disney+
+ - DOMAIN-SUFFIX,disney.ca,🎬Disney+
+ - DOMAIN-SUFFIX,disney.ch,🎬Disney+
+ - DOMAIN-SUFFIX,disney.co.il,🎬Disney+
+ - DOMAIN-SUFFIX,disney.co.jp,🎬Disney+
+ - DOMAIN-SUFFIX,disney.co.kr,🎬Disney+
+ - DOMAIN-SUFFIX,disney.co.th,🎬Disney+
+ - DOMAIN-SUFFIX,disney.co.uk,🎬Disney+
+ - DOMAIN-SUFFIX,disney.co.za,🎬Disney+
+ - DOMAIN-SUFFIX,disney.com,🎬Disney+
+ - DOMAIN-SUFFIX,disney.com.au,🎬Disney+
+ - DOMAIN-SUFFIX,disney.com.br,🎬Disney+
+ - DOMAIN-SUFFIX,disney.com.hk,🎬Disney+
+ - DOMAIN-SUFFIX,disney.com.tw,🎬Disney+
+ - DOMAIN-SUFFIX,disney.cz,🎬Disney+
+ - DOMAIN-SUFFIX,disney.de,🎬Disney+
+ - DOMAIN-SUFFIX,disney.dk,🎬Disney+
+ - DOMAIN-SUFFIX,disney.es,🎬Disney+
+ - DOMAIN-SUFFIX,disney.fi,🎬Disney+
+ - DOMAIN-SUFFIX,disney.fr,🎬Disney+
+ - DOMAIN-SUFFIX,disney.gr,🎬Disney+
+ - DOMAIN-SUFFIX,disney.hu,🎬Disney+
+ - DOMAIN-SUFFIX,disney.id,🎬Disney+
+ - DOMAIN-SUFFIX,disney.in,🎬Disney+
+ - DOMAIN-SUFFIX,disney.io,🎬Disney+
+ - DOMAIN-SUFFIX,disney.it,🎬Disney+
+ - DOMAIN-SUFFIX,disney.my,🎬Disney+
+ - DOMAIN-SUFFIX,disney.nl,🎬Disney+
+ - DOMAIN-SUFFIX,disney.no,🎬Disney+
+ - DOMAIN-SUFFIX,disney.ph,🎬Disney+
+ - DOMAIN-SUFFIX,disney.pl,🎬Disney+
+ - DOMAIN-SUFFIX,disney.pt,🎬Disney+
+ - DOMAIN-SUFFIX,disney.ro,🎬Disney+
+ - DOMAIN-SUFFIX,disney.ru,🎬Disney+
+ - DOMAIN-SUFFIX,disney.se,🎬Disney+
+ - DOMAIN-SUFFIX,disney.sg,🎬Disney+
+ - DOMAIN-SUFFIX,20thcenturystudios.com.au,🎬Disney+
+ - DOMAIN-SUFFIX,20thcenturystudios.com.br,🎬Disney+
+ - DOMAIN-SUFFIX,20thcenturystudios.jp,🎬Disney+
+ - DOMAIN-SUFFIX,adventuresbydisney.com,🎬Disney+
+ - DOMAIN-SUFFIX,babble.com,🎬Disney+
+ - DOMAIN-SUFFIX,babyzone.com,🎬Disney+
+ - DOMAIN-SUFFIX,bamgrid.com,🎬Disney+
+ - DOMAIN-SUFFIX,beautyandthebeastmusical.co.uk,🎬Disney+
+ - DOMAIN-SUFFIX,dilcdn.com,🎬Disney+
+ - DOMAIN-SUFFIX,disney-asia.com,🎬Disney+
+ - DOMAIN-SUFFIX,disney-discount.com,🎬Disney+
+ - DOMAIN-SUFFIX,disney-plus.net,🎬Disney+
+ - DOMAIN-SUFFIX,disney-portal.my.onetrust.com,🎬Disney+
+ - DOMAIN-SUFFIX,disney-studio.com,🎬Disney+
+ - DOMAIN-SUFFIX,disney-studio.net,🎬Disney+
+ - DOMAIN-SUFFIX,disney.my.sentry.io,🎬Disney+
+ - DOMAIN-SUFFIX,disneyadsales.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneyarena.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneyaulani.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneybaby.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneycareers.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneychannelonstage.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneychannelroadtrip.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneycruisebrasil.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneyenconcert.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneyiejobs.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneyinflight.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneyinternational.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneyinternationalhd.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneyjunior.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneyjuniortreataday.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneylatino.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneymagicmoments.co.il,🎬Disney+
+ - DOMAIN-SUFFIX,disneymagicmoments.co.uk,🎬Disney+
+ - DOMAIN-SUFFIX,disneymagicmoments.co.za,🎬Disney+
+ - DOMAIN-SUFFIX,disneymagicmoments.de,🎬Disney+
+ - DOMAIN-SUFFIX,disneymagicmoments.es,🎬Disney+
+ - DOMAIN-SUFFIX,disneymagicmoments.fr,🎬Disney+
+ - DOMAIN-SUFFIX,disneymagicmoments.gen.tr,🎬Disney+
+ - DOMAIN-SUFFIX,disneymagicmoments.gr,🎬Disney+
+ - DOMAIN-SUFFIX,disneymagicmoments.it,🎬Disney+
+ - DOMAIN-SUFFIX,disneymagicmoments.pl,🎬Disney+
+ - DOMAIN-SUFFIX,disneymagicmomentsme.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneyme.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneymeetingsandevents.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneymovieinsiders.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneymusicpromotion.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneynewseries.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneynow.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneypeoplesurveys.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneyplus.bn5x.net,🎬Disney+
+ - DOMAIN-SUFFIX,disneyplus.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net,🎬Disney+
+ - DOMAIN-SUFFIX,disneyredirects.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneysrivieraresort.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneystore.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneystreaming.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneysubscription.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneytickets.co.uk,🎬Disney+
+ - DOMAIN-SUFFIX,disneyturkiye.com.tr,🎬Disney+
+ - DOMAIN-SUFFIX,disneytvajobs.com,🎬Disney+
+ - DOMAIN-SUFFIX,disneyworld-go.com,🎬Disney+
+ - DOMAIN-SUFFIX,dssott.com,🎬Disney+
+ - DOMAIN-SUFFIX,go-disneyworldgo.com,🎬Disney+
+ - DOMAIN-SUFFIX,go.com,🎬Disney+
+ - DOMAIN-SUFFIX,mickey.tv,🎬Disney+
+ - DOMAIN-SUFFIX,moviesanywhere.com,🎬Disney+
+ - DOMAIN-SUFFIX,nomadlandmovie.ch,🎬Disney+
+ - DOMAIN-SUFFIX,playmation.com,🎬Disney+
+ - DOMAIN-SUFFIX,shopdisney.com,🎬Disney+
+ - DOMAIN-SUFFIX,shops-disney.com,🎬Disney+
+ - DOMAIN-SUFFIX,sorcerersarena.com,🎬Disney+
+ - DOMAIN-SUFFIX,spaindisney.com,🎬Disney+
+ - DOMAIN-SUFFIX,star-brasil.com,🎬Disney+
+ - DOMAIN-SUFFIX,star-latam.com,🎬Disney+
+ - DOMAIN-SUFFIX,starwars.com,🎬Disney+
+ - DOMAIN-SUFFIX,starwarsgalacticstarcruiser.com,🎬Disney+
+ - DOMAIN-SUFFIX,starwarskids.com,🎬Disney+
+ - DOMAIN-SUFFIX,streamingdisney.net,🎬Disney+
+ - DOMAIN-SUFFIX,thestationbymaker.com,🎬Disney+
+ - DOMAIN-SUFFIX,thisispolaris.com,🎬Disney+
+ - DOMAIN-SUFFIX,watchdisneyfe.com,🎬Disney+
+ 
+ 
+ 
  - DOMAIN-SUFFIX,jtvnw.net,📺国外媒体
  - DOMAIN-SUFFIX,ttvnw.net,📺国外媒体
  - DOMAIN-SUFFIX,twitch.tv,📺国外媒体
@@ -1040,6 +1163,7 @@ rules:
  - IP-CIDR,192.35.50.0/24,🍎苹果服务,no-resolve
  - IP-CIDR,198.183.17.0/24,🍎苹果服务,no-resolve
  - IP-CIDR,205.180.175.0/24,🍎苹果服务,no-resolve
+ 
  - DOMAIN-SUFFIX,qhres.com,DIRECT
  - DOMAIN-SUFFIX,qhimg.com,DIRECT
  - DOMAIN-SUFFIX,alibaba.com,DIRECT
@@ -1349,7 +1473,7 @@ rules:
  - DOMAIN-SUFFIX,zhuihd.com,DIRECT
  - DOMAIN,download.jetbrains.com,DIRECT
  - DOMAIN,images-cn.ssl-images-amazon.com,DIRECT
-
+ - DOMAIN-KEYWORD,sttsub,DIRECT
  - DOMAIN-KEYWORD,aria2,DIRECT
  - DOMAIN-KEYWORD,xunlei,DIRECT
  - DOMAIN-KEYWORD,yunpan,DIRECT
