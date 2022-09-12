@@ -1,7 +1,7 @@
 #---------------------------------------------------#
-## 更新：2022-09-13 12:52:52
+## 更新：2022-09-13 02:41:39
 ## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
-## 链接：https://www.mxssr1.top/link/og2iupA3MR9oBouy?clash=1
+## 链接：https://www.mxssr1.top/link/hej3LVnLJgE7NlGD?clash=1
 #---------------------------------------------------#
 
 # HTTP 代理端口
@@ -34,26 +34,26 @@ secret: ''
 
 
 proxies:
-  - {"name":"⒈V2RAY [vip1]上海BGP-中转-台湾","type":"vmess","server":"3.mxyun1.top","port":41203,"uuid":"31edb6e8-38ce-37b3-95c8-a61c343400b5","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"⒉V2RAY [vip1]上海-中转-香港","type":"vmess","server":"4.mxyun1.top","port":41204,"uuid":"31edb6e8-38ce-37b3-95c8-a61c343400b5","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"⒊[vip1]广移-中转-日本","type":"vmess","server":"5.mxyun1.top","port":41205,"uuid":"31edb6e8-38ce-37b3-95c8-a61c343400b5","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"⒋[vip1]广移-中转-日本","type":"vmess","server":"6.mxyun1.top","port":41206,"uuid":"31edb6e8-38ce-37b3-95c8-a61c343400b5","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"⒌[vip1]广移-中转-日本","type":"vmess","server":"7.mxyun1.top","port":41207,"uuid":"31edb6e8-38ce-37b3-95c8-a61c343400b5","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"⒍[vip1]广移-中转-新加坡","type":"vmess","server":"8.mxyun1.top","port":41208,"uuid":"31edb6e8-38ce-37b3-95c8-a61c343400b5","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"⒎V2RAY [vip1]北京BGP-中转-日本","type":"vmess","server":"9.mxyun1.top","port":41109,"uuid":"31edb6e8-38ce-37b3-95c8-a61c343400b5","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"⒏V2RAY [vip1]广移-中转-日本","type":"vmess","server":"10.mxyun1.top","port":41110,"uuid":"31edb6e8-38ce-37b3-95c8-a61c343400b5","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"⒐V2RAY [vip1]广移-中转-韩国","type":"vmess","server":"11.mxyun1.top","port":41111,"uuid":"31edb6e8-38ce-37b3-95c8-a61c343400b5","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"⒑V2RAY [vip1]广移-中转-韩国","type":"vmess","server":"12.mxyun1.top","port":41112,"uuid":"31edb6e8-38ce-37b3-95c8-a61c343400b5","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"⒒V2RAY [vip1]上海cn2-中转-美国","type":"vmess","server":"13.mxyun1.top","port":41113,"uuid":"31edb6e8-38ce-37b3-95c8-a61c343400b5","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"⒓V2RAY [vip1]北京BGP-中转-韩国","type":"vmess","server":"14.mxyun1.top","port":41114,"uuid":"31edb6e8-38ce-37b3-95c8-a61c343400b5","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"⒔V2RAY [vip1]广移-中转-日本","type":"vmess","server":"15.mxyun1.top","port":41115,"uuid":"31edb6e8-38ce-37b3-95c8-a61c343400b5","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"⒕V2RAY [vip1]电信-中转-日本","type":"vmess","server":"16.mxyun1.top","port":41116,"uuid":"31edb6e8-38ce-37b3-95c8-a61c343400b5","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"⒖V2RAY [vip1]广移-中转-日本","type":"vmess","server":"17.mxyun1.top","port":41117,"uuid":"31edb6e8-38ce-37b3-95c8-a61c343400b5","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"⒗V2RAY [vip1]北京BGP-中转-日本","type":"vmess","server":"18.mxyun1.top","port":41118,"uuid":"31edb6e8-38ce-37b3-95c8-a61c343400b5","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"⒘V2RAY[vip1]北京BGP-中转-日本","type":"vmess","server":"19.mxyun1.top","port":41119,"uuid":"31edb6e8-38ce-37b3-95c8-a61c343400b5","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"⒙V2RAY [vip1]北京BGP-中转-日本","type":"vmess","server":"20.mxyun1.top","port":41120,"uuid":"31edb6e8-38ce-37b3-95c8-a61c343400b5","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"⒚V2RAY [vip1]北京BGP-中转-日本","type":"vmess","server":"21.mxyun1.top","port":41121,"uuid":"31edb6e8-38ce-37b3-95c8-a61c343400b5","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"⒛[vip1]广移-中转-AWS-日本","type":"vmess","server":"25.mxyun1.top","port":41225,"uuid":"31edb6e8-38ce-37b3-95c8-a61c343400b5","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"⒈V2RAY [vip1]上海BGP-中转-台湾","type":"vmess","server":"3.mxyun1.top","port":41203,"uuid":"ca51a024-2bd1-368d-a09e-0969a4149716","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"⒉V2RAY [vip1]上海-中转-香港","type":"vmess","server":"4.mxyun1.top","port":41204,"uuid":"ca51a024-2bd1-368d-a09e-0969a4149716","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"⒊[vip1]广移-中转-日本","type":"vmess","server":"5.mxyun1.top","port":41205,"uuid":"ca51a024-2bd1-368d-a09e-0969a4149716","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"⒋[vip1]广移-中转-日本","type":"vmess","server":"6.mxyun1.top","port":41206,"uuid":"ca51a024-2bd1-368d-a09e-0969a4149716","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"⒌[vip1]广移-中转-日本","type":"vmess","server":"7.mxyun1.top","port":41207,"uuid":"ca51a024-2bd1-368d-a09e-0969a4149716","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"⒍[vip1]广移-中转-新加坡","type":"vmess","server":"8.mxyun1.top","port":41208,"uuid":"ca51a024-2bd1-368d-a09e-0969a4149716","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"⒎V2RAY [vip1]北京BGP-中转-日本","type":"vmess","server":"9.mxyun1.top","port":41109,"uuid":"ca51a024-2bd1-368d-a09e-0969a4149716","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"⒏V2RAY [vip1]广移-中转-日本","type":"vmess","server":"10.mxyun1.top","port":41110,"uuid":"ca51a024-2bd1-368d-a09e-0969a4149716","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"⒐V2RAY [vip1]广移-中转-韩国","type":"vmess","server":"11.mxyun1.top","port":41111,"uuid":"ca51a024-2bd1-368d-a09e-0969a4149716","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"⒑V2RAY [vip1]广移-中转-韩国","type":"vmess","server":"12.mxyun1.top","port":41112,"uuid":"ca51a024-2bd1-368d-a09e-0969a4149716","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"⒒V2RAY [vip1]上海cn2-中转-美国","type":"vmess","server":"13.mxyun1.top","port":41113,"uuid":"ca51a024-2bd1-368d-a09e-0969a4149716","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"⒓V2RAY [vip1]北京BGP-中转-韩国","type":"vmess","server":"14.mxyun1.top","port":41114,"uuid":"ca51a024-2bd1-368d-a09e-0969a4149716","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"⒔V2RAY [vip1]广移-中转-日本","type":"vmess","server":"15.mxyun1.top","port":41115,"uuid":"ca51a024-2bd1-368d-a09e-0969a4149716","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"⒕V2RAY [vip1]电信-中转-日本","type":"vmess","server":"16.mxyun1.top","port":41116,"uuid":"ca51a024-2bd1-368d-a09e-0969a4149716","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"⒖V2RAY [vip1]广移-中转-日本","type":"vmess","server":"17.mxyun1.top","port":41117,"uuid":"ca51a024-2bd1-368d-a09e-0969a4149716","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"⒗V2RAY [vip1]北京BGP-中转-日本","type":"vmess","server":"18.mxyun1.top","port":41118,"uuid":"ca51a024-2bd1-368d-a09e-0969a4149716","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"⒘V2RAY[vip1]北京BGP-中转-日本","type":"vmess","server":"19.mxyun1.top","port":41119,"uuid":"ca51a024-2bd1-368d-a09e-0969a4149716","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"⒙V2RAY [vip1]北京BGP-中转-日本","type":"vmess","server":"20.mxyun1.top","port":41120,"uuid":"ca51a024-2bd1-368d-a09e-0969a4149716","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"⒚V2RAY [vip1]北京BGP-中转-日本","type":"vmess","server":"21.mxyun1.top","port":41121,"uuid":"ca51a024-2bd1-368d-a09e-0969a4149716","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"⒛[vip1]广移-中转-AWS-日本","type":"vmess","server":"25.mxyun1.top","port":41225,"uuid":"ca51a024-2bd1-368d-a09e-0969a4149716","alterId":2,"cipher":"auto","udp":true}
 
 proxy-groups:
 -
