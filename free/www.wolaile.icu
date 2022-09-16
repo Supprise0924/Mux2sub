@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://www.yzhxy.top/link/6cKucV171ce80He4?clash=1
+#!MANAGED-CONFIG https://www.yzhxy.top/link/4KHft2etzEAflVqW?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-09-16 04:40:45
+## 上次更新于：2022-09-16 06:39:28
 #---------------------------------------------------#
 
 port: 7890
@@ -18,7 +18,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46553
-    uuid: 9f8ad54b-abad-316e-8b05-b50b66acbbd6
+    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
     alterId: 0
     cipher: auto
     udp: true
@@ -34,7 +34,7 @@ proxies:
     type: vmess
     server: cn.cmcmyd.1aba.cn
     port: 25692
-    uuid: 9f8ad54b-abad-316e-8b05-b50b66acbbd6
+    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
     alterId: 0
     cipher: auto
     udp: true
@@ -50,7 +50,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46548
-    uuid: 9f8ad54b-abad-316e-8b05-b50b66acbbd6
+    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
     alterId: 0
     cipher: auto
     udp: true
@@ -66,7 +66,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46559
-    uuid: 9f8ad54b-abad-316e-8b05-b50b66acbbd6
+    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
     alterId: 0
     cipher: auto
     udp: true
@@ -81,8 +81,8 @@ proxies:
     name: V1-越南-1-sc-IEPL【2倍率】
     type: vmess
     server: fsyy.fosi.hk
-    port: 25693
-    uuid: 9f8ad54b-abad-316e-8b05-b50b66acbbd6
+    port: 25612
+    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
     alterId: 0
     cipher: auto
     udp: true
@@ -98,7 +98,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46549
-    uuid: 9f8ad54b-abad-316e-8b05-b50b66acbbd6
+    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
     alterId: 0
     cipher: auto
     udp: true
@@ -112,25 +112,25 @@ proxies:
   -
     name: V1-韩国-1-sc-IEPL【2倍率】
     type: vmess
-    server: gyiepl.1aba.cn
-    port: 36509
-    uuid: 9f8ad54b-abad-316e-8b05-b50b66acbbd6
+    server: 118.212.143.4
+    port: 45258
+    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
     alterId: 0
     cipher: auto
     udp: true
     network: ws
     ws-path: /index
     ws-headers:
-      Host: gyiepl.1aba.cn
+      Host: 118.212.143.4
     ws-opts:
       path: /index
-      headers: { Host: gyiepl.1aba.cn }
+      headers: { Host: 118.212.143.4 }
   -
     name: V1-韩国-2-sc-广港
     type: vmess
     server: 36.139.9.191
     port: 46550
-    uuid: 9f8ad54b-abad-316e-8b05-b50b66acbbd6
+    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
     alterId: 0
     cipher: auto
     udp: true
@@ -146,7 +146,7 @@ proxies:
     type: vmess
     server: fsyy.fosi.hk
     port: 25689
-    uuid: 9f8ad54b-abad-316e-8b05-b50b66acbbd6
+    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
     alterId: 0
     cipher: auto
     udp: true
@@ -160,25 +160,25 @@ proxies:
   -
     name: V1-香港-2-sc-广港
     type: vmess
-    server: 36.139.9.191
-    port: 46560
-    uuid: 9f8ad54b-abad-316e-8b05-b50b66acbbd6
+    server: 36.138.4.197
+    port: 45402
+    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
     alterId: 0
     cipher: auto
     udp: true
     network: ws
     ws-path: /index
     ws-headers:
-      Host: 36.139.9.191
+      Host: 36.138.4.197
     ws-opts:
       path: /index
-      headers: { Host: 36.139.9.191 }
+      headers: { Host: 36.138.4.197 }
   -
     name: '[Lv1-中转]-加拿大d-1'
     type: vmess
     server: 36.138.4.197
     port: 45504
-    uuid: 9f8ad54b-abad-316e-8b05-b50b66acbbd6
+    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
     alterId: 0
     cipher: auto
     udp: true
@@ -194,7 +194,7 @@ proxies:
     type: vmess
     server: 183.245.147.54
     port: 45428
-    uuid: 9f8ad54b-abad-316e-8b05-b50b66acbbd6
+    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
     alterId: 0
     cipher: auto
     udp: true
@@ -210,7 +210,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46309
-    uuid: 9f8ad54b-abad-316e-8b05-b50b66acbbd6
+    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
     alterId: 2
     cipher: auto
     udp: true
@@ -226,7 +226,7 @@ proxies:
     type: vmess
     server: 36.138.4.197
     port: 45503
-    uuid: 9f8ad54b-abad-316e-8b05-b50b66acbbd6
+    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
     alterId: 2
     cipher: auto
     udp: true
@@ -242,7 +242,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46326
-    uuid: 9f8ad54b-abad-316e-8b05-b50b66acbbd6
+    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
     alterId: 2
     cipher: auto
     udp: true
