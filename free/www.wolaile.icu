@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://www.yzhxy.top/link/4KHft2etzEAflVqW?clash=1
+#!MANAGED-CONFIG https://www.yzhxy.top/link/Umyzaqc9AS2soDos?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-09-16 06:39:28
+## 上次更新于：2022-09-16 09:00:52
 #---------------------------------------------------#
 
 port: 7890
@@ -18,7 +18,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46553
-    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
+    uuid: b523faa7-3acb-3121-a81d-44f039ceea84
     alterId: 0
     cipher: auto
     udp: true
@@ -32,25 +32,18 @@ proxies:
   -
     name: V1-台湾-1-sc-IEPL【2倍率】
     type: vmess
-    server: cn.cmcmyd.1aba.cn
-    port: 25692
-    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
+    server: 36.138.4.197
+    port: 45407
+    uuid: b523faa7-3acb-3121-a81d-44f039ceea84
     alterId: 0
     cipher: auto
     udp: true
-    network: ws
-    ws-path: /index
-    ws-headers:
-      Host: cn.cmcmyd.1aba.cn
-    ws-opts:
-      path: /index
-      headers: { Host: cn.cmcmyd.1aba.cn }
   -
     name: V1-台湾-2-sc-广港
     type: vmess
     server: 36.139.9.191
     port: 46548
-    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
+    uuid: b523faa7-3acb-3121-a81d-44f039ceea84
     alterId: 0
     cipher: auto
     udp: true
@@ -66,23 +59,16 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46559
-    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
+    uuid: b523faa7-3acb-3121-a81d-44f039ceea84
     alterId: 0
     cipher: auto
     udp: true
-    network: ws
-    ws-path: /index
-    ws-headers:
-      Host: 36.139.9.191
-    ws-opts:
-      path: /index
-      headers: { Host: 36.139.9.191 }
   -
     name: V1-越南-1-sc-IEPL【2倍率】
     type: vmess
     server: fsyy.fosi.hk
     port: 25612
-    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
+    uuid: b523faa7-3acb-3121-a81d-44f039ceea84
     alterId: 0
     cipher: auto
     udp: true
@@ -98,7 +84,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46549
-    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
+    uuid: b523faa7-3acb-3121-a81d-44f039ceea84
     alterId: 0
     cipher: auto
     udp: true
@@ -114,7 +100,7 @@ proxies:
     type: vmess
     server: 118.212.143.4
     port: 45258
-    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
+    uuid: b523faa7-3acb-3121-a81d-44f039ceea84
     alterId: 0
     cipher: auto
     udp: true
@@ -130,7 +116,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46550
-    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
+    uuid: b523faa7-3acb-3121-a81d-44f039ceea84
     alterId: 0
     cipher: auto
     udp: true
@@ -146,7 +132,7 @@ proxies:
     type: vmess
     server: fsyy.fosi.hk
     port: 25689
-    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
+    uuid: b523faa7-3acb-3121-a81d-44f039ceea84
     alterId: 0
     cipher: auto
     udp: true
@@ -162,7 +148,7 @@ proxies:
     type: vmess
     server: 36.138.4.197
     port: 45402
-    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
+    uuid: b523faa7-3acb-3121-a81d-44f039ceea84
     alterId: 0
     cipher: auto
     udp: true
@@ -178,7 +164,7 @@ proxies:
     type: vmess
     server: 36.138.4.197
     port: 45504
-    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
+    uuid: b523faa7-3acb-3121-a81d-44f039ceea84
     alterId: 0
     cipher: auto
     udp: true
@@ -194,7 +180,7 @@ proxies:
     type: vmess
     server: 183.245.147.54
     port: 45428
-    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
+    uuid: b523faa7-3acb-3121-a81d-44f039ceea84
     alterId: 0
     cipher: auto
     udp: true
@@ -210,7 +196,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46309
-    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
+    uuid: b523faa7-3acb-3121-a81d-44f039ceea84
     alterId: 2
     cipher: auto
     udp: true
@@ -226,7 +212,7 @@ proxies:
     type: vmess
     server: 36.138.4.197
     port: 45503
-    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
+    uuid: b523faa7-3acb-3121-a81d-44f039ceea84
     alterId: 2
     cipher: auto
     udp: true
@@ -242,7 +228,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46326
-    uuid: f33c3160-5abc-31da-adf1-d959a916e2dc
+    uuid: b523faa7-3acb-3121-a81d-44f039ceea84
     alterId: 2
     cipher: auto
     udp: true
