@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://lting.cyou/link/VrlnIHkGjK8OrMcL?clash=1
+#!MANAGED-CONFIG https://lting.cyou/link/KMmzO1DtB8szCPUF?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-09-20 12:49:57
+## 上次更新于：2022-09-20 02:43:19
 #---------------------------------------------------#
 
 port: 7890
@@ -34,7 +34,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10010
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -51,7 +51,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10032
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -68,7 +68,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10020
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -85,7 +85,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10001
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -102,7 +102,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10002
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -119,7 +119,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10003
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -136,7 +136,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10011
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -153,7 +153,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10037
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -170,7 +170,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10012
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -187,7 +187,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10007
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -204,7 +204,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10015
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -221,7 +221,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10033
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -238,7 +238,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10004
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -255,7 +255,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10016
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -272,7 +272,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10038
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -289,7 +289,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10005
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -306,7 +306,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10036
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -323,7 +323,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10043
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -340,7 +340,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10023
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -357,7 +357,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10031
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -374,7 +374,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10014
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -391,7 +391,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10021
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -408,7 +408,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10006
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -425,7 +425,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10008
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -442,7 +442,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10034
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -459,7 +459,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10035
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -476,7 +476,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10018
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -493,7 +493,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10025
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -510,7 +510,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10026
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -527,7 +527,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10019
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -544,7 +544,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10010
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -561,7 +561,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10040
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -578,7 +578,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10041
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -595,7 +595,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10039
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -612,7 +612,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10020
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -629,7 +629,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10001
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -646,7 +646,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10002
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -663,7 +663,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10003
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -680,7 +680,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10009
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -697,7 +697,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10011
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -714,7 +714,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10037
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -731,7 +731,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10007
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -748,7 +748,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10015
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -765,7 +765,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10033
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -782,7 +782,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10004
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -799,7 +799,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10016
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -816,7 +816,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10038
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -833,7 +833,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10042
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -850,7 +850,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10023
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -867,7 +867,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10014
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -884,7 +884,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10006
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -901,7 +901,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10034
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -918,7 +918,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10035
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -935,7 +935,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10025
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -952,7 +952,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10026
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -969,7 +969,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10027
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -986,7 +986,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10019
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1003,7 +1003,7 @@ proxies:
     type: vmess
     server: aus01.cf.paopaocloud.cyou
     port: 443
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1020,7 +1020,7 @@ proxies:
     type: vmess
     server: br01.cf.paopaocloud.cyou
     port: 443
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1037,7 +1037,7 @@ proxies:
     type: vmess
     server: can01.cf.paopaocloud.cyou
     port: 443
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1054,7 +1054,7 @@ proxies:
     type: vmess
     server: cl01.cf.paopaocloud.cyou
     port: 443
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1071,7 +1071,7 @@ proxies:
     type: vmess
     server: db01.cf.paopaocloud.cyou
     port: 443
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1088,7 +1088,7 @@ proxies:
     type: vmess
     server: ger01.cf.paopaocloud.cyou
     port: 443
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1105,7 +1105,7 @@ proxies:
     type: vmess
     server: kr02.cf.paopaocloud.cyou
     port: 443
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1122,7 +1122,7 @@ proxies:
     type: vmess
     server: lu01.cf.paopaocloud.cyou
     port: 443
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1139,7 +1139,7 @@ proxies:
     type: vmess
     server: my01.cf.paopaocloud.cyou
     port: 443
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1156,7 +1156,7 @@ proxies:
     type: vmess
     server: ph01.cf.paopaocloud.cyou
     port: 443
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1173,7 +1173,7 @@ proxies:
     type: vmess
     server: tr01.cf.paopaocloud.cyou
     port: 443
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1190,7 +1190,7 @@ proxies:
     type: vmess
     server: uk01.cf.paopaocloud.cyou
     port: 443
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1207,7 +1207,7 @@ proxies:
     type: vmess
     server: us02.cf.paopaocloud.cyou
     port: 443
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1224,7 +1224,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10010
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1241,7 +1241,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10032
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1258,7 +1258,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10001
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1275,7 +1275,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10002
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1292,7 +1292,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10009
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1309,7 +1309,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10037
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1326,7 +1326,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10007
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1343,7 +1343,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10015
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1360,7 +1360,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10033
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1377,7 +1377,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10014
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1394,7 +1394,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10006
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1411,7 +1411,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10035
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1428,7 +1428,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10017
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1445,7 +1445,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10018
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1462,7 +1462,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10027
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1479,7 +1479,7 @@ proxies:
     type: vmess
     server: jm.yd02.paopaocloud.cyou
     port: 15619
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1496,7 +1496,7 @@ proxies:
     type: vmess
     server: jm.yd02.paopaocloud.cyou
     port: 10002
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1513,7 +1513,7 @@ proxies:
     type: vmess
     server: jm.yd02.paopaocloud.cyou
     port: 15622
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1530,7 +1530,7 @@ proxies:
     type: vmess
     server: jm.yd02.paopaocloud.cyou
     port: 15623
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
@@ -1547,7 +1547,7 @@ proxies:
     type: vmess
     server: jm.yd02.paopaocloud.cyou
     port: 15621
-    uuid: bbd78f7a-472f-394f-89d6-8dc3b43c6eac
+    uuid: 7fa4bd69-5e18-3a5c-94a4-9b9a8f71b305
     alterId: 0
     cipher: auto
     udp: true
