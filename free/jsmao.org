@@ -1,7 +1,7 @@
 #---------------------------------------------------#
-## 更新：2022-09-21 09:05:31
+## 更新：2022-09-22 12:53:32
 ## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
-## 链接：https://jd.apqiang.com/link/m3eE61u7vmF6Atme?clash=1
+## 链接：https://jd.apqiang.com/link/WiJQqk8moq85SlnX?clash=1
 #---------------------------------------------------#
 
 # HTTP 代理端口
@@ -34,48 +34,48 @@ secret: ''
 
 
 proxies:
-  - {"name":"香港A","type":"trojan","server":"szdx-anhb.jiashumao.net","port":22481,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"ahbn.jiashumao.net"}
-  - {"name":"香港B","type":"trojan","server":"bnbq-zf.jiashumao.net","port":26381,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"bnbq.jiashumao.net"}
-  - {"name":"香港C","type":"trojan","server":"hkc-zf.jiashumao.net","port":33481,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"hkc.jiashumao.net"}
-  - {"name":"香港D","type":"trojan","server":"hkd-zf.jiashumao.net","port":28481,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"hkd.jiashumao.net"}
-  - {"name":"香港E","type":"trojan","server":"hke-zf.jiashumao.net","port":35401,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"hke.jiashumao.net"}
-  - {"name":"香港F","type":"trojan","server":"hkf-zf.jiashumao.net","port":15123,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"hkf.jiashumao.net"}
-  - {"name":"香港G","type":"trojan","server":"hkg-zf.jiashumao.net","port":15134,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"hkg.jiashumao.net"}
-  - {"name":"日本A","type":"trojan","server":"jpa-zf.jiashumao.net","port":29881,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"jpa.jiashumao.net"}
-  - {"name":"日本B","type":"trojan","server":"jpb-zf.jiashumao.net","port":20479,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"jpb.jiashumao.net"}
-  - {"name":"日本C","type":"trojan","server":"jpc-zf.jiashumao.net","port":27301,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"jpc.jiashumao.net"}
-  - {"name":"日本D","type":"trojan","server":"jpd-zf.jiashumao.net","port":16144,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"jpd.jiashumao.net"}
-  - {"name":"台湾A","type":"trojan","server":"twa-zf.jiashumao.net","port":27919,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"twa.jiashumao.net"}
-  - {"name":"台湾B","type":"trojan","server":"twb-zf.jiashumao.net","port":25888,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"twb.jiashumao.net"}
-  - {"name":"台湾C","type":"trojan","server":"twc-zf.jiashumao.net","port":17144,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"twc.jiashumao.net"}
-  - {"name":"台湾D","type":"trojan","server":"twd-zf.jiashumao.net","port":13149,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"twd.jiashumao.net"}
-  - {"name":"新加坡A","type":"trojan","server":"xjpa-zf.jiashumao.net","port":14687,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"xjpa.jiashumao.net"}
-  - {"name":"新加坡B","type":"trojan","server":"xjpb-zf.jiashumao.net","port":29465,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"xjp.jiashumao.net"}
-  - {"name":"新加坡C","type":"trojan","server":"xjpc-zf.jiashumao.net","port":34785,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"xjc.jiashumao.net"}
-  - {"name":"美国A","type":"trojan","server":"usa-zf.jiashumao.net","port":42001,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"usa.jiashumao.net"}
-  - {"name":"美国B","type":"trojan","server":"usb-zf.jiashumao.net","port":43001,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"usb.jiashumao.net"}
-  - {"name":"美国C","type":"trojan","server":"usc-zf.jiashumao.net","port":26972,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"ahbn.jiashumao.net"}
-  - {"name":"土耳其A","type":"trojan","server":"trqa-zf.jiashumao.net","port":30606,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"trqa.jiashumao.net"}
-  - {"name":"土耳其B","type":"trojan","server":"trqb-zf.jiashumao.net","port":31606,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"trqb.jiashumao.net"}
-  - {"name":"阿根廷","type":"trojan","server":"agt-zf.jiashumao.net","port":24540,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"agt.jiashumao.net"}
-  - {"name":"泰国","type":"trojan","server":"tg-zf.jiashumao.net","port":28879,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"tg.jiashumao.net"}
-  - {"name":"澳门","type":"trojan","server":"ma-zf.jiashumao.net","port":22983,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"ma-ctm.jiashumao.net"}
-  - {"name":"越南","type":"trojan","server":"yn-zf.jiashumao.net","port":40375,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"yn.jiashumao.net"}
-  - {"name":"韩国","type":"trojan","server":"hanguo.jiashumao.net","port":34210,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"hanguo.jiashumao.net"}
-  - {"name":"马来西亚","type":"trojan","server":"mlxy-zf.jiashumao.net","port":27171,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"mlxy.jiashumao.net"}
-  - {"name":"印度","type":"trojan","server":"yd.jiashumao.net","port":29957,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"yd.jiashumao.net"}
-  - {"name":"澳洲","type":"trojan","server":"aozhou.jiashumao.net","port":36580,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"aozhou.jiashumao.net"}
-  - {"name":"德国","type":"trojan","server":"dg.jiashumao.net","port":29957,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"dg.jiashumao.net"}
-  - {"name":"加拿大","type":"trojan","server":"jnd.jiashumao.net","port":30519,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"jnd.jiashumao.net"}
-  - {"name":"西班牙","type":"trojan","server":"xby-zf.jiashumao.net","port":48501,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"xby.jiashumao.net"}
-  - {"name":"乌克兰","type":"trojan","server":"wkl.jiashumao.net","port":50519,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"wkl.jiashumao.net"}
-  - {"name":"荷兰","type":"trojan","server":"hl.jiashumao.net","port":45519,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"hl.jiashumao.net"}
-  - {"name":"波兰","type":"trojan","server":"bl.jiashumao.net","port":43505,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"bl.jiashumao.net"}
-  - {"name":"英国","type":"trojan","server":"yg.jiashumao.net","port":36419,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"yg.jiashumao.net"}
-  - {"name":"法国","type":"trojan","server":"fg.jiashumao.net","port":35580,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"fg.jiashumao.net"}
-  - {"name":"注1:请定时更新订阅","type":"trojan","server":"zzfjfgjytjyrtehrt54gsgsdfggedrh5re4364352536234yddd56gsffdsherhbresgsdfdsfssdxxww.us","port":443,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"zzfjfgjytjyrtehrt54gsgsdfggedrh5re4364352536234yddd56gsffdsherhbresgsdfdsfssdxxww.us"}
-  - {"name":"注2:等级过期后无法订阅","type":"trojan","server":"zzfjfgjytjyrtehrt54gsgsdfggedrh5re4364352536234yddd56gsffdsherhbresgsdfdsfssdxxww.us","port":443,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"zzfjfgjytjyrtehrt54gsgsdfggedrh5re4364352536234yddd56gsffdsherhbresgsdfdsfssdxxww.us"}
-  - {"name":"注3:免费套餐限速10Mbps","type":"trojan","server":"zzfjfgjytjyrtehrt54gsgsdfggedrh5re4364352536234yddd56gsffdsherhbresgsdfdsfssdxxww.us","port":443,"password":"217bb214-d826-3bc9-89a0-05f5f5675cb6","sni":"zzfjfgjytjyrtehrt54gsgsdfggedrh5re4364352536234yddd56gsffdsherhbresgsdfdsfssdxxww.us"}
+  - {"name":"香港A","type":"trojan","server":"szdx-anhb.jiashumao.net","port":22481,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"ahbn.jiashumao.net"}
+  - {"name":"香港B","type":"trojan","server":"bnbq-zf.jiashumao.net","port":26381,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"bnbq.jiashumao.net"}
+  - {"name":"香港C","type":"trojan","server":"hkc-zf.jiashumao.net","port":33481,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"hkc.jiashumao.net"}
+  - {"name":"香港D","type":"trojan","server":"hkd-zf.jiashumao.net","port":28481,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"hkd.jiashumao.net"}
+  - {"name":"香港E","type":"trojan","server":"hke-zf.jiashumao.net","port":35401,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"hke.jiashumao.net"}
+  - {"name":"香港F","type":"trojan","server":"hkf-zf.jiashumao.net","port":15123,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"hkf.jiashumao.net"}
+  - {"name":"香港G","type":"trojan","server":"hkg-zf.jiashumao.net","port":15134,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"hkg.jiashumao.net"}
+  - {"name":"日本A","type":"trojan","server":"jpa-zf.jiashumao.net","port":29881,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"jpa.jiashumao.net"}
+  - {"name":"日本B","type":"trojan","server":"jpb-zf.jiashumao.net","port":20479,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"jpb.jiashumao.net"}
+  - {"name":"日本C","type":"trojan","server":"jpc-zf.jiashumao.net","port":27301,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"jpc.jiashumao.net"}
+  - {"name":"日本D","type":"trojan","server":"jpd-zf.jiashumao.net","port":16144,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"jpd.jiashumao.net"}
+  - {"name":"台湾A","type":"trojan","server":"twa-zf.jiashumao.net","port":27919,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"twa.jiashumao.net"}
+  - {"name":"台湾B","type":"trojan","server":"twb-zf.jiashumao.net","port":25888,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"twb.jiashumao.net"}
+  - {"name":"台湾C","type":"trojan","server":"twc-zf.jiashumao.net","port":17144,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"twc.jiashumao.net"}
+  - {"name":"台湾D","type":"trojan","server":"twd-zf.jiashumao.net","port":13149,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"twd.jiashumao.net"}
+  - {"name":"新加坡A","type":"trojan","server":"xjpa-zf.jiashumao.net","port":14687,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"xjpa.jiashumao.net"}
+  - {"name":"新加坡B","type":"trojan","server":"xjpb-zf.jiashumao.net","port":29465,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"xjp.jiashumao.net"}
+  - {"name":"新加坡C","type":"trojan","server":"xjpc-zf.jiashumao.net","port":34785,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"xjc.jiashumao.net"}
+  - {"name":"美国A","type":"trojan","server":"usa-zf.jiashumao.net","port":42001,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"usa.jiashumao.net"}
+  - {"name":"美国B","type":"trojan","server":"usb-zf.jiashumao.net","port":43001,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"usb.jiashumao.net"}
+  - {"name":"美国C","type":"trojan","server":"usc-zf.jiashumao.net","port":26972,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"ahbn.jiashumao.net"}
+  - {"name":"土耳其A","type":"trojan","server":"trqa-zf.jiashumao.net","port":30606,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"trqa.jiashumao.net"}
+  - {"name":"土耳其B","type":"trojan","server":"trqb-zf.jiashumao.net","port":31606,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"trqb.jiashumao.net"}
+  - {"name":"阿根廷","type":"trojan","server":"agt-zf.jiashumao.net","port":24540,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"agt.jiashumao.net"}
+  - {"name":"泰国","type":"trojan","server":"tg-zf.jiashumao.net","port":28879,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"tg.jiashumao.net"}
+  - {"name":"澳门","type":"trojan","server":"ma-zf.jiashumao.net","port":22983,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"ma-ctm.jiashumao.net"}
+  - {"name":"越南","type":"trojan","server":"yn-zf.jiashumao.net","port":40375,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"yn.jiashumao.net"}
+  - {"name":"韩国","type":"trojan","server":"hanguo.jiashumao.net","port":34210,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"hanguo.jiashumao.net"}
+  - {"name":"马来西亚","type":"trojan","server":"mlxy-zf.jiashumao.net","port":27171,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"mlxy.jiashumao.net"}
+  - {"name":"印度","type":"trojan","server":"yd.jiashumao.net","port":29957,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"yd.jiashumao.net"}
+  - {"name":"澳洲","type":"trojan","server":"aozhou.jiashumao.net","port":36580,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"aozhou.jiashumao.net"}
+  - {"name":"德国","type":"trojan","server":"dg.jiashumao.net","port":29957,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"dg.jiashumao.net"}
+  - {"name":"加拿大","type":"trojan","server":"jnd.jiashumao.net","port":30519,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"jnd.jiashumao.net"}
+  - {"name":"西班牙","type":"trojan","server":"xby-zf.jiashumao.net","port":48501,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"xby.jiashumao.net"}
+  - {"name":"乌克兰","type":"trojan","server":"wkl.jiashumao.net","port":50519,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"wkl.jiashumao.net"}
+  - {"name":"荷兰","type":"trojan","server":"hl.jiashumao.net","port":45519,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"hl.jiashumao.net"}
+  - {"name":"波兰","type":"trojan","server":"bl.jiashumao.net","port":43505,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"bl.jiashumao.net"}
+  - {"name":"英国","type":"trojan","server":"yg.jiashumao.net","port":36419,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"yg.jiashumao.net"}
+  - {"name":"法国","type":"trojan","server":"fg.jiashumao.net","port":35580,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"fg.jiashumao.net"}
+  - {"name":"注1:请定时更新订阅","type":"trojan","server":"zzfjfgjytjyrtehrt54gsgsdfggedrh5re4364352536234yddd56gsffdsherhbresgsdfdsfssdxxww.us","port":443,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"zzfjfgjytjyrtehrt54gsgsdfggedrh5re4364352536234yddd56gsffdsherhbresgsdfdsfssdxxww.us"}
+  - {"name":"注2:等级过期后无法订阅","type":"trojan","server":"zzfjfgjytjyrtehrt54gsgsdfggedrh5re4364352536234yddd56gsffdsherhbresgsdfdsfssdxxww.us","port":443,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"zzfjfgjytjyrtehrt54gsgsdfggedrh5re4364352536234yddd56gsffdsherhbresgsdfdsfssdxxww.us"}
+  - {"name":"注3:免费套餐限速10Mbps","type":"trojan","server":"zzfjfgjytjyrtehrt54gsgsdfggedrh5re4364352536234yddd56gsffdsherhbresgsdfdsfssdxxww.us","port":443,"password":"e9469743-d895-363a-8600-d61cab68e35c","sni":"zzfjfgjytjyrtehrt54gsgsdfggedrh5re4364352536234yddd56gsffdsherhbresgsdfdsfssdxxww.us"}
 
 proxy-groups:
 -
