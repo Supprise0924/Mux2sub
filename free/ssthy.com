@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://ssthy.net/link/a72fraEELTvL0irD?clash=1
+#!MANAGED-CONFIG https://ssthy.net/link/o3hQ8mCXs4wATuSv?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-09-22 01:42:51
+## 上次更新于：2022-09-22 03:04:10
 #---------------------------------------------------#
 
 port: 7890
@@ -18,7 +18,7 @@ proxies:
     type: vmess
     server: s400l.cmcuct.org
     port: 24488
-    uuid: ee584950-33c2-3fae-848b-20b06c88d870
+    uuid: ce67f5d8-6a17-3b1b-b189-be5296ed5ce2
     alterId: 0
     cipher: auto
     udp: true
@@ -35,7 +35,7 @@ proxies:
     type: vmess
     server: sd.cmcuct.org
     port: 24402
-    uuid: ee584950-33c2-3fae-848b-20b06c88d870
+    uuid: ce67f5d8-6a17-3b1b-b189-be5296ed5ce2
     alterId: 0
     cipher: auto
     udp: true
