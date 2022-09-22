@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://lting.cyou/link/lY5wQX18iY0fFkcX?clash=1
+#!MANAGED-CONFIG https://lting.cyou/link/FFrQNkrUKW3hcmGX?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-09-22 04:41:57
+## 上次更新于：2022-09-22 06:35:43
 #---------------------------------------------------#
 
 port: 7890
@@ -34,7 +34,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10010
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -51,7 +51,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10022
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -68,7 +68,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10032
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -85,7 +85,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10020
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -102,7 +102,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10001
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -119,7 +119,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10002
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -136,7 +136,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10003
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -153,7 +153,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10011
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -170,7 +170,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10037
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -187,7 +187,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10012
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -204,7 +204,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10007
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -221,7 +221,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10015
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -238,7 +238,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10033
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -255,7 +255,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10004
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -272,7 +272,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10016
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -289,7 +289,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10038
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -306,7 +306,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10005
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -323,7 +323,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10036
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -340,7 +340,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10043
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -357,7 +357,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10023
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -374,7 +374,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10031
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -391,7 +391,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10014
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -408,7 +408,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10021
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -425,7 +425,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10006
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -442,7 +442,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10008
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -459,7 +459,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10034
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -476,7 +476,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10035
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -493,7 +493,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10018
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -510,7 +510,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10025
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -527,7 +527,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10026
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -544,7 +544,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10019
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -561,7 +561,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10010
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -578,7 +578,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10040
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -595,7 +595,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10041
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -612,7 +612,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10039
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -629,7 +629,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10020
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -646,7 +646,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10001
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -663,7 +663,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10002
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -680,7 +680,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10003
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -697,7 +697,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10009
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -714,7 +714,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10011
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -731,7 +731,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10037
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -748,7 +748,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10007
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -765,7 +765,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10015
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -782,7 +782,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10033
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -799,7 +799,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10004
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -816,7 +816,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10016
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -833,7 +833,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10038
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -850,7 +850,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10042
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -867,7 +867,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10023
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -884,7 +884,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10014
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -901,7 +901,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10006
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -918,7 +918,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10034
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -935,7 +935,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10035
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -952,7 +952,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10025
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -969,7 +969,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10026
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -986,7 +986,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10027
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1003,7 +1003,7 @@ proxies:
     type: vmess
     server: ah.yd01.paopaocloud.cyou
     port: 10019
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1020,7 +1020,7 @@ proxies:
     type: vmess
     server: aus01.cf.paopaocloud.cyou
     port: 443
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1037,7 +1037,7 @@ proxies:
     type: vmess
     server: br01.cf.paopaocloud.cyou
     port: 443
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1054,7 +1054,7 @@ proxies:
     type: vmess
     server: can01.cf.paopaocloud.cyou
     port: 443
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1071,7 +1071,7 @@ proxies:
     type: vmess
     server: cl01.cf.paopaocloud.cyou
     port: 443
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1088,7 +1088,7 @@ proxies:
     type: vmess
     server: db01.cf.paopaocloud.cyou
     port: 443
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1105,7 +1105,7 @@ proxies:
     type: vmess
     server: ger01.cf.paopaocloud.cyou
     port: 443
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1122,7 +1122,7 @@ proxies:
     type: vmess
     server: kr02.cf.paopaocloud.cyou
     port: 443
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1139,7 +1139,7 @@ proxies:
     type: vmess
     server: lu01.cf.paopaocloud.cyou
     port: 443
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1156,7 +1156,7 @@ proxies:
     type: vmess
     server: my01.cf.paopaocloud.cyou
     port: 443
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1173,7 +1173,7 @@ proxies:
     type: vmess
     server: ph01.cf.paopaocloud.cyou
     port: 443
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1190,7 +1190,7 @@ proxies:
     type: vmess
     server: tr01.cf.paopaocloud.cyou
     port: 443
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1207,7 +1207,7 @@ proxies:
     type: vmess
     server: uk01.cf.paopaocloud.cyou
     port: 443
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1224,7 +1224,7 @@ proxies:
     type: vmess
     server: us02.cf.paopaocloud.cyou
     port: 443
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1241,7 +1241,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10010
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1258,7 +1258,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10032
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1275,7 +1275,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10001
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1292,7 +1292,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10002
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1309,7 +1309,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10009
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1326,7 +1326,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10037
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1343,7 +1343,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10007
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1360,7 +1360,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10015
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1377,7 +1377,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10033
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1394,7 +1394,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10014
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1411,7 +1411,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10006
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1428,7 +1428,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10035
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1445,7 +1445,7 @@ proxies:
     type: vmess
     server: az.hk01.paopaocloud.cyou
     port: 10017
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1462,7 +1462,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10018
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1479,7 +1479,7 @@ proxies:
     type: vmess
     server: gz.yd01.paopaocloud.cyou
     port: 10027
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1496,7 +1496,7 @@ proxies:
     type: vmess
     server: jm.yd02.paopaocloud.cyou
     port: 15619
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1513,7 +1513,7 @@ proxies:
     type: vmess
     server: jm.yd02.paopaocloud.cyou
     port: 10002
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1530,7 +1530,7 @@ proxies:
     type: vmess
     server: jm.yd02.paopaocloud.cyou
     port: 15622
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1547,7 +1547,7 @@ proxies:
     type: vmess
     server: jm.yd02.paopaocloud.cyou
     port: 15623
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1564,7 +1564,7 @@ proxies:
     type: vmess
     server: jm.yd02.paopaocloud.cyou
     port: 15621
-    uuid: 0e6e1e9e-4a24-3938-8ac1-5a0e96d5cca3
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
     alterId: 0
     cipher: auto
     udp: true
@@ -1575,6 +1575,856 @@ proxies:
     ws-path: /v2ray
     ws-headers:
       Host: paopao.v2.tw01.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-0sh-日本05
+    type: vmess
+    server: paopao.v2.jp05.paopaocloud.cyou
+    port: 23306
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /
+      headers: { Host: paopao.v2.jp05.paopaocloud.cyou }
+    ws-path: /
+    ws-headers:
+      Host: paopao.v2.jp05.paopaocloud.cyou
+  -
+    name: _v2ray-1az-us02(美国)
+    type: vmess
+    server: az.hk01.paopaocloud.cyou
+    port: 10017
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: ssru.v2.us02.2yun.win }
+    ws-path: /v2ray
+    ws-headers:
+      Host: ssru.v2.us02.2yun.win
+    tls: true
+  -
+    name: _v2ray-4zl-加拿大01
+    type: vmess
+    server: can01.paopaocloud.cyou
+    port: 443
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: can01.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: can01.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-卢森堡01
+    type: vmess
+    server: lu01.paopaocloud.cyou
+    port: 443
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: lu01.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: lu01.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-印度01
+    type: vmess
+    server: in01.paopaocloud.cyou
+    port: 443
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: in01.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: in01.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-台湾01(Netflix)
+    type: vmess
+    server: paopao.v2.tw01.paopaocloud.cyou
+    port: 13306
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: paopao.v2.tw01.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: paopao.v2.tw01.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-台湾02(Netflix)
+    type: vmess
+    server: paopao.v2.tw02.paopaocloud.cyou
+    port: 3306
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: paopao.v2.tw02.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: paopao.v2.tw02.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-台湾03(Netflix)
+    type: vmess
+    server: paopao.v2.tw03.paopaocloud.cyou
+    port: 3306
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: paopao.v2.tw03.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: paopao.v2.tw03.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-台湾04(Netflix)
+    type: vmess
+    server: paopao.v2.tw04.paopaocloud.cyou
+    port: 3306
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: paopao.v2.tw04.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: paopao.v2.tw04.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-土耳其01
+    type: vmess
+    server: tr01.paopaocloud.cyou
+    port: 443
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: tr01.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: tr01.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-巴西01
+    type: vmess
+    server: br01.paopaocloud.cyou
+    port: 443
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: br01.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: br01.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-德国01
+    type: vmess
+    server: ger01.paopaocloud.cyou
+    port: 443
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: ger01.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: ger01.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-摩尔多卡01
+    type: vmess
+    server: paopao.v2.mol01.paopaocloud.cyou
+    port: 3306
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: paopao.v2.mol01.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: paopao.v2.mol01.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-新加坡01(Netflix)
+    type: vmess
+    server: paopao.v2.sgp01.paopaocloud.cyou
+    port: 10551
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: paopao.v2.sgp01.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: paopao.v2.sgp01.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-新加坡02
+    type: vmess
+    server: paopao.v2.sgp02.paopaocloud.cyou
+    port: 10551
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: paopao.v2.sgp02.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: paopao.v2.sgp02.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-新加坡03
+    type: vmess
+    server: paopao.v2.sgp03.paopaocloud.cyou
+    port: 3306
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: paopao.v2.sgp03.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: paopao.v2.sgp03.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-新西伯利亚01(俄罗斯Netflix)
+    type: vmess
+    server: ssru.v2.ru01.2yun.win
+    port: 3306
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: ssru.v2.ru01.2yun.win }
+    ws-path: /v2ray
+    ws-headers:
+      Host: ssru.v2.ru01.2yun.win
+    tls: true
+  -
+    name: _v2ray-4zl-新西伯利亚02(俄罗斯Netflix)
+    type: vmess
+    server: ssru.v2.ru02.2yun.win
+    port: 3307
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: ssru.v2.ru02.2yun.win }
+    ws-path: /v2ray
+    ws-headers:
+      Host: ssru.v2.ru02.2yun.win
+    tls: true
+  -
+    name: _v2ray-4zl-日本01(Netflix|Abema|...)
+    type: vmess
+    server: ssru.v2.jp01.2yun.win
+    port: 3306
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: ssru.v2.jp01.2yun.win }
+    ws-path: /v2ray
+    ws-headers:
+      Host: ssru.v2.jp01.2yun.win
+    tls: true
+  -
+    name: _v2ray-4zl-日本02(Netflix|Abema|...)
+    type: vmess
+    server: paopao.v2.jp02.paopaocloud.cyou
+    port: 13308
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: paopao.v2.jp02.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: paopao.v2.jp02.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-日本03
+    type: vmess
+    server: ssru.v2.jp03.2yun.win
+    port: 13306
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: ssru.v2.jp03.2yun.win }
+    ws-path: /v2ray
+    ws-headers:
+      Host: ssru.v2.jp03.2yun.win
+    tls: true
+  -
+    name: _v2ray-4zl-日本05(Netflix|Abema|...)
+    type: vmess
+    server: paopao.v2.jp05.paopaocloud.cyou
+    port: 3307
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: paopao.v2.jp05.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: paopao.v2.jp05.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-智利01
+    type: vmess
+    server: cl01.paopaocloud.cyou
+    port: 443
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: cl01.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: cl01.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-法国01
+    type: vmess
+    server: fr01.paopaocloud.cyou
+    port: 443
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: fr01.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: fr01.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-澳大利亚01
+    type: vmess
+    server: aus01.paopaocloud.cyou
+    port: 443
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: aus01.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: aus01.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-美国01
+    type: vmess
+    server: paopao.v2.us01.paopaocloud.cyou
+    port: 3307
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: paopao.v2.us01.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: paopao.v2.us01.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-美国02
+    type: vmess
+    server: us02.paopaocloud.cyou
+    port: 443
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: us02.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: us02.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-美国03(Netflix)
+    type: vmess
+    server: ssru.v2.us03.2yun.win
+    port: 13306
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: ssru.v2.us03.2yun.win }
+    ws-path: /v2ray
+    ws-headers:
+      Host: ssru.v2.us03.2yun.win
+    tls: true
+  -
+    name: _v2ray-4zl-美国05
+    type: vmess
+    server: paopao.v2.us05.paopaocloud.cyou
+    port: 3306
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: paopao.v2.us05.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: paopao.v2.us05.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-美国06
+    type: vmess
+    server: paopao.v2.us06.paopaocloud.cyou
+    port: 3306
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: paopao.v2.us06.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: paopao.v2.us06.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-美国07
+    type: vmess
+    server: paopao.v2.us07.paopaocloud.cyou
+    port: 3307
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: paopao.v2.us07.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: paopao.v2.us07.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-英国01【BBC】
+    type: vmess
+    server: uk01.paopaocloud.cyou
+    port: 443
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: uk01.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: uk01.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-荷兰01
+    type: vmess
+    server: paopao.v2.hl01.paopaocloud.cyou
+    port: 3306
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: paopao.v2.hl01.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: paopao.v2.hl01.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-菲律宾01
+    type: vmess
+    server: ph01.paopaocloud.cyou
+    port: 443
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: ph01.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: ph01.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-越南01(Netflix)
+    type: vmess
+    server: paopao.v2.vn01.paopaocloud.cyou
+    port: 3306
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /vn01
+      headers: { Host: paopao.v2.vn01.paopaocloud.cyou }
+    ws-path: /vn01
+    ws-headers:
+      Host: paopao.v2.vn01.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-迪拜01
+    type: vmess
+    server: db01.paopaocloud.cyou
+    port: 443
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: db01.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: db01.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-韩国01
+    type: vmess
+    server: paopao.v2.kr01.paopaocloud.cyou
+    port: 10552
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: paopao.v2.kr01.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: paopao.v2.kr01.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-韩国02
+    type: vmess
+    server: kr02.paopaocloud.cyou
+    port: 443
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: kr02.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: kr02.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-香港01
+    type: vmess
+    server: paopao.v2.hk01.paopaocloud.cyou
+    port: 11050
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: paopao.v2.hk01.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: paopao.v2.hk01.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-香港02
+    type: vmess
+    server: paopao.v2.hk02.paopaocloud.cyou
+    port: 13312
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: paopao.v2.hk02.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: paopao.v2.hk02.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-香港03-hkt(Netflix)
+    type: vmess
+    server: paopao.v2.hk03.paopaocloud.cyou
+    port: 8901
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: paopao.v2.hk03.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: paopao.v2.hk03.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-香港04
+    type: vmess
+    server: paopao.v2.hk04.paopaocloud.cyou
+    port: 20801
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /
+      headers: { Host: paopao.v2.hk04.paopaocloud.cyou }
+    ws-path: /
+    ws-headers:
+      Host: paopao.v2.hk04.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-香港05(Netflix)
+    type: vmess
+    server: paopao.v2.hk05.paopaocloud.cyou
+    port: 21050
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /
+      headers: { Host: paopao.v2.hk05.paopaocloud.cyou }
+    ws-path: /
+    ws-headers:
+      Host: paopao.v2.hk05.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-香港06-hkt(Netflix)
+    type: vmess
+    server: paopao.v2.hk06.paopaocloud.cyou
+    port: 10390
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: paopao.v2.hk06.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: paopao.v2.hk06.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-香港08
+    type: vmess
+    server: paopao.v2.hk08.paopaocloud.cyou
+    port: 3309
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: paopao.v2.hk08.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: paopao.v2.hk08.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-4zl-马来西亚01
+    type: vmess
+    server: my01.paopaocloud.cyou
+    port: 443
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: my01.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: my01.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray-ld-azhk02
+    type: vmess
+    server: paopao.v2.az01.paopaocloud.cyou
+    port: 13312
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: paopao.v2.az01.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: paopao.v2.az01.paopaocloud.cyou
+    tls: true
+  -
+    name: _v2ray台湾04<<<江门移动
+    type: vmess
+    server: jm.yd01.paopaocloud.cyou
+    port: 20141
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: paopao.v2.tw04.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: paopao.v2.tw04.paopaocloud.cyou
+    tls: true
+  -
+    name: "_v2ray香港03-hkt<<<江门移动\t"
+    type: vmess
+    server: jm.yd01.paopaocloud.cyou
+    port: 20137
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+  -
+    name: _v2ray香港06<<<江门移动
+    type: vmess
+    server: jm.yd01.paopaocloud.cyou
+    port: 20119
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+  -
+    name: _v2ray香港07-hgc
+    type: vmess
+    server: paopao.v2.hk07.paopaocloud.cyou
+    port: 10432
+    uuid: 8d085866-5db1-3dd1-9ddb-764f21844145
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-opts:
+      path: /v2ray
+      headers: { Host: paopao.v2.hk07.paopaocloud.cyou }
+    ws-path: /v2ray
+    ws-headers:
+      Host: paopao.v2.hk07.paopaocloud.cyou
     tls: true
 proxy-groups:
   -
@@ -1672,6 +2522,57 @@ proxy-groups:
       - v2ray-jm-jp02(日本)
       - v2ray-jm-jp03(日本)
       - v2ray-jm-tw01(台湾Netflix)
+      - _v2ray-0sh-日本05
+      - _v2ray-1az-us02(美国)
+      - _v2ray-4zl-加拿大01
+      - _v2ray-4zl-卢森堡01
+      - _v2ray-4zl-印度01
+      - _v2ray-4zl-台湾01(Netflix)
+      - _v2ray-4zl-台湾02(Netflix)
+      - _v2ray-4zl-台湾03(Netflix)
+      - _v2ray-4zl-台湾04(Netflix)
+      - _v2ray-4zl-土耳其01
+      - _v2ray-4zl-巴西01
+      - _v2ray-4zl-德国01
+      - _v2ray-4zl-摩尔多卡01
+      - _v2ray-4zl-新加坡01(Netflix)
+      - _v2ray-4zl-新加坡02
+      - _v2ray-4zl-新加坡03
+      - _v2ray-4zl-新西伯利亚01(俄罗斯Netflix)
+      - _v2ray-4zl-新西伯利亚02(俄罗斯Netflix)
+      - _v2ray-4zl-日本01(Netflix|Abema|...)
+      - _v2ray-4zl-日本02(Netflix|Abema|...)
+      - _v2ray-4zl-日本03
+      - _v2ray-4zl-日本05(Netflix|Abema|...)
+      - _v2ray-4zl-智利01
+      - _v2ray-4zl-法国01
+      - _v2ray-4zl-澳大利亚01
+      - _v2ray-4zl-美国01
+      - _v2ray-4zl-美国02
+      - _v2ray-4zl-美国03(Netflix)
+      - _v2ray-4zl-美国05
+      - _v2ray-4zl-美国06
+      - _v2ray-4zl-美国07
+      - _v2ray-4zl-英国01【BBC】
+      - _v2ray-4zl-荷兰01
+      - _v2ray-4zl-菲律宾01
+      - _v2ray-4zl-越南01(Netflix)
+      - _v2ray-4zl-迪拜01
+      - _v2ray-4zl-韩国01
+      - _v2ray-4zl-韩国02
+      - _v2ray-4zl-香港01
+      - _v2ray-4zl-香港02
+      - _v2ray-4zl-香港03-hkt(Netflix)
+      - _v2ray-4zl-香港04
+      - _v2ray-4zl-香港05(Netflix)
+      - _v2ray-4zl-香港06-hkt(Netflix)
+      - _v2ray-4zl-香港08
+      - _v2ray-4zl-马来西亚01
+      - _v2ray-ld-azhk02
+      - _v2ray台湾04<<<江门移动
+      - "_v2ray香港03-hkt<<<江门移动\t"
+      - _v2ray香港06<<<江门移动
+      - _v2ray香港07-hgc
       - 🚀直接连接
   -
     name: ⚓️其他流量
@@ -1775,6 +2676,57 @@ proxy-groups:
       - v2ray-jm-jp02(日本)
       - v2ray-jm-jp03(日本)
       - v2ray-jm-tw01(台湾Netflix)
+      - _v2ray-0sh-日本05
+      - _v2ray-1az-us02(美国)
+      - _v2ray-4zl-加拿大01
+      - _v2ray-4zl-卢森堡01
+      - _v2ray-4zl-印度01
+      - _v2ray-4zl-台湾01(Netflix)
+      - _v2ray-4zl-台湾02(Netflix)
+      - _v2ray-4zl-台湾03(Netflix)
+      - _v2ray-4zl-台湾04(Netflix)
+      - _v2ray-4zl-土耳其01
+      - _v2ray-4zl-巴西01
+      - _v2ray-4zl-德国01
+      - _v2ray-4zl-摩尔多卡01
+      - _v2ray-4zl-新加坡01(Netflix)
+      - _v2ray-4zl-新加坡02
+      - _v2ray-4zl-新加坡03
+      - _v2ray-4zl-新西伯利亚01(俄罗斯Netflix)
+      - _v2ray-4zl-新西伯利亚02(俄罗斯Netflix)
+      - _v2ray-4zl-日本01(Netflix|Abema|...)
+      - _v2ray-4zl-日本02(Netflix|Abema|...)
+      - _v2ray-4zl-日本03
+      - _v2ray-4zl-日本05(Netflix|Abema|...)
+      - _v2ray-4zl-智利01
+      - _v2ray-4zl-法国01
+      - _v2ray-4zl-澳大利亚01
+      - _v2ray-4zl-美国01
+      - _v2ray-4zl-美国02
+      - _v2ray-4zl-美国03(Netflix)
+      - _v2ray-4zl-美国05
+      - _v2ray-4zl-美国06
+      - _v2ray-4zl-美国07
+      - _v2ray-4zl-英国01【BBC】
+      - _v2ray-4zl-荷兰01
+      - _v2ray-4zl-菲律宾01
+      - _v2ray-4zl-越南01(Netflix)
+      - _v2ray-4zl-迪拜01
+      - _v2ray-4zl-韩国01
+      - _v2ray-4zl-韩国02
+      - _v2ray-4zl-香港01
+      - _v2ray-4zl-香港02
+      - _v2ray-4zl-香港03-hkt(Netflix)
+      - _v2ray-4zl-香港04
+      - _v2ray-4zl-香港05(Netflix)
+      - _v2ray-4zl-香港06-hkt(Netflix)
+      - _v2ray-4zl-香港08
+      - _v2ray-4zl-马来西亚01
+      - _v2ray-ld-azhk02
+      - _v2ray台湾04<<<江门移动
+      - "_v2ray香港03-hkt<<<江门移动\t"
+      - _v2ray香港06<<<江门移动
+      - _v2ray香港07-hgc
   -
     name: 🎬Youtube
     type: select
@@ -1871,6 +2823,57 @@ proxy-groups:
       - v2ray-jm-jp02(日本)
       - v2ray-jm-jp03(日本)
       - v2ray-jm-tw01(台湾Netflix)
+      - _v2ray-0sh-日本05
+      - _v2ray-1az-us02(美国)
+      - _v2ray-4zl-加拿大01
+      - _v2ray-4zl-卢森堡01
+      - _v2ray-4zl-印度01
+      - _v2ray-4zl-台湾01(Netflix)
+      - _v2ray-4zl-台湾02(Netflix)
+      - _v2ray-4zl-台湾03(Netflix)
+      - _v2ray-4zl-台湾04(Netflix)
+      - _v2ray-4zl-土耳其01
+      - _v2ray-4zl-巴西01
+      - _v2ray-4zl-德国01
+      - _v2ray-4zl-摩尔多卡01
+      - _v2ray-4zl-新加坡01(Netflix)
+      - _v2ray-4zl-新加坡02
+      - _v2ray-4zl-新加坡03
+      - _v2ray-4zl-新西伯利亚01(俄罗斯Netflix)
+      - _v2ray-4zl-新西伯利亚02(俄罗斯Netflix)
+      - _v2ray-4zl-日本01(Netflix|Abema|...)
+      - _v2ray-4zl-日本02(Netflix|Abema|...)
+      - _v2ray-4zl-日本03
+      - _v2ray-4zl-日本05(Netflix|Abema|...)
+      - _v2ray-4zl-智利01
+      - _v2ray-4zl-法国01
+      - _v2ray-4zl-澳大利亚01
+      - _v2ray-4zl-美国01
+      - _v2ray-4zl-美国02
+      - _v2ray-4zl-美国03(Netflix)
+      - _v2ray-4zl-美国05
+      - _v2ray-4zl-美国06
+      - _v2ray-4zl-美国07
+      - _v2ray-4zl-英国01【BBC】
+      - _v2ray-4zl-荷兰01
+      - _v2ray-4zl-菲律宾01
+      - _v2ray-4zl-越南01(Netflix)
+      - _v2ray-4zl-迪拜01
+      - _v2ray-4zl-韩国01
+      - _v2ray-4zl-韩国02
+      - _v2ray-4zl-香港01
+      - _v2ray-4zl-香港02
+      - _v2ray-4zl-香港03-hkt(Netflix)
+      - _v2ray-4zl-香港04
+      - _v2ray-4zl-香港05(Netflix)
+      - _v2ray-4zl-香港06-hkt(Netflix)
+      - _v2ray-4zl-香港08
+      - _v2ray-4zl-马来西亚01
+      - _v2ray-ld-azhk02
+      - _v2ray台湾04<<<江门移动
+      - "_v2ray香港03-hkt<<<江门移动\t"
+      - _v2ray香港06<<<江门移动
+      - _v2ray香港07-hgc
   -
     name: 🎬Netflix
     type: select
@@ -1967,6 +2970,57 @@ proxy-groups:
       - v2ray-jm-jp02(日本)
       - v2ray-jm-jp03(日本)
       - v2ray-jm-tw01(台湾Netflix)
+      - _v2ray-0sh-日本05
+      - _v2ray-1az-us02(美国)
+      - _v2ray-4zl-加拿大01
+      - _v2ray-4zl-卢森堡01
+      - _v2ray-4zl-印度01
+      - _v2ray-4zl-台湾01(Netflix)
+      - _v2ray-4zl-台湾02(Netflix)
+      - _v2ray-4zl-台湾03(Netflix)
+      - _v2ray-4zl-台湾04(Netflix)
+      - _v2ray-4zl-土耳其01
+      - _v2ray-4zl-巴西01
+      - _v2ray-4zl-德国01
+      - _v2ray-4zl-摩尔多卡01
+      - _v2ray-4zl-新加坡01(Netflix)
+      - _v2ray-4zl-新加坡02
+      - _v2ray-4zl-新加坡03
+      - _v2ray-4zl-新西伯利亚01(俄罗斯Netflix)
+      - _v2ray-4zl-新西伯利亚02(俄罗斯Netflix)
+      - _v2ray-4zl-日本01(Netflix|Abema|...)
+      - _v2ray-4zl-日本02(Netflix|Abema|...)
+      - _v2ray-4zl-日本03
+      - _v2ray-4zl-日本05(Netflix|Abema|...)
+      - _v2ray-4zl-智利01
+      - _v2ray-4zl-法国01
+      - _v2ray-4zl-澳大利亚01
+      - _v2ray-4zl-美国01
+      - _v2ray-4zl-美国02
+      - _v2ray-4zl-美国03(Netflix)
+      - _v2ray-4zl-美国05
+      - _v2ray-4zl-美国06
+      - _v2ray-4zl-美国07
+      - _v2ray-4zl-英国01【BBC】
+      - _v2ray-4zl-荷兰01
+      - _v2ray-4zl-菲律宾01
+      - _v2ray-4zl-越南01(Netflix)
+      - _v2ray-4zl-迪拜01
+      - _v2ray-4zl-韩国01
+      - _v2ray-4zl-韩国02
+      - _v2ray-4zl-香港01
+      - _v2ray-4zl-香港02
+      - _v2ray-4zl-香港03-hkt(Netflix)
+      - _v2ray-4zl-香港04
+      - _v2ray-4zl-香港05(Netflix)
+      - _v2ray-4zl-香港06-hkt(Netflix)
+      - _v2ray-4zl-香港08
+      - _v2ray-4zl-马来西亚01
+      - _v2ray-ld-azhk02
+      - _v2ray台湾04<<<江门移动
+      - "_v2ray香港03-hkt<<<江门移动\t"
+      - _v2ray香港06<<<江门移动
+      - _v2ray香港07-hgc
   -
     name: 🎬哔哩哔哩
     type: select
@@ -2063,6 +3117,57 @@ proxy-groups:
       - v2ray-jm-jp02(日本)
       - v2ray-jm-jp03(日本)
       - v2ray-jm-tw01(台湾Netflix)
+      - _v2ray-0sh-日本05
+      - _v2ray-1az-us02(美国)
+      - _v2ray-4zl-加拿大01
+      - _v2ray-4zl-卢森堡01
+      - _v2ray-4zl-印度01
+      - _v2ray-4zl-台湾01(Netflix)
+      - _v2ray-4zl-台湾02(Netflix)
+      - _v2ray-4zl-台湾03(Netflix)
+      - _v2ray-4zl-台湾04(Netflix)
+      - _v2ray-4zl-土耳其01
+      - _v2ray-4zl-巴西01
+      - _v2ray-4zl-德国01
+      - _v2ray-4zl-摩尔多卡01
+      - _v2ray-4zl-新加坡01(Netflix)
+      - _v2ray-4zl-新加坡02
+      - _v2ray-4zl-新加坡03
+      - _v2ray-4zl-新西伯利亚01(俄罗斯Netflix)
+      - _v2ray-4zl-新西伯利亚02(俄罗斯Netflix)
+      - _v2ray-4zl-日本01(Netflix|Abema|...)
+      - _v2ray-4zl-日本02(Netflix|Abema|...)
+      - _v2ray-4zl-日本03
+      - _v2ray-4zl-日本05(Netflix|Abema|...)
+      - _v2ray-4zl-智利01
+      - _v2ray-4zl-法国01
+      - _v2ray-4zl-澳大利亚01
+      - _v2ray-4zl-美国01
+      - _v2ray-4zl-美国02
+      - _v2ray-4zl-美国03(Netflix)
+      - _v2ray-4zl-美国05
+      - _v2ray-4zl-美国06
+      - _v2ray-4zl-美国07
+      - _v2ray-4zl-英国01【BBC】
+      - _v2ray-4zl-荷兰01
+      - _v2ray-4zl-菲律宾01
+      - _v2ray-4zl-越南01(Netflix)
+      - _v2ray-4zl-迪拜01
+      - _v2ray-4zl-韩国01
+      - _v2ray-4zl-韩国02
+      - _v2ray-4zl-香港01
+      - _v2ray-4zl-香港02
+      - _v2ray-4zl-香港03-hkt(Netflix)
+      - _v2ray-4zl-香港04
+      - _v2ray-4zl-香港05(Netflix)
+      - _v2ray-4zl-香港06-hkt(Netflix)
+      - _v2ray-4zl-香港08
+      - _v2ray-4zl-马来西亚01
+      - _v2ray-ld-azhk02
+      - _v2ray台湾04<<<江门移动
+      - "_v2ray香港03-hkt<<<江门移动\t"
+      - _v2ray香港06<<<江门移动
+      - _v2ray香港07-hgc
   -
     name: 🎬国外媒体
     type: select
@@ -2159,6 +3264,57 @@ proxy-groups:
       - v2ray-jm-jp02(日本)
       - v2ray-jm-jp03(日本)
       - v2ray-jm-tw01(台湾Netflix)
+      - _v2ray-0sh-日本05
+      - _v2ray-1az-us02(美国)
+      - _v2ray-4zl-加拿大01
+      - _v2ray-4zl-卢森堡01
+      - _v2ray-4zl-印度01
+      - _v2ray-4zl-台湾01(Netflix)
+      - _v2ray-4zl-台湾02(Netflix)
+      - _v2ray-4zl-台湾03(Netflix)
+      - _v2ray-4zl-台湾04(Netflix)
+      - _v2ray-4zl-土耳其01
+      - _v2ray-4zl-巴西01
+      - _v2ray-4zl-德国01
+      - _v2ray-4zl-摩尔多卡01
+      - _v2ray-4zl-新加坡01(Netflix)
+      - _v2ray-4zl-新加坡02
+      - _v2ray-4zl-新加坡03
+      - _v2ray-4zl-新西伯利亚01(俄罗斯Netflix)
+      - _v2ray-4zl-新西伯利亚02(俄罗斯Netflix)
+      - _v2ray-4zl-日本01(Netflix|Abema|...)
+      - _v2ray-4zl-日本02(Netflix|Abema|...)
+      - _v2ray-4zl-日本03
+      - _v2ray-4zl-日本05(Netflix|Abema|...)
+      - _v2ray-4zl-智利01
+      - _v2ray-4zl-法国01
+      - _v2ray-4zl-澳大利亚01
+      - _v2ray-4zl-美国01
+      - _v2ray-4zl-美国02
+      - _v2ray-4zl-美国03(Netflix)
+      - _v2ray-4zl-美国05
+      - _v2ray-4zl-美国06
+      - _v2ray-4zl-美国07
+      - _v2ray-4zl-英国01【BBC】
+      - _v2ray-4zl-荷兰01
+      - _v2ray-4zl-菲律宾01
+      - _v2ray-4zl-越南01(Netflix)
+      - _v2ray-4zl-迪拜01
+      - _v2ray-4zl-韩国01
+      - _v2ray-4zl-韩国02
+      - _v2ray-4zl-香港01
+      - _v2ray-4zl-香港02
+      - _v2ray-4zl-香港03-hkt(Netflix)
+      - _v2ray-4zl-香港04
+      - _v2ray-4zl-香港05(Netflix)
+      - _v2ray-4zl-香港06-hkt(Netflix)
+      - _v2ray-4zl-香港08
+      - _v2ray-4zl-马来西亚01
+      - _v2ray-ld-azhk02
+      - _v2ray台湾04<<<江门移动
+      - "_v2ray香港03-hkt<<<江门移动\t"
+      - _v2ray香港06<<<江门移动
+      - _v2ray香港07-hgc
   -
     name: 🍎苹果服务
     type: select
