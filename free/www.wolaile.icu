@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://www.yzhxy.top/link/Sycljc5DJpuHkKxR?clash=1
+#!MANAGED-CONFIG https://www.yzhxy.top/link/JCB5uQ8TskDWemrV?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-09-25 01:13:52
+## 上次更新于：2022-09-25 02:44:26
 #---------------------------------------------------#
 
 port: 7890
@@ -16,139 +16,125 @@ proxies:
   -
     name: A新加坡福利节点【免流】
     type: vmess
-    server: 36.139.9.191
-    port: 46553
-    uuid: 4e0d197a-cb4c-36ea-87fb-2ef56e7310f4
+    server: 221.131.165.89
+    port: 46035
+    uuid: d1e16537-720b-336c-a32a-4899c71a6302
     alterId: 0
     cipher: auto
     udp: true
     network: ws
     ws-path: /index
     ws-headers:
-      Host: 36.139.9.191
+      Host: 221.131.165.89
     ws-opts:
       path: /index
-      headers: { Host: 36.139.9.191 }
+      headers: { Host: 221.131.165.89 }
   -
     name: V1-台湾-1-sc-IEPL【2倍率】
     type: vmess
-    server: 36.138.4.197
-    port: 45407
-    uuid: 4e0d197a-cb4c-36ea-87fb-2ef56e7310f4
+    server: gyiepl.1aba.cn
+    port: 36501
+    uuid: d1e16537-720b-336c-a32a-4899c71a6302
     alterId: 0
     cipher: auto
     udp: true
   -
     name: V1-台湾-2-sc-广港
     type: vmess
-    server: 36.139.9.191
-    port: 46548
-    uuid: 4e0d197a-cb4c-36ea-87fb-2ef56e7310f4
+    server: 221.131.165.89
+    port: 46037
+    uuid: d1e16537-720b-336c-a32a-4899c71a6302
     alterId: 0
     cipher: auto
     udp: true
     network: ws
     ws-path: /index
     ws-headers:
-      Host: 36.139.9.191
+      Host: 221.131.165.89
     ws-opts:
       path: /index
-      headers: { Host: 36.139.9.191 }
+      headers: { Host: 221.131.165.89 }
   -
     name: V1-菲律宾-2-sc-广港
     type: vmess
-    server: 36.139.9.191
-    port: 46559
-    uuid: 4e0d197a-cb4c-36ea-87fb-2ef56e7310f4
+    server: 221.131.165.89
+    port: 46038
+    uuid: d1e16537-720b-336c-a32a-4899c71a6302
     alterId: 0
     cipher: auto
     udp: true
   -
     name: V1-越南-1-sc-IEPL【2倍率】
     type: vmess
-    server: fsyy.fosi.hk
-    port: 25612
-    uuid: 4e0d197a-cb4c-36ea-87fb-2ef56e7310f4
+    server: ydgy.fosi.hk
+    port: 18121
+    uuid: d1e16537-720b-336c-a32a-4899c71a6302
     alterId: 0
     cipher: auto
     udp: true
     network: ws
     ws-path: /index
     ws-headers:
-      Host: fsyy.fosi.hk
+      Host: ydgy.fosi.hk
     ws-opts:
       path: /index
-      headers: { Host: fsyy.fosi.hk }
+      headers: { Host: ydgy.fosi.hk }
   -
     name: V1-越南-2-sc—广港
     type: vmess
-    server: 36.139.9.191
-    port: 46549
-    uuid: 4e0d197a-cb4c-36ea-87fb-2ef56e7310f4
+    server: 221.131.165.89
+    port: 46041
+    uuid: d1e16537-720b-336c-a32a-4899c71a6302
     alterId: 0
     cipher: auto
     udp: true
-    network: ws
-    ws-path: /index
-    ws-headers:
-      Host: 36.139.9.191
-    ws-opts:
-      path: /index
-      headers: { Host: 36.139.9.191 }
   -
     name: V1-韩国-1-sc-IEPL【2倍率】
     type: vmess
-    server: 118.212.143.4
-    port: 45258
-    uuid: 4e0d197a-cb4c-36ea-87fb-2ef56e7310f4
+    server: 221.131.165.89
+    port: 46043
+    uuid: d1e16537-720b-336c-a32a-4899c71a6302
     alterId: 0
     cipher: auto
     udp: true
-    network: ws
-    ws-path: /index
-    ws-headers:
-      Host: 118.212.143.4
-    ws-opts:
-      path: /index
-      headers: { Host: 118.212.143.4 }
   -
     name: V1-韩国-2-sc-广港
     type: vmess
-    server: 36.139.9.191
-    port: 46550
-    uuid: 4e0d197a-cb4c-36ea-87fb-2ef56e7310f4
+    server: gyiepl.1aba.cn
+    port: 59460
+    uuid: d1e16537-720b-336c-a32a-4899c71a6302
     alterId: 0
     cipher: auto
     udp: true
     network: ws
     ws-path: /index
     ws-headers:
-      Host: 36.139.9.191
+      Host: gyiepl.1aba.cn
     ws-opts:
       path: /index
-      headers: { Host: 36.139.9.191 }
+      headers: { Host: gyiepl.1aba.cn }
   -
     name: V1-香港-1-sc-【极速节点】2倍率
     type: vmess
-    server: fsyy.fosi.hk
-    port: 25689
-    uuid: 4e0d197a-cb4c-36ea-87fb-2ef56e7310f4
+    server: gyiepl.1aba.cn
+    port: 50764
+    uuid: d1e16537-720b-336c-a32a-4899c71a6302
     alterId: 0
     cipher: auto
     udp: true
     network: ws
     ws-path: /index
     ws-headers:
-      Host: fsyy.fosi.hk
+      Host: gyiepl.1aba.cn
     ws-opts:
       path: /index
-      headers: { Host: fsyy.fosi.hk }
+      headers: { Host: gyiepl.1aba.cn }
   -
     name: V1-香港-2-sc-广港
     type: vmess
     server: 36.138.4.197
     port: 45402
-    uuid: 4e0d197a-cb4c-36ea-87fb-2ef56e7310f4
+    uuid: d1e16537-720b-336c-a32a-4899c71a6302
     alterId: 0
     cipher: auto
     udp: true
@@ -164,7 +150,7 @@ proxies:
     type: vmess
     server: 36.138.4.197
     port: 45504
-    uuid: 4e0d197a-cb4c-36ea-87fb-2ef56e7310f4
+    uuid: d1e16537-720b-336c-a32a-4899c71a6302
     alterId: 0
     cipher: auto
     udp: true
@@ -180,7 +166,7 @@ proxies:
     type: vmess
     server: 183.245.147.54
     port: 45428
-    uuid: 4e0d197a-cb4c-36ea-87fb-2ef56e7310f4
+    uuid: d1e16537-720b-336c-a32a-4899c71a6302
     alterId: 0
     cipher: auto
     udp: true
@@ -196,7 +182,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46309
-    uuid: 4e0d197a-cb4c-36ea-87fb-2ef56e7310f4
+    uuid: d1e16537-720b-336c-a32a-4899c71a6302
     alterId: 2
     cipher: auto
     udp: true
@@ -212,7 +198,7 @@ proxies:
     type: vmess
     server: 36.138.4.197
     port: 45503
-    uuid: 4e0d197a-cb4c-36ea-87fb-2ef56e7310f4
+    uuid: d1e16537-720b-336c-a32a-4899c71a6302
     alterId: 2
     cipher: auto
     udp: true
@@ -228,7 +214,7 @@ proxies:
     type: vmess
     server: 36.139.9.191
     port: 46326
-    uuid: 4e0d197a-cb4c-36ea-87fb-2ef56e7310f4
+    uuid: d1e16537-720b-336c-a32a-4899c71a6302
     alterId: 2
     cipher: auto
     udp: true
