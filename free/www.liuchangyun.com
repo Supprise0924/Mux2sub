@@ -1,9 +1,9 @@
 
 
-#!MANAGED-CONFIG https://www.liuchangyun.com/mod_mu/subinfo/EObu7cgVVnMbBEce?clash=1&key=zzjjhh123
+#!MANAGED-CONFIG https://www.liuchangyun.com/mod_mu/subinfo/5g84jQTx4gj7krZr?clash=1&key=zzjjhh123
 
 #---------------------------------------------------#
-## 上次更新于：2022-09-26 01:47:22
+## 上次更新于：2022-09-26 03:03:45
 #---------------------------------------------------#
 
 port: 7890
@@ -36,7 +36,7 @@ proxies:
     type: vmess
     server: jh-ru01-direct01.jh-ru01.lc-node.com
     port: 443
-    uuid: 238670e8-7659-347f-9440-e9ae3b4f65c5
+    uuid: 5b9658fc-5a91-3083-8aa5-82943a0e7262
     alterId: 2
     cipher: auto
     udp: true
@@ -46,81 +46,39 @@ proxies:
       Host: jh-ru01-direct01.jh-ru01.lc-node.com
     tls: true
   -
-    name: '流暢雲 台湾|直连|TW 01'
-    type: vmess
-    server: lc-tw01-direct01.lc-tw01.lc-node.com
-    port: 443
-    uuid: 238670e8-7659-347f-9440-e9ae3b4f65c5
-    alterId: 2
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /
-    ws-headers:
-      Host: lc-tw01-direct01.lc-tw01.lc-node.com
-    tls: true
-  -
-    name: '流暢雲 台湾|直连|TW 02'
-    type: vmess
-    server: lc-tw02-direct01.lc-tw02.lc-node.com
-    port: 443
-    uuid: 238670e8-7659-347f-9440-e9ae3b4f65c5
-    alterId: 2
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /
-    ws-headers:
-      Host: lc-tw02-direct01.lc-tw02.lc-node.com
-    tls: true
-  -
-    name: '流暢雲 日本|直连|JP 01'
-    type: vmess
-    server: lc-jp01-direct01.lc-jp01.lc-node.com
-    port: 443
-    uuid: 238670e8-7659-347f-9440-e9ae3b4f65c5
-    alterId: 2
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /
-    ws-headers:
-      Host: lc-jp01-direct01.lc-jp01.lc-node.com
-    tls: true
-  -
     name: '流暢雲 美國|直连|US 01'
     type: vmess
-    server: dm-us01-direct01.dm-us01.lc-node.com
+    server: dm-us01-direct11.dm-us01.lc-node.com
     port: 443
-    uuid: 238670e8-7659-347f-9440-e9ae3b4f65c5
+    uuid: 5b9658fc-5a91-3083-8aa5-82943a0e7262
     alterId: 2
     cipher: auto
     udp: true
     network: ws
     ws-path: /
     ws-headers:
-      Host: dm-us01-direct01.dm-us01.lc-node.com
+      Host: dm-us01-direct11.dm-us01.lc-node.com
     tls: true
   -
     name: '流暢雲 美國|直连|US 02'
     type: vmess
-    server: dm-us02-direct01.dm-us02.lc-node.com
+    server: dm-us01-direct12.dm-us01.lc-node.com
     port: 443
-    uuid: 238670e8-7659-347f-9440-e9ae3b4f65c5
+    uuid: 5b9658fc-5a91-3083-8aa5-82943a0e7262
     alterId: 2
     cipher: auto
     udp: true
     network: ws
     ws-path: /
     ws-headers:
-      Host: dm-us02-direct01.dm-us02.lc-node.com
+      Host: dm-us01-direct12.dm-us01.lc-node.com
     tls: true
   -
     name: '流暢雲 美國|直连|US 03'
     type: vmess
     server: dm-us03-direct01.dm-us03.lc-node.com
     port: 443
-    uuid: 238670e8-7659-347f-9440-e9ae3b4f65c5
+    uuid: 5b9658fc-5a91-3083-8aa5-82943a0e7262
     alterId: 2
     cipher: auto
     udp: true
@@ -134,7 +92,7 @@ proxies:
     type: vmess
     server: dm-us02-direct02.dm-us02.lc-node.com
     port: 443
-    uuid: 238670e8-7659-347f-9440-e9ae3b4f65c5
+    uuid: 5b9658fc-5a91-3083-8aa5-82943a0e7262
     alterId: 2
     cipher: auto
     udp: true
@@ -148,7 +106,7 @@ proxies:
     type: vmess
     server: lc-us05-direct01.lc-us05.lc-node.com
     port: 443
-    uuid: 238670e8-7659-347f-9440-e9ae3b4f65c5
+    uuid: 5b9658fc-5a91-3083-8aa5-82943a0e7262
     alterId: 2
     cipher: auto
     udp: true
@@ -162,7 +120,7 @@ proxies:
     type: vmess
     server: lc-us06-direct01.lc-us06.lc-node.com
     port: 443
-    uuid: 238670e8-7659-347f-9440-e9ae3b4f65c5
+    uuid: 5b9658fc-5a91-3083-8aa5-82943a0e7262
     alterId: 2
     cipher: auto
     udp: true
@@ -176,7 +134,7 @@ proxies:
     type: vmess
     server: lc-us01-direct01.lc-us01.lc-node.com
     port: 443
-    uuid: 238670e8-7659-347f-9440-e9ae3b4f65c5
+    uuid: 5b9658fc-5a91-3083-8aa5-82943a0e7262
     alterId: 2
     cipher: auto
     udp: true
@@ -190,7 +148,7 @@ proxies:
     type: vmess
     server: lc-us02-direct01.lc-us02.lc-node.com
     port: 443
-    uuid: 238670e8-7659-347f-9440-e9ae3b4f65c5
+    uuid: 5b9658fc-5a91-3083-8aa5-82943a0e7262
     alterId: 2
     cipher: auto
     udp: true
@@ -204,7 +162,7 @@ proxies:
     type: vmess
     server: lc-us03-direct01.lc-us03.lc-node.com
     port: 443
-    uuid: 238670e8-7659-347f-9440-e9ae3b4f65c5
+    uuid: 5b9658fc-5a91-3083-8aa5-82943a0e7262
     alterId: 2
     cipher: auto
     udp: true
@@ -213,85 +171,12 @@ proxies:
     ws-headers:
       Host: lc-us03-direct01.lc-us03.lc-node.com
     tls: true
-  -
-    name: '流暢雲 英國|直连|UK 01'
-    type: vmess
-    server: vu-uk01-direct01.vu-uk01.lc-node.com
-    port: 443
-    uuid: 238670e8-7659-347f-9440-e9ae3b4f65c5
-    alterId: 2
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /
-    ws-headers:
-      Host: vu-uk01-direct01.vu-uk01.lc-node.com
-    tls: true
-  -
-    name: '流暢雲 韩国|直连|KR 02'
-    type: vmess
-    server: lc-kr02-direct01.lc-kr02.lc-node.com
-    port: 443
-    uuid: 238670e8-7659-347f-9440-e9ae3b4f65c5
-    alterId: 2
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /
-    ws-headers:
-      Host: lc-kr02-direct01.lc-kr02.lc-node.com
-    tls: true
-  -
-    name: '流暢雲 韩国|直连|KR 03 '
-    type: vmess
-    server: vu-kr01-direct01.vu-kr01.lc-node.com
-    port: 443
-    uuid: 238670e8-7659-347f-9440-e9ae3b4f65c5
-    alterId: 2
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /
-    ws-headers:
-      Host: vu-kr01-direct01.vu-kr01.lc-node.com
-    tls: true
-  -
-    name: '流暢雲 香港PRO IPLC專綫 01'
-    type: vmess
-    server: lc-hk01-direct01.lc-hk01.lc-node.com
-    port: 443
-    uuid: 238670e8-7659-347f-9440-e9ae3b4f65c5
-    alterId: 2
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /
-    ws-headers:
-      Host: lc-hk01-direct01.lc-hk01.lc-node.com
-    tls: true
-  -
-    name: '流暢雲 香港PRO IPLC專綫 02'
-    type: vmess
-    server: lc-hk02-direct01.lc-hk02.lc-node.com
-    port: 443
-    uuid: 238670e8-7659-347f-9440-e9ae3b4f65c5
-    alterId: 2
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /
-    ws-headers:
-      Host: lc-hk02-direct01.lc-hk02.lc-node.com
-    tls: true
 proxy-groups:
   -
     name: 🔰国外流量
     type: select
     proxies:
       - '流暢雲 俄罗斯|直連|RU 01'
-      - '流暢雲 台湾|直连|TW 01'
-      - '流暢雲 台湾|直连|TW 02'
-      - '流暢雲 日本|直连|JP 01'
       - '流暢雲 美國|直连|US 01'
       - '流暢雲 美國|直连|US 02'
       - '流暢雲 美國|直连|US 03'
@@ -301,11 +186,6 @@ proxy-groups:
       - '流暢雲 美國PRO|直連|US01'
       - '流暢雲 美國PRO|直連|US02'
       - '流暢雲 美國PRO|直連|US03'
-      - '流暢雲 英國|直连|UK 01'
-      - '流暢雲 韩国|直连|KR 02'
-      - '流暢雲 韩国|直连|KR 03 '
-      - '流暢雲 香港PRO IPLC專綫 01'
-      - '流暢雲 香港PRO IPLC專綫 02'
       - 🚀直接连接
   -
     name: ⚓️其他流量
@@ -319,9 +199,6 @@ proxy-groups:
     proxies:
       - 🔰国外流量
       - '流暢雲 俄罗斯|直連|RU 01'
-      - '流暢雲 台湾|直连|TW 01'
-      - '流暢雲 台湾|直连|TW 02'
-      - '流暢雲 日本|直连|JP 01'
       - '流暢雲 美國|直连|US 01'
       - '流暢雲 美國|直连|US 02'
       - '流暢雲 美國|直连|US 03'
@@ -331,20 +208,12 @@ proxy-groups:
       - '流暢雲 美國PRO|直連|US01'
       - '流暢雲 美國PRO|直連|US02'
       - '流暢雲 美國PRO|直連|US03'
-      - '流暢雲 英國|直连|UK 01'
-      - '流暢雲 韩国|直连|KR 02'
-      - '流暢雲 韩国|直连|KR 03 '
-      - '流暢雲 香港PRO IPLC專綫 01'
-      - '流暢雲 香港PRO IPLC專綫 02'
   -
     name: 🎬Youtube
     type: select
     proxies:
       - 🔰国外流量
       - '流暢雲 俄罗斯|直連|RU 01'
-      - '流暢雲 台湾|直连|TW 01'
-      - '流暢雲 台湾|直连|TW 02'
-      - '流暢雲 日本|直连|JP 01'
       - '流暢雲 美國|直连|US 01'
       - '流暢雲 美國|直连|US 02'
       - '流暢雲 美國|直连|US 03'
@@ -354,20 +223,12 @@ proxy-groups:
       - '流暢雲 美國PRO|直連|US01'
       - '流暢雲 美國PRO|直連|US02'
       - '流暢雲 美國PRO|直連|US03'
-      - '流暢雲 英國|直连|UK 01'
-      - '流暢雲 韩国|直连|KR 02'
-      - '流暢雲 韩国|直连|KR 03 '
-      - '流暢雲 香港PRO IPLC專綫 01'
-      - '流暢雲 香港PRO IPLC專綫 02'
   -
     name: 🎬Netflix
     type: select
     proxies:
       - 🔰国外流量
       - '流暢雲 俄罗斯|直連|RU 01'
-      - '流暢雲 台湾|直连|TW 01'
-      - '流暢雲 台湾|直连|TW 02'
-      - '流暢雲 日本|直连|JP 01'
       - '流暢雲 美國|直连|US 01'
       - '流暢雲 美國|直连|US 02'
       - '流暢雲 美國|直连|US 03'
@@ -377,20 +238,12 @@ proxy-groups:
       - '流暢雲 美國PRO|直連|US01'
       - '流暢雲 美國PRO|直連|US02'
       - '流暢雲 美國PRO|直連|US03'
-      - '流暢雲 英國|直连|UK 01'
-      - '流暢雲 韩国|直连|KR 02'
-      - '流暢雲 韩国|直连|KR 03 '
-      - '流暢雲 香港PRO IPLC專綫 01'
-      - '流暢雲 香港PRO IPLC專綫 02'
   -
     name: 🎬哔哩哔哩
     type: select
     proxies:
       - 🚀直接连接
       - '流暢雲 俄罗斯|直連|RU 01'
-      - '流暢雲 台湾|直连|TW 01'
-      - '流暢雲 台湾|直连|TW 02'
-      - '流暢雲 日本|直连|JP 01'
       - '流暢雲 美國|直连|US 01'
       - '流暢雲 美國|直连|US 02'
       - '流暢雲 美國|直连|US 03'
@@ -400,20 +253,12 @@ proxy-groups:
       - '流暢雲 美國PRO|直連|US01'
       - '流暢雲 美國PRO|直連|US02'
       - '流暢雲 美國PRO|直連|US03'
-      - '流暢雲 英國|直连|UK 01'
-      - '流暢雲 韩国|直连|KR 02'
-      - '流暢雲 韩国|直连|KR 03 '
-      - '流暢雲 香港PRO IPLC專綫 01'
-      - '流暢雲 香港PRO IPLC專綫 02'
   -
     name: 🎬国外媒体
     type: select
     proxies:
       - 🔰国外流量
       - '流暢雲 俄罗斯|直連|RU 01'
-      - '流暢雲 台湾|直连|TW 01'
-      - '流暢雲 台湾|直连|TW 02'
-      - '流暢雲 日本|直连|JP 01'
       - '流暢雲 美國|直连|US 01'
       - '流暢雲 美國|直连|US 02'
       - '流暢雲 美國|直连|US 03'
@@ -423,11 +268,6 @@ proxy-groups:
       - '流暢雲 美國PRO|直連|US01'
       - '流暢雲 美國PRO|直連|US02'
       - '流暢雲 美國PRO|直連|US03'
-      - '流暢雲 英國|直连|UK 01'
-      - '流暢雲 韩国|直连|KR 02'
-      - '流暢雲 韩国|直连|KR 03 '
-      - '流暢雲 香港PRO IPLC專綫 01'
-      - '流暢雲 香港PRO IPLC專綫 02'
   -
     name: 🍎苹果服务
     type: select
