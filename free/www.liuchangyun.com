@@ -1,9 +1,9 @@
 
 
-#!MANAGED-CONFIG https://www.liuchangyun.com/mod_mu/subinfo/5g84jQTx4gj7krZr?clash=1&key=zzjjhh123
+#!MANAGED-CONFIG https://www.liuchangyun.com/mod_mu/subinfo/yNzmtY4TP9TPSQ8O?clash=1&key=zzjjhh123
 
 #---------------------------------------------------#
-## 上次更新于：2022-09-26 03:03:45
+## 上次更新于：2022-09-26 04:46:53
 #---------------------------------------------------#
 
 port: 7890
@@ -36,7 +36,7 @@ proxies:
     type: vmess
     server: jh-ru01-direct01.jh-ru01.lc-node.com
     port: 443
-    uuid: 5b9658fc-5a91-3083-8aa5-82943a0e7262
+    uuid: 183ca6ea-2fef-30ed-a17a-fc109ed90005
     alterId: 2
     cipher: auto
     udp: true
@@ -50,7 +50,7 @@ proxies:
     type: vmess
     server: dm-us01-direct11.dm-us01.lc-node.com
     port: 443
-    uuid: 5b9658fc-5a91-3083-8aa5-82943a0e7262
+    uuid: 183ca6ea-2fef-30ed-a17a-fc109ed90005
     alterId: 2
     cipher: auto
     udp: true
@@ -64,7 +64,7 @@ proxies:
     type: vmess
     server: dm-us01-direct12.dm-us01.lc-node.com
     port: 443
-    uuid: 5b9658fc-5a91-3083-8aa5-82943a0e7262
+    uuid: 183ca6ea-2fef-30ed-a17a-fc109ed90005
     alterId: 2
     cipher: auto
     udp: true
@@ -76,65 +76,65 @@ proxies:
   -
     name: '流暢雲 美國|直连|US 03'
     type: vmess
-    server: dm-us03-direct01.dm-us03.lc-node.com
+    server: dm-us02-direct11.dm-us02.lc-node.com
     port: 443
-    uuid: 5b9658fc-5a91-3083-8aa5-82943a0e7262
+    uuid: 183ca6ea-2fef-30ed-a17a-fc109ed90005
     alterId: 2
     cipher: auto
     udp: true
     network: ws
     ws-path: /
     ws-headers:
-      Host: dm-us03-direct01.dm-us03.lc-node.com
+      Host: dm-us02-direct11.dm-us02.lc-node.com
     tls: true
   -
     name: '流暢雲 美國|直连|US 04'
     type: vmess
-    server: dm-us02-direct02.dm-us02.lc-node.com
+    server: dm-us02-direct12.dm-us02.lc-node.com
     port: 443
-    uuid: 5b9658fc-5a91-3083-8aa5-82943a0e7262
+    uuid: 183ca6ea-2fef-30ed-a17a-fc109ed90005
     alterId: 2
     cipher: auto
     udp: true
     network: ws
     ws-path: /
     ws-headers:
-      Host: dm-us02-direct02.dm-us02.lc-node.com
+      Host: dm-us02-direct12.dm-us02.lc-node.com
     tls: true
   -
     name: '流暢雲 美國|直连|US 05'
     type: vmess
-    server: lc-us05-direct01.lc-us05.lc-node.com
+    server: dm-us03-direct11.dm-us03.lc-node.com
     port: 443
-    uuid: 5b9658fc-5a91-3083-8aa5-82943a0e7262
+    uuid: 183ca6ea-2fef-30ed-a17a-fc109ed90005
     alterId: 2
     cipher: auto
     udp: true
     network: ws
     ws-path: /
     ws-headers:
-      Host: lc-us05-direct01.lc-us05.lc-node.com
+      Host: dm-us03-direct11.dm-us03.lc-node.com
     tls: true
   -
     name: '流暢雲 美國|直连|US 06'
     type: vmess
-    server: lc-us06-direct01.lc-us06.lc-node.com
+    server: dm-us03-direct12.dm-us03.lc-node.com
     port: 443
-    uuid: 5b9658fc-5a91-3083-8aa5-82943a0e7262
+    uuid: 183ca6ea-2fef-30ed-a17a-fc109ed90005
     alterId: 2
     cipher: auto
     udp: true
     network: ws
     ws-path: /
     ws-headers:
-      Host: lc-us06-direct01.lc-us06.lc-node.com
+      Host: dm-us03-direct12.dm-us03.lc-node.com
     tls: true
   -
     name: '流暢雲 美國PRO|直連|US01'
     type: vmess
     server: lc-us01-direct01.lc-us01.lc-node.com
     port: 443
-    uuid: 5b9658fc-5a91-3083-8aa5-82943a0e7262
+    uuid: 183ca6ea-2fef-30ed-a17a-fc109ed90005
     alterId: 2
     cipher: auto
     udp: true
@@ -146,23 +146,23 @@ proxies:
   -
     name: '流暢雲 美國PRO|直連|US02'
     type: vmess
-    server: lc-us02-direct01.lc-us02.lc-node.com
+    server: lc-us12-direct01.lc-us02.lc-node.com
     port: 443
-    uuid: 5b9658fc-5a91-3083-8aa5-82943a0e7262
+    uuid: 183ca6ea-2fef-30ed-a17a-fc109ed90005
     alterId: 2
     cipher: auto
     udp: true
     network: ws
     ws-path: /
     ws-headers:
-      Host: lc-us02-direct01.lc-us02.lc-node.com
+      Host: lc-us12-direct01.lc-us02.lc-node.com
     tls: true
   -
     name: '流暢雲 美國PRO|直連|US03'
     type: vmess
     server: lc-us03-direct01.lc-us03.lc-node.com
     port: 443
-    uuid: 5b9658fc-5a91-3083-8aa5-82943a0e7262
+    uuid: 183ca6ea-2fef-30ed-a17a-fc109ed90005
     alterId: 2
     cipher: auto
     udp: true
