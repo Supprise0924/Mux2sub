@@ -1,9 +1,9 @@
 
 
-#!MANAGED-CONFIG https://www.liuchangyun.com/mod_mu/subinfo/xWYLcYrerZx32EPz?clash=1&key=zzjjhh123
+#!MANAGED-CONFIG https://www.liuchangyun.com/mod_mu/subinfo/BZqELu9mxTKoKT38?clash=1&key=zzjjhh123
 
 #---------------------------------------------------#
-## 上次更新于：2022-09-28 06:40:43
+## 上次更新于：2022-09-28 09:06:01
 #---------------------------------------------------#
 
 port: 7890
@@ -36,7 +36,7 @@ proxies:
     type: vmess
     server: jh-ru01-direct01.jh-ru01.lc-node.com
     port: 443
-    uuid: f7789d01-f2d6-3d5d-bdc2-bed7a1ab24f1
+    uuid: 0a055658-f60b-3d1d-afd5-7fc9adbc8bfd
     alterId: 2
     cipher: auto
     udp: true
@@ -50,7 +50,7 @@ proxies:
     type: vmess
     server: dm-us01-direct11.dm-us01.lc-node.com
     port: 443
-    uuid: f7789d01-f2d6-3d5d-bdc2-bed7a1ab24f1
+    uuid: 0a055658-f60b-3d1d-afd5-7fc9adbc8bfd
     alterId: 2
     cipher: auto
     udp: true
@@ -64,7 +64,7 @@ proxies:
     type: vmess
     server: dm-us01-direct12.dm-us01.lc-node.com
     port: 443
-    uuid: f7789d01-f2d6-3d5d-bdc2-bed7a1ab24f1
+    uuid: 0a055658-f60b-3d1d-afd5-7fc9adbc8bfd
     alterId: 2
     cipher: auto
     udp: true
@@ -78,7 +78,7 @@ proxies:
     type: vmess
     server: dm-us02-direct11.dm-us02.lc-node.com
     port: 443
-    uuid: f7789d01-f2d6-3d5d-bdc2-bed7a1ab24f1
+    uuid: 0a055658-f60b-3d1d-afd5-7fc9adbc8bfd
     alterId: 2
     cipher: auto
     udp: true
@@ -92,7 +92,7 @@ proxies:
     type: vmess
     server: dm-us02-direct12.dm-us02.lc-node.com
     port: 443
-    uuid: f7789d01-f2d6-3d5d-bdc2-bed7a1ab24f1
+    uuid: 0a055658-f60b-3d1d-afd5-7fc9adbc8bfd
     alterId: 2
     cipher: auto
     udp: true
@@ -106,7 +106,7 @@ proxies:
     type: vmess
     server: dm-us03-direct11.dm-us03.lc-node.com
     port: 443
-    uuid: f7789d01-f2d6-3d5d-bdc2-bed7a1ab24f1
+    uuid: 0a055658-f60b-3d1d-afd5-7fc9adbc8bfd
     alterId: 2
     cipher: auto
     udp: true
@@ -120,7 +120,7 @@ proxies:
     type: vmess
     server: dm-us03-direct12.dm-us03.lc-node.com
     port: 443
-    uuid: f7789d01-f2d6-3d5d-bdc2-bed7a1ab24f1
+    uuid: 0a055658-f60b-3d1d-afd5-7fc9adbc8bfd
     alterId: 2
     cipher: auto
     udp: true
@@ -134,7 +134,7 @@ proxies:
     type: vmess
     server: lc-us01-direct01.lc-us01.lc-node.com
     port: 443
-    uuid: f7789d01-f2d6-3d5d-bdc2-bed7a1ab24f1
+    uuid: 0a055658-f60b-3d1d-afd5-7fc9adbc8bfd
     alterId: 2
     cipher: auto
     udp: true
@@ -148,7 +148,7 @@ proxies:
     type: vmess
     server: lc-us12-direct01.lc-us02.lc-node.com
     port: 443
-    uuid: f7789d01-f2d6-3d5d-bdc2-bed7a1ab24f1
+    uuid: 0a055658-f60b-3d1d-afd5-7fc9adbc8bfd
     alterId: 2
     cipher: auto
     udp: true
@@ -162,7 +162,7 @@ proxies:
     type: vmess
     server: lc-us03-direct01.lc-us03.lc-node.com
     port: 443
-    uuid: f7789d01-f2d6-3d5d-bdc2-bed7a1ab24f1
+    uuid: 0a055658-f60b-3d1d-afd5-7fc9adbc8bfd
     alterId: 2
     cipher: auto
     udp: true
