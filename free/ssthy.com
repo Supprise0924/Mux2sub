@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://ssthy.net/link/k6rrKoV9CvTsOl4w?clash=1
+#!MANAGED-CONFIG https://ssthy.net/link/dcgJe6SLuAS8Y1WT?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-09-28 03:04:56
+## 上次更新于：2022-09-28 04:49:50
 #---------------------------------------------------#
 
 port: 7890
@@ -18,7 +18,7 @@ proxies:
     type: vmess
     server: s400l.cmcuct.org
     port: 24488
-    uuid: 1a5f1429-2bbb-398f-be86-4dc53206077f
+    uuid: d53f305f-de83-3ca6-a843-d1eae9582e49
     alterId: 0
     cipher: auto
     udp: true
@@ -31,11 +31,11 @@ proxies:
       path: /download
       headers: { Host: us.domain.com }
   -
-    name: '国际 ssthy.com | x0.1 '
+    name: '国际 ssthy.com | x0.1'
     type: vmess
     server: sd2.cmcuct.org
     port: 24402
-    uuid: 1a5f1429-2bbb-398f-be86-4dc53206077f
+    uuid: d53f305f-de83-3ca6-a843-d1eae9582e49
     alterId: 0
     cipher: auto
     udp: true
@@ -53,7 +53,7 @@ proxy-groups:
     type: select
     proxies:
       - '国内 ssthy.net | x0.3 '
-      - '国际 ssthy.com | x0.1 '
+      - '国际 ssthy.com | x0.1'
       - 🚀直接连接
   -
     name: ⚓️其他流量
@@ -67,35 +67,35 @@ proxy-groups:
     proxies:
       - 🔰国外流量
       - '国内 ssthy.net | x0.3 '
-      - '国际 ssthy.com | x0.1 '
+      - '国际 ssthy.com | x0.1'
   -
     name: 🎬Youtube
     type: select
     proxies:
       - 🔰国外流量
       - '国内 ssthy.net | x0.3 '
-      - '国际 ssthy.com | x0.1 '
+      - '国际 ssthy.com | x0.1'
   -
     name: 🎬Netflix
     type: select
     proxies:
       - 🔰国外流量
       - '国内 ssthy.net | x0.3 '
-      - '国际 ssthy.com | x0.1 '
+      - '国际 ssthy.com | x0.1'
   -
     name: 🎬哔哩哔哩
     type: select
     proxies:
       - 🚀直接连接
       - '国内 ssthy.net | x0.3 '
-      - '国际 ssthy.com | x0.1 '
+      - '国际 ssthy.com | x0.1'
   -
     name: 🎬国外媒体
     type: select
     proxies:
       - 🔰国外流量
       - '国内 ssthy.net | x0.3 '
-      - '国际 ssthy.com | x0.1 '
+      - '国际 ssthy.com | x0.1'
   -
     name: 🍎苹果服务
     type: select
