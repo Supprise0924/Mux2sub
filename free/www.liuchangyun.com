@@ -1,9 +1,9 @@
 
 
-#!MANAGED-CONFIG https://www.liuchangyun.com/mod_mu/subinfo/7Xu9orKxhFdIIo96?clash=1&key=zzjjhh123
+#!MANAGED-CONFIG https://www.liuchangyun.com/mod_mu/subinfo/kgJf4bC4FsHjggpF?clash=1&key=zzjjhh123
 
 #---------------------------------------------------#
-## 上次更新于：2022-09-29 06:38:58
+## 上次更新于：2022-09-29 09:07:33
 #---------------------------------------------------#
 
 port: 7890
@@ -36,7 +36,7 @@ proxies:
     type: vmess
     server: jh-ru01-direct01.jh-ru01.lc-node.com
     port: 443
-    uuid: 3685cb3e-8479-3556-9005-4c9ab1084a63
+    uuid: 323a15c9-05cd-33e5-b7ca-44f8a47a284f
     alterId: 2
     cipher: auto
     udp: true
@@ -48,93 +48,93 @@ proxies:
   -
     name: '流暢雲 美國|直连|US 01'
     type: vmess
-    server: dm-us01-direct11.dm-us01.lc-node.com
+    server: dm-us01-direct13.dm-us01.lc-node.com
     port: 443
-    uuid: 3685cb3e-8479-3556-9005-4c9ab1084a63
+    uuid: 323a15c9-05cd-33e5-b7ca-44f8a47a284f
     alterId: 2
     cipher: auto
     udp: true
     network: ws
     ws-path: /
     ws-headers:
-      Host: dm-us01-direct11.dm-us01.lc-node.com
+      Host: dm-us01-direct13.dm-us01.lc-node.com
     tls: true
   -
     name: '流暢雲 美國|直连|US 02'
     type: vmess
-    server: dm-us01-direct12.dm-us01.lc-node.com
+    server: dm-us01-direct14.dm-us01.lc-node.com
     port: 443
-    uuid: 3685cb3e-8479-3556-9005-4c9ab1084a63
+    uuid: 323a15c9-05cd-33e5-b7ca-44f8a47a284f
     alterId: 2
     cipher: auto
     udp: true
     network: ws
     ws-path: /
     ws-headers:
-      Host: dm-us01-direct12.dm-us01.lc-node.com
+      Host: dm-us01-direct14.dm-us01.lc-node.com
     tls: true
   -
     name: '流暢雲 美國|直连|US 03'
     type: vmess
-    server: dm-us02-direct11.dm-us02.lc-node.com
+    server: dm-us02-direct13.dm-us02.lc-node.com
     port: 443
-    uuid: 3685cb3e-8479-3556-9005-4c9ab1084a63
+    uuid: 323a15c9-05cd-33e5-b7ca-44f8a47a284f
     alterId: 2
     cipher: auto
     udp: true
     network: ws
     ws-path: /
     ws-headers:
-      Host: dm-us02-direct11.dm-us02.lc-node.com
+      Host: dm-us02-direct13.dm-us02.lc-node.com
     tls: true
   -
     name: '流暢雲 美國|直连|US 04'
     type: vmess
-    server: dm-us02-direct12.dm-us02.lc-node.com
+    server: dm-us02-direct14.dm-us02.lc-node.com
     port: 443
-    uuid: 3685cb3e-8479-3556-9005-4c9ab1084a63
+    uuid: 323a15c9-05cd-33e5-b7ca-44f8a47a284f
     alterId: 2
     cipher: auto
     udp: true
     network: ws
     ws-path: /
     ws-headers:
-      Host: dm-us02-direct12.dm-us02.lc-node.com
+      Host: dm-us02-direct14.dm-us02.lc-node.com
     tls: true
   -
     name: '流暢雲 美國|直连|US 05'
     type: vmess
-    server: dm-us03-direct11.dm-us03.lc-node.com
+    server: dm-us03-direct13.dm-us03.lc-node.com
     port: 443
-    uuid: 3685cb3e-8479-3556-9005-4c9ab1084a63
+    uuid: 323a15c9-05cd-33e5-b7ca-44f8a47a284f
     alterId: 2
     cipher: auto
     udp: true
     network: ws
     ws-path: /
     ws-headers:
-      Host: dm-us03-direct11.dm-us03.lc-node.com
+      Host: dm-us03-direct13.dm-us03.lc-node.com
     tls: true
   -
     name: '流暢雲 美國|直连|US 06'
     type: vmess
-    server: dm-us03-direct12.dm-us03.lc-node.com
+    server: dm-us03-direct14.dm-us03.lc-node.com
     port: 443
-    uuid: 3685cb3e-8479-3556-9005-4c9ab1084a63
+    uuid: 323a15c9-05cd-33e5-b7ca-44f8a47a284f
     alterId: 2
     cipher: auto
     udp: true
     network: ws
     ws-path: /
     ws-headers:
-      Host: dm-us03-direct12.dm-us03.lc-node.com
+      Host: dm-us03-direct14.dm-us03.lc-node.com
     tls: true
   -
     name: '流暢雲 美國PRO|直連|US01'
     type: vmess
     server: lc-us01-direct01.lc-us01.lc-node.com
     port: 443
-    uuid: 3685cb3e-8479-3556-9005-4c9ab1084a63
+    uuid: 323a15c9-05cd-33e5-b7ca-44f8a47a284f
     alterId: 2
     cipher: auto
     udp: true
@@ -148,7 +148,7 @@ proxies:
     type: vmess
     server: lc-us12-direct01.lc-us02.lc-node.com
     port: 443
-    uuid: 3685cb3e-8479-3556-9005-4c9ab1084a63
+    uuid: 323a15c9-05cd-33e5-b7ca-44f8a47a284f
     alterId: 2
     cipher: auto
     udp: true
@@ -162,7 +162,7 @@ proxies:
     type: vmess
     server: lc-us03-direct01.lc-us03.lc-node.com
     port: 443
-    uuid: 3685cb3e-8479-3556-9005-4c9ab1084a63
+    uuid: 323a15c9-05cd-33e5-b7ca-44f8a47a284f
     alterId: 2
     cipher: auto
     udp: true
