@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://xsjv2.live/link/l4qlzaz5RRANBWDo?clash=1
+#!MANAGED-CONFIG https://xsjv2.live/link/nso1n5exaGnB1Svo?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-10-01 12:50:51
+## 上次更新于：2022-10-01 02:40:23
 #---------------------------------------------------#
 
 port: 7890
