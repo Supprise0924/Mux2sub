@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://suijiv1.club/link/4NUWSoRg4IdGvtfk?clash=1
+#!MANAGED-CONFIG https://suijiv1.club/link/rhau1xtFfqqLpfHr?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-10-03 01:09:15
+## 上次更新于：2022-10-03 02:55:35
 #---------------------------------------------------#
 
 port: 7890
