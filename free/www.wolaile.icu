@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://www.yzhxy.top/link/JbhPERe7gCwsEBlx?clash=1
+#!MANAGED-CONFIG https://www.wolaile.icu/link/gyGL34ahwhajWXwA?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-10-01 01:38:25
+## 上次更新于：2022-10-08 02:50:06
 #---------------------------------------------------#
 
 port: 7890
@@ -14,95 +14,11 @@ external-controller: '0.0.0.0:9090'
 secret: ''
 proxies:
   -
-    name: A新加坡福利节点【免流】
-    type: vmess
-    server: 221.131.165.89
-    port: 46035
-    uuid: 6e92697d-b363-350e-9f56-7a84e4e62316
-    alterId: 0
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /index
-    ws-headers:
-      Host: 221.131.165.89
-    ws-opts:
-      path: /index
-      headers: { Host: 221.131.165.89 }
-  -
-    name: V1-台湾-1-sc-IEPL【2倍率】
+    name: Ⅰ-sc台湾1—广港
     type: vmess
     server: gyiepl.1aba.cn
     port: 36501
-    uuid: 6e92697d-b363-350e-9f56-7a84e4e62316
-    alterId: 0
-    cipher: auto
-    udp: true
-  -
-    name: V1-台湾-2-sc-广港
-    type: vmess
-    server: 221.131.165.89
-    port: 46037
-    uuid: 6e92697d-b363-350e-9f56-7a84e4e62316
-    alterId: 0
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /index
-    ws-headers:
-      Host: 221.131.165.89
-    ws-opts:
-      path: /index
-      headers: { Host: 221.131.165.89 }
-  -
-    name: V1-菲律宾-2-sc-广港
-    type: vmess
-    server: 221.131.165.89
-    port: 46038
-    uuid: 6e92697d-b363-350e-9f56-7a84e4e62316
-    alterId: 0
-    cipher: auto
-    udp: true
-  -
-    name: V1-越南-1-sc-IEPL【2倍率】
-    type: vmess
-    server: ydgy.fosi.hk
-    port: 18121
-    uuid: 6e92697d-b363-350e-9f56-7a84e4e62316
-    alterId: 0
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /index
-    ws-headers:
-      Host: ydgy.fosi.hk
-    ws-opts:
-      path: /index
-      headers: { Host: ydgy.fosi.hk }
-  -
-    name: V1-越南-2-sc—广港
-    type: vmess
-    server: 221.131.165.89
-    port: 46041
-    uuid: 6e92697d-b363-350e-9f56-7a84e4e62316
-    alterId: 0
-    cipher: auto
-    udp: true
-  -
-    name: V1-韩国-1-sc-IEPL【2倍率】
-    type: vmess
-    server: 221.131.165.89
-    port: 46043
-    uuid: 6e92697d-b363-350e-9f56-7a84e4e62316
-    alterId: 0
-    cipher: auto
-    udp: true
-  -
-    name: V1-韩国-2-sc-广港
-    type: vmess
-    server: gyiepl.1aba.cn
-    port: 59460
-    uuid: 6e92697d-b363-350e-9f56-7a84e4e62316
+    uuid: 847331df-912a-3cde-be8f-833d3ecba2c9
     alterId: 0
     cipher: auto
     udp: true
@@ -113,138 +29,12 @@ proxies:
     ws-opts:
       path: /index
       headers: { Host: gyiepl.1aba.cn }
-  -
-    name: V1-香港-1-sc-【极速节点】2倍率
-    type: vmess
-    server: gyiepl.1aba.cn
-    port: 50764
-    uuid: 6e92697d-b363-350e-9f56-7a84e4e62316
-    alterId: 0
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /index
-    ws-headers:
-      Host: gyiepl.1aba.cn
-    ws-opts:
-      path: /index
-      headers: { Host: gyiepl.1aba.cn }
-  -
-    name: V1-香港-2-sc-广港
-    type: vmess
-    server: 36.138.4.197
-    port: 45402
-    uuid: 6e92697d-b363-350e-9f56-7a84e4e62316
-    alterId: 0
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /index
-    ws-headers:
-      Host: 36.138.4.197
-    ws-opts:
-      path: /index
-      headers: { Host: 36.138.4.197 }
-  -
-    name: '[Lv1-中转]-加拿大d-1'
-    type: vmess
-    server: 36.138.4.197
-    port: 45504
-    uuid: 6e92697d-b363-350e-9f56-7a84e4e62316
-    alterId: 0
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /index
-    ws-headers:
-      Host: 36.138.4.197
-    ws-opts:
-      path: /index
-      headers: { Host: 36.138.4.197 }
-  -
-    name: '[Lv1-中转]-印度-1-d'
-    type: vmess
-    server: 183.245.147.54
-    port: 45428
-    uuid: 6e92697d-b363-350e-9f56-7a84e4e62316
-    alterId: 0
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /index
-    ws-headers:
-      Host: 183.245.147.54
-    ws-opts:
-      path: /index
-      headers: { Host: 183.245.147.54 }
-  -
-    name: '[Lv1-中转]-印度-2-d'
-    type: vmess
-    server: 36.139.9.191
-    port: 46309
-    uuid: 6e92697d-b363-350e-9f56-7a84e4e62316
-    alterId: 2
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /index
-    ws-headers:
-      Host: 36.139.9.191
-    ws-opts:
-      path: /index
-      headers: { Host: 36.139.9.191 }
-  -
-    name: '[Lv1-日本a]-中转-皖日隧道+L'
-    type: vmess
-    server: 36.138.4.197
-    port: 45503
-    uuid: 6e92697d-b363-350e-9f56-7a84e4e62316
-    alterId: 2
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /index
-    ws-headers:
-      Host: 36.138.4.197
-    ws-opts:
-      path: /index
-      headers: { Host: 36.138.4.197 }
-  -
-    name: '[Lv1-日本b]中转广港BGP+L'
-    type: vmess
-    server: 36.139.9.191
-    port: 46326
-    uuid: 6e92697d-b363-350e-9f56-7a84e4e62316
-    alterId: 2
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /index
-    ws-headers:
-      Host: 36.139.9.191
-    ws-opts:
-      path: /index
-      headers: { Host: 36.139.9.191 }
 proxy-groups:
   -
     name: 🔰国外流量
     type: select
     proxies:
-      - A新加坡福利节点【免流】
-      - V1-台湾-1-sc-IEPL【2倍率】
-      - V1-台湾-2-sc-广港
-      - V1-菲律宾-2-sc-广港
-      - V1-越南-1-sc-IEPL【2倍率】
-      - V1-越南-2-sc—广港
-      - V1-韩国-1-sc-IEPL【2倍率】
-      - V1-韩国-2-sc-广港
-      - V1-香港-1-sc-【极速节点】2倍率
-      - V1-香港-2-sc-广港
-      - '[Lv1-中转]-加拿大d-1'
-      - '[Lv1-中转]-印度-1-d'
-      - '[Lv1-中转]-印度-2-d'
-      - '[Lv1-日本a]-中转-皖日隧道+L'
-      - '[Lv1-日本b]中转广港BGP+L'
+      - Ⅰ-sc台湾1—广港
       - 🚀直接连接
   -
     name: ⚓️其他流量
@@ -257,101 +47,31 @@ proxy-groups:
     type: select
     proxies:
       - 🔰国外流量
-      - A新加坡福利节点【免流】
-      - V1-台湾-1-sc-IEPL【2倍率】
-      - V1-台湾-2-sc-广港
-      - V1-菲律宾-2-sc-广港
-      - V1-越南-1-sc-IEPL【2倍率】
-      - V1-越南-2-sc—广港
-      - V1-韩国-1-sc-IEPL【2倍率】
-      - V1-韩国-2-sc-广港
-      - V1-香港-1-sc-【极速节点】2倍率
-      - V1-香港-2-sc-广港
-      - '[Lv1-中转]-加拿大d-1'
-      - '[Lv1-中转]-印度-1-d'
-      - '[Lv1-中转]-印度-2-d'
-      - '[Lv1-日本a]-中转-皖日隧道+L'
-      - '[Lv1-日本b]中转广港BGP+L'
+      - Ⅰ-sc台湾1—广港
   -
     name: 🎬Youtube
     type: select
     proxies:
       - 🔰国外流量
-      - A新加坡福利节点【免流】
-      - V1-台湾-1-sc-IEPL【2倍率】
-      - V1-台湾-2-sc-广港
-      - V1-菲律宾-2-sc-广港
-      - V1-越南-1-sc-IEPL【2倍率】
-      - V1-越南-2-sc—广港
-      - V1-韩国-1-sc-IEPL【2倍率】
-      - V1-韩国-2-sc-广港
-      - V1-香港-1-sc-【极速节点】2倍率
-      - V1-香港-2-sc-广港
-      - '[Lv1-中转]-加拿大d-1'
-      - '[Lv1-中转]-印度-1-d'
-      - '[Lv1-中转]-印度-2-d'
-      - '[Lv1-日本a]-中转-皖日隧道+L'
-      - '[Lv1-日本b]中转广港BGP+L'
+      - Ⅰ-sc台湾1—广港
   -
     name: 🎬Netflix
     type: select
     proxies:
       - 🔰国外流量
-      - A新加坡福利节点【免流】
-      - V1-台湾-1-sc-IEPL【2倍率】
-      - V1-台湾-2-sc-广港
-      - V1-菲律宾-2-sc-广港
-      - V1-越南-1-sc-IEPL【2倍率】
-      - V1-越南-2-sc—广港
-      - V1-韩国-1-sc-IEPL【2倍率】
-      - V1-韩国-2-sc-广港
-      - V1-香港-1-sc-【极速节点】2倍率
-      - V1-香港-2-sc-广港
-      - '[Lv1-中转]-加拿大d-1'
-      - '[Lv1-中转]-印度-1-d'
-      - '[Lv1-中转]-印度-2-d'
-      - '[Lv1-日本a]-中转-皖日隧道+L'
-      - '[Lv1-日本b]中转广港BGP+L'
+      - Ⅰ-sc台湾1—广港
   -
     name: 🎬哔哩哔哩
     type: select
     proxies:
       - 🚀直接连接
-      - A新加坡福利节点【免流】
-      - V1-台湾-1-sc-IEPL【2倍率】
-      - V1-台湾-2-sc-广港
-      - V1-菲律宾-2-sc-广港
-      - V1-越南-1-sc-IEPL【2倍率】
-      - V1-越南-2-sc—广港
-      - V1-韩国-1-sc-IEPL【2倍率】
-      - V1-韩国-2-sc-广港
-      - V1-香港-1-sc-【极速节点】2倍率
-      - V1-香港-2-sc-广港
-      - '[Lv1-中转]-加拿大d-1'
-      - '[Lv1-中转]-印度-1-d'
-      - '[Lv1-中转]-印度-2-d'
-      - '[Lv1-日本a]-中转-皖日隧道+L'
-      - '[Lv1-日本b]中转广港BGP+L'
+      - Ⅰ-sc台湾1—广港
   -
     name: 🎬国外媒体
     type: select
     proxies:
       - 🔰国外流量
-      - A新加坡福利节点【免流】
-      - V1-台湾-1-sc-IEPL【2倍率】
-      - V1-台湾-2-sc-广港
-      - V1-菲律宾-2-sc-广港
-      - V1-越南-1-sc-IEPL【2倍率】
-      - V1-越南-2-sc—广港
-      - V1-韩国-1-sc-IEPL【2倍率】
-      - V1-韩国-2-sc-广港
-      - V1-香港-1-sc-【极速节点】2倍率
-      - V1-香港-2-sc-广港
-      - '[Lv1-中转]-加拿大d-1'
-      - '[Lv1-中转]-印度-1-d'
-      - '[Lv1-中转]-印度-2-d'
-      - '[Lv1-日本a]-中转-皖日隧道+L'
-      - '[Lv1-日本b]中转广港BGP+L'
+      - Ⅰ-sc台湾1—广港
   -
     name: 🍎苹果服务
     type: select
