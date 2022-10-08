@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://www.wolaile.icu/link/gyGL34ahwhajWXwA?clash=1
+#!MANAGED-CONFIG https://www.wolaile.icu/link/KMajiwvWdrXlp5HX?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-10-08 02:50:06
+## 上次更新于：2022-10-08 04:47:04
 #---------------------------------------------------#
 
 port: 7890
@@ -18,7 +18,151 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 36501
-    uuid: 847331df-912a-3cde-be8f-833d3ecba2c9
+    uuid: 27b0613f-4109-30cb-b766-ba686bd2f5da
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: gyiepl.1aba.cn
+    ws-opts:
+      path: /index
+      headers: { Host: gyiepl.1aba.cn }
+  -
+    name: "Ⅰ-sc台湾2—广港\t"
+    type: vmess
+    server: gyiepl.1aba.cn
+    port: 36502
+    uuid: 27b0613f-4109-30cb-b766-ba686bd2f5da
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: gyiepl.1aba.cn
+    ws-opts:
+      path: /index
+      headers: { Host: gyiepl.1aba.cn }
+  -
+    name: Ⅰ-sc新加坡1—广港
+    type: vmess
+    server: ydgy.fosi.hk
+    port: 61492
+    uuid: 27b0613f-4109-30cb-b766-ba686bd2f5da
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: ydgy.fosi.hk
+    ws-opts:
+      path: /index
+      headers: { Host: ydgy.fosi.hk }
+  -
+    name: Ⅰ-sc新加坡2—广港
+    type: vmess
+    server: ydgy.fosi.hk
+    port: 25611
+    uuid: 27b0613f-4109-30cb-b766-ba686bd2f5da
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: ydgy.fosi.hk
+    ws-opts:
+      path: /index
+      headers: { Host: ydgy.fosi.hk }
+  -
+    name: Ⅰ-sc菲律宾1—广港
+    type: vmess
+    server: gyiepl.1aba.cn
+    port: 36507
+    uuid: 27b0613f-4109-30cb-b766-ba686bd2f5da
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: gyiepl.1aba.cn
+    ws-opts:
+      path: /index
+      headers: { Host: gyiepl.1aba.cn }
+  -
+    name: Ⅰ-sc菲律宾2—广港
+    type: vmess
+    server: gyiepl.1aba.cn
+    port: 36512
+    uuid: 27b0613f-4109-30cb-b766-ba686bd2f5da
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: gyiepl.1aba.cn
+    ws-opts:
+      path: /index
+      headers: { Host: gyiepl.1aba.cn }
+  -
+    name: Ⅰ-sc越南1—广港
+    type: vmess
+    server: ydgy.fosi.hk
+    port: 18121
+    uuid: 27b0613f-4109-30cb-b766-ba686bd2f5da
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: ydgy.fosi.hk
+    ws-opts:
+      path: /index
+      headers: { Host: ydgy.fosi.hk }
+  -
+    name: Ⅰ-sc韩国1—广港
+    type: vmess
+    server: gyiepl.1aba.cn
+    port: 36509
+    uuid: 27b0613f-4109-30cb-b766-ba686bd2f5da
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: gyiepl.1aba.cn
+    ws-opts:
+      path: /index
+      headers: { Host: gyiepl.1aba.cn }
+  -
+    name: Ⅰ-sc韩国2—广港
+    type: vmess
+    server: gyiepl.1aba.cn
+    port: 36513
+    uuid: 27b0613f-4109-30cb-b766-ba686bd2f5da
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: gyiepl.1aba.cn
+    ws-opts:
+      path: /index
+      headers: { Host: gyiepl.1aba.cn }
+  -
+    name: Ⅰ-sc香港1—广港
+    type: vmess
+    server: gyiepl.1aba.cn
+    port: 36510
+    uuid: 27b0613f-4109-30cb-b766-ba686bd2f5da
     alterId: 0
     cipher: auto
     udp: true
@@ -35,6 +179,15 @@ proxy-groups:
     type: select
     proxies:
       - Ⅰ-sc台湾1—广港
+      - "Ⅰ-sc台湾2—广港\t"
+      - Ⅰ-sc新加坡1—广港
+      - Ⅰ-sc新加坡2—广港
+      - Ⅰ-sc菲律宾1—广港
+      - Ⅰ-sc菲律宾2—广港
+      - Ⅰ-sc越南1—广港
+      - Ⅰ-sc韩国1—广港
+      - Ⅰ-sc韩国2—广港
+      - Ⅰ-sc香港1—广港
       - 🚀直接连接
   -
     name: ⚓️其他流量
@@ -48,30 +201,75 @@ proxy-groups:
     proxies:
       - 🔰国外流量
       - Ⅰ-sc台湾1—广港
+      - "Ⅰ-sc台湾2—广港\t"
+      - Ⅰ-sc新加坡1—广港
+      - Ⅰ-sc新加坡2—广港
+      - Ⅰ-sc菲律宾1—广港
+      - Ⅰ-sc菲律宾2—广港
+      - Ⅰ-sc越南1—广港
+      - Ⅰ-sc韩国1—广港
+      - Ⅰ-sc韩国2—广港
+      - Ⅰ-sc香港1—广港
   -
     name: 🎬Youtube
     type: select
     proxies:
       - 🔰国外流量
       - Ⅰ-sc台湾1—广港
+      - "Ⅰ-sc台湾2—广港\t"
+      - Ⅰ-sc新加坡1—广港
+      - Ⅰ-sc新加坡2—广港
+      - Ⅰ-sc菲律宾1—广港
+      - Ⅰ-sc菲律宾2—广港
+      - Ⅰ-sc越南1—广港
+      - Ⅰ-sc韩国1—广港
+      - Ⅰ-sc韩国2—广港
+      - Ⅰ-sc香港1—广港
   -
     name: 🎬Netflix
     type: select
     proxies:
       - 🔰国外流量
       - Ⅰ-sc台湾1—广港
+      - "Ⅰ-sc台湾2—广港\t"
+      - Ⅰ-sc新加坡1—广港
+      - Ⅰ-sc新加坡2—广港
+      - Ⅰ-sc菲律宾1—广港
+      - Ⅰ-sc菲律宾2—广港
+      - Ⅰ-sc越南1—广港
+      - Ⅰ-sc韩国1—广港
+      - Ⅰ-sc韩国2—广港
+      - Ⅰ-sc香港1—广港
   -
     name: 🎬哔哩哔哩
     type: select
     proxies:
       - 🚀直接连接
       - Ⅰ-sc台湾1—广港
+      - "Ⅰ-sc台湾2—广港\t"
+      - Ⅰ-sc新加坡1—广港
+      - Ⅰ-sc新加坡2—广港
+      - Ⅰ-sc菲律宾1—广港
+      - Ⅰ-sc菲律宾2—广港
+      - Ⅰ-sc越南1—广港
+      - Ⅰ-sc韩国1—广港
+      - Ⅰ-sc韩国2—广港
+      - Ⅰ-sc香港1—广港
   -
     name: 🎬国外媒体
     type: select
     proxies:
       - 🔰国外流量
       - Ⅰ-sc台湾1—广港
+      - "Ⅰ-sc台湾2—广港\t"
+      - Ⅰ-sc新加坡1—广港
+      - Ⅰ-sc新加坡2—广港
+      - Ⅰ-sc菲律宾1—广港
+      - Ⅰ-sc菲律宾2—广港
+      - Ⅰ-sc越南1—广港
+      - Ⅰ-sc韩国1—广港
+      - Ⅰ-sc韩国2—广港
+      - Ⅰ-sc香港1—广港
   -
     name: 🍎苹果服务
     type: select
