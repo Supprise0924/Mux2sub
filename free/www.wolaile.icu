@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://www.wolaile.icu/link/gugdQECPE2EHWVJN?clash=1
+#!MANAGED-CONFIG https://www.wolaile.icu/link/jBchDkKltdQjk1os?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-10-09 02:46:10
+## 上次更新于：2022-10-09 04:40:03
 #---------------------------------------------------#
 
 port: 7890
@@ -18,7 +18,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 36501
-    uuid: bc0a9f87-7998-3db9-af52-76a9a6e54ef4
+    uuid: 37d0b31b-118b-3c72-a0dd-58461dae0088
     alterId: 0
     cipher: auto
     udp: true
@@ -34,7 +34,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 36502
-    uuid: bc0a9f87-7998-3db9-af52-76a9a6e54ef4
+    uuid: 37d0b31b-118b-3c72-a0dd-58461dae0088
     alterId: 0
     cipher: auto
     udp: true
@@ -50,7 +50,7 @@ proxies:
     type: vmess
     server: ydgy.fosi.hk
     port: 61492
-    uuid: bc0a9f87-7998-3db9-af52-76a9a6e54ef4
+    uuid: 37d0b31b-118b-3c72-a0dd-58461dae0088
     alterId: 0
     cipher: auto
     udp: true
@@ -66,7 +66,7 @@ proxies:
     type: vmess
     server: ydgy.fosi.hk
     port: 25611
-    uuid: bc0a9f87-7998-3db9-af52-76a9a6e54ef4
+    uuid: 37d0b31b-118b-3c72-a0dd-58461dae0088
     alterId: 0
     cipher: auto
     udp: true
@@ -82,7 +82,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 36507
-    uuid: bc0a9f87-7998-3db9-af52-76a9a6e54ef4
+    uuid: 37d0b31b-118b-3c72-a0dd-58461dae0088
     alterId: 0
     cipher: auto
     udp: true
@@ -98,7 +98,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 36512
-    uuid: bc0a9f87-7998-3db9-af52-76a9a6e54ef4
+    uuid: 37d0b31b-118b-3c72-a0dd-58461dae0088
     alterId: 0
     cipher: auto
     udp: true
@@ -114,7 +114,7 @@ proxies:
     type: vmess
     server: ydgy.fosi.hk
     port: 18121
-    uuid: bc0a9f87-7998-3db9-af52-76a9a6e54ef4
+    uuid: 37d0b31b-118b-3c72-a0dd-58461dae0088
     alterId: 0
     cipher: auto
     udp: true
@@ -130,7 +130,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 36509
-    uuid: bc0a9f87-7998-3db9-af52-76a9a6e54ef4
+    uuid: 37d0b31b-118b-3c72-a0dd-58461dae0088
     alterId: 0
     cipher: auto
     udp: true
@@ -146,7 +146,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 36513
-    uuid: bc0a9f87-7998-3db9-af52-76a9a6e54ef4
+    uuid: 37d0b31b-118b-3c72-a0dd-58461dae0088
     alterId: 0
     cipher: auto
     udp: true
@@ -162,7 +162,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 36510
-    uuid: bc0a9f87-7998-3db9-af52-76a9a6e54ef4
+    uuid: 37d0b31b-118b-3c72-a0dd-58461dae0088
     alterId: 0
     cipher: auto
     udp: true

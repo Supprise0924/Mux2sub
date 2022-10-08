@@ -1,7 +1,7 @@
 #---------------------------------------------------#
-## 更新：2022-10-09 02:44:46
+## 更新：2022-10-09 04:38:47
 ## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
-## 链接：http://dy.luoxin.fun/link/L0a3I2TikuavqVwI?clash=1
+## 链接：http://dy.luoxin.fun/link/tWUSn5DYlujAbB0n?clash=1
 #---------------------------------------------------#
 
 # HTTP 代理端口
@@ -34,9 +34,9 @@ secret: ''
 
 
 proxies:
-  - {"name":"A.备用地址nmcloud.ml","type":"vmess","server":"1.1.1.1","port":443,"uuid":"c42092f5-557a-34aa-812f-444ddfc82283","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"A.经常更新订阅 留意流量使用情况","type":"vmess","server":"1.1.1.1","port":443,"uuid":"c42092f5-557a-34aa-812f-444ddfc82283","alterId":0,"cipher":"auto","udp":true}
-  - {"name":"A.购买网址:www.nima.moe","type":"vmess","server":"www.nima.moe","port":443,"uuid":"c42092f5-557a-34aa-812f-444ddfc82283","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"A.备用地址nmcloud.ml","type":"vmess","server":"1.1.1.1","port":443,"uuid":"eccb24a7-388e-3be3-ba7c-ff69a1d46999","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"A.经常更新订阅 留意流量使用情况","type":"vmess","server":"1.1.1.1","port":443,"uuid":"eccb24a7-388e-3be3-ba7c-ff69a1d46999","alterId":0,"cipher":"auto","udp":true}
+  - {"name":"A.购买网址:www.nima.moe","type":"vmess","server":"www.nima.moe","port":443,"uuid":"eccb24a7-388e-3be3-ba7c-ff69a1d46999","alterId":0,"cipher":"auto","udp":true}
 
 proxy-groups:
 -
