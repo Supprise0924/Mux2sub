@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://ssrcool.com/link/ahC7qrYPesXiohT7?clash=1
+#!MANAGED-CONFIG https://ssrcool.com/link/h571sQS4GtdtgL8f?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-10-13 06:44:09
+## 上次更新于：2022-10-13 09:18:38
 #---------------------------------------------------#
 
 port: 7890
@@ -18,7 +18,7 @@ proxies:
     type: vmess
     server: ls2.pcshushu.xyz
     port: 443
-    uuid: 5ad5cc85-23d2-3633-b3f4-a88ee37dc6e3
+    uuid: 91c2e612-ee9b-332f-a530-9ef7ea4f8554
     alterId: 2
     cipher: auto
     udp: true
