@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://www.wolaile.icu/link/8DQJewsi0fUaEwlz?clash=1
+#!MANAGED-CONFIG https://www.wolaile.icu/link/rKfetA2VFLBOJDIJ?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-10-16 04:40:46
+## 上次更新于：2022-10-16 06:39:49
 #---------------------------------------------------#
 
 port: 7890
@@ -18,7 +18,7 @@ proxies:
     type: vmess
     server: 221.131.165.89
     port: 45421
-    uuid: 8480c3d6-d644-367c-bb6a-df53f466b911
+    uuid: 528e9a63-1bdd-31bb-a58c-02f5835d042a
     alterId: 0
     cipher: auto
     udp: true
@@ -27,7 +27,7 @@ proxies:
     type: vmess
     server: ydgy.fosi.hk
     port: 25611
-    uuid: 8480c3d6-d644-367c-bb6a-df53f466b911
+    uuid: 528e9a63-1bdd-31bb-a58c-02f5835d042a
     alterId: 0
     cipher: auto
     udp: true
@@ -36,7 +36,7 @@ proxies:
     type: vmess
     server: 221.131.165.89
     port: 45393
-    uuid: 8480c3d6-d644-367c-bb6a-df53f466b911
+    uuid: 528e9a63-1bdd-31bb-a58c-02f5835d042a
     alterId: 2
     cipher: auto
     udp: true
@@ -45,7 +45,7 @@ proxies:
     type: vmess
     server: 221.131.165.89
     port: 45400
-    uuid: 8480c3d6-d644-367c-bb6a-df53f466b911
+    uuid: 528e9a63-1bdd-31bb-a58c-02f5835d042a
     alterId: 2
     cipher: auto
     udp: true
@@ -54,7 +54,7 @@ proxies:
     type: vmess
     server: cn.hncu.1aba.cn
     port: 26561
-    uuid: 8480c3d6-d644-367c-bb6a-df53f466b911
+    uuid: 528e9a63-1bdd-31bb-a58c-02f5835d042a
     alterId: 0
     cipher: auto
     udp: true
@@ -63,7 +63,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 36501
-    uuid: 8480c3d6-d644-367c-bb6a-df53f466b911
+    uuid: 528e9a63-1bdd-31bb-a58c-02f5835d042a
     alterId: 0
     cipher: auto
     udp: true
@@ -79,7 +79,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 36502
-    uuid: 8480c3d6-d644-367c-bb6a-df53f466b911
+    uuid: 528e9a63-1bdd-31bb-a58c-02f5835d042a
     alterId: 0
     cipher: auto
     udp: true
@@ -95,7 +95,7 @@ proxies:
     type: vmess
     server: ydgy.fosi.hk
     port: 61492
-    uuid: 8480c3d6-d644-367c-bb6a-df53f466b911
+    uuid: 528e9a63-1bdd-31bb-a58c-02f5835d042a
     alterId: 0
     cipher: auto
     udp: true
@@ -111,7 +111,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 36507
-    uuid: 8480c3d6-d644-367c-bb6a-df53f466b911
+    uuid: 528e9a63-1bdd-31bb-a58c-02f5835d042a
     alterId: 0
     cipher: auto
     udp: true
@@ -127,7 +127,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 36512
-    uuid: 8480c3d6-d644-367c-bb6a-df53f466b911
+    uuid: 528e9a63-1bdd-31bb-a58c-02f5835d042a
     alterId: 0
     cipher: auto
     udp: true
@@ -143,7 +143,7 @@ proxies:
     type: vmess
     server: ydgy.fosi.hk
     port: 18121
-    uuid: 8480c3d6-d644-367c-bb6a-df53f466b911
+    uuid: 528e9a63-1bdd-31bb-a58c-02f5835d042a
     alterId: 0
     cipher: auto
     udp: true
@@ -159,7 +159,7 @@ proxies:
     type: vmess
     server: 221.131.165.89
     port: 45393
-    uuid: 8480c3d6-d644-367c-bb6a-df53f466b911
+    uuid: 528e9a63-1bdd-31bb-a58c-02f5835d042a
     alterId: 2
     cipher: auto
     udp: true
@@ -168,7 +168,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 36509
-    uuid: 8480c3d6-d644-367c-bb6a-df53f466b911
+    uuid: 528e9a63-1bdd-31bb-a58c-02f5835d042a
     alterId: 0
     cipher: auto
     udp: true
@@ -184,7 +184,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 36513
-    uuid: 8480c3d6-d644-367c-bb6a-df53f466b911
+    uuid: 528e9a63-1bdd-31bb-a58c-02f5835d042a
     alterId: 0
     cipher: auto
     udp: true
@@ -200,7 +200,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 36510
-    uuid: 8480c3d6-d644-367c-bb6a-df53f466b911
+    uuid: 528e9a63-1bdd-31bb-a58c-02f5835d042a
     alterId: 0
     cipher: auto
     udp: true
@@ -216,7 +216,7 @@ proxies:
     type: vmess
     server: 221.131.165.89
     port: 45413
-    uuid: 8480c3d6-d644-367c-bb6a-df53f466b911
+    uuid: 528e9a63-1bdd-31bb-a58c-02f5835d042a
     alterId: 0
     cipher: auto
     udp: true
