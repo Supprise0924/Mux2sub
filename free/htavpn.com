@@ -1,7 +1,7 @@
 #---------------------------------------------------#
-## 更新：2022-10-18 04:42:05
+## 更新：2022-10-18 06:41:38
 ## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
-## 链接：https://a.kuaicloud.xyz/link/sDXSezVXOQ2YYZdi?clash=1
+## 链接：https://a.kuaicloud.xyz/link/3YBfWOYE1IEoCxDL?clash=1
 #---------------------------------------------------#
 
 # HTTP 代理端口
@@ -34,17 +34,17 @@ secret: ''
 
 
 proxies:
-  - {"name":"🇭🇰 a香港高速-1","type":"vmess","server":"azxg.dianshangqw.xyz","port":16666,"uuid":"67bed1bc-3a48-32ac-bc3c-90e69d120454","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇭🇰 b香港BGP","type":"vmess","server":"xg33.dianshangqw.xyz","port":16666,"uuid":"67bed1bc-3a48-32ac-bc3c-90e69d120454","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇮🇳 印度高速","type":"vmess","server":"rb.dianshangqw.xyz","port":16666,"uuid":"67bed1bc-3a48-32ac-bc3c-90e69d120454","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇮🇳 印度高速1","type":"vmess","server":"rb1.dianshangqw.xyz","port":16666,"uuid":"67bed1bc-3a48-32ac-bc3c-90e69d120454","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇸🇬 新加坡高速","type":"vmess","server":"xjp.dianshangqw.xyz","port":16666,"uuid":"67bed1bc-3a48-32ac-bc3c-90e69d120454","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇸🇬 新加坡高速-1","type":"vmess","server":"xg7.dianshangqw.xyz","port":16666,"uuid":"67bed1bc-3a48-32ac-bc3c-90e69d120454","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇺🇲 美国高速-1","type":"vmess","server":"xg5.dianshangqw.xyz","port":16666,"uuid":"67bed1bc-3a48-32ac-bc3c-90e69d120454","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇺🇲 美国高速3","type":"vmess","server":"xg2.dianshangqw.xyz","port":16666,"uuid":"67bed1bc-3a48-32ac-bc3c-90e69d120454","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇰🇷 韩国高速-1","type":"vmess","server":"hg.dianshangqw.xyz","port":16666,"uuid":"67bed1bc-3a48-32ac-bc3c-90e69d120454","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇭🇰 香港高速-4","type":"vmess","server":"xg4.dianshangqw.xyz","port":16666,"uuid":"67bed1bc-3a48-32ac-bc3c-90e69d120454","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
-  - {"name":"🇭🇰 香港高速-6","type":"vmess","server":"xg6.dianshangqw.xyz","port":16666,"uuid":"67bed1bc-3a48-32ac-bc3c-90e69d120454","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
+  - {"name":"🇭🇰 a香港高速-1","type":"vmess","server":"azxg.dianshangqw.xyz","port":16666,"uuid":"baf9eba4-2fb2-3f56-a8d6-8b098c10fe9b","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
+  - {"name":"🇭🇰 b香港BGP","type":"vmess","server":"xg33.dianshangqw.xyz","port":16666,"uuid":"baf9eba4-2fb2-3f56-a8d6-8b098c10fe9b","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
+  - {"name":"🇮🇳 印度高速","type":"vmess","server":"rb.dianshangqw.xyz","port":16666,"uuid":"baf9eba4-2fb2-3f56-a8d6-8b098c10fe9b","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
+  - {"name":"🇮🇳 印度高速1","type":"vmess","server":"rb1.dianshangqw.xyz","port":16666,"uuid":"baf9eba4-2fb2-3f56-a8d6-8b098c10fe9b","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
+  - {"name":"🇸🇬 新加坡高速","type":"vmess","server":"xjp.dianshangqw.xyz","port":16666,"uuid":"baf9eba4-2fb2-3f56-a8d6-8b098c10fe9b","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
+  - {"name":"🇸🇬 新加坡高速-1","type":"vmess","server":"xg7.dianshangqw.xyz","port":16666,"uuid":"baf9eba4-2fb2-3f56-a8d6-8b098c10fe9b","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
+  - {"name":"🇺🇲 美国高速-1","type":"vmess","server":"xg5.dianshangqw.xyz","port":16666,"uuid":"baf9eba4-2fb2-3f56-a8d6-8b098c10fe9b","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
+  - {"name":"🇺🇲 美国高速3","type":"vmess","server":"xg2.dianshangqw.xyz","port":16666,"uuid":"baf9eba4-2fb2-3f56-a8d6-8b098c10fe9b","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
+  - {"name":"🇰🇷 韩国高速-1","type":"vmess","server":"hg.dianshangqw.xyz","port":16666,"uuid":"baf9eba4-2fb2-3f56-a8d6-8b098c10fe9b","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
+  - {"name":"🇭🇰 香港高速-4","type":"vmess","server":"xg4.dianshangqw.xyz","port":16666,"uuid":"baf9eba4-2fb2-3f56-a8d6-8b098c10fe9b","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
+  - {"name":"🇭🇰 香港高速-6","type":"vmess","server":"xg6.dianshangqw.xyz","port":16666,"uuid":"baf9eba4-2fb2-3f56-a8d6-8b098c10fe9b","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/v2ray","ws-headers":{"Host":"www.baidu.com"}}
 
 proxy-groups:
 -
