@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://www.wolaile.icu/link/x3I3hwsHdigDiLmP?clash=1
+#!MANAGED-CONFIG https://www.wolaile.icu/link/ucpOZ2qORDgSJjV5?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-10-17 11:25:42
+## 上次更新于：2022-10-17 01:53:14
 #---------------------------------------------------#
 
 port: 7890
@@ -18,7 +18,7 @@ proxies:
     type: vmess
     server: awsbj01.1aba.cn
     port: 19279
-    uuid: bef245c2-3b24-3037-a0bf-b3521802bed8
+    uuid: 2e6d1ceb-7257-3932-919b-da5e2089d394
     alterId: 0
     cipher: auto
     udp: true
@@ -27,7 +27,7 @@ proxies:
     type: vmess
     server: gddx.fosi.hk
     port: 55787
-    uuid: bef245c2-3b24-3037-a0bf-b3521802bed8
+    uuid: 2e6d1ceb-7257-3932-919b-da5e2089d394
     alterId: 0
     cipher: auto
     udp: true
@@ -36,7 +36,7 @@ proxies:
     type: vmess
     server: ydgy.fosi.hk
     port: 25611
-    uuid: bef245c2-3b24-3037-a0bf-b3521802bed8
+    uuid: 2e6d1ceb-7257-3932-919b-da5e2089d394
     alterId: 0
     cipher: auto
     udp: true
@@ -45,7 +45,7 @@ proxies:
     type: vmess
     server: ydgy.fosi.hk
     port: 53701
-    uuid: bef245c2-3b24-3037-a0bf-b3521802bed8
+    uuid: 2e6d1ceb-7257-3932-919b-da5e2089d394
     alterId: 2
     cipher: auto
     udp: true
@@ -54,7 +54,7 @@ proxies:
     type: vmess
     server: fsyy.fosi.hk
     port: 33780
-    uuid: bef245c2-3b24-3037-a0bf-b3521802bed8
+    uuid: 2e6d1ceb-7257-3932-919b-da5e2089d394
     alterId: 2
     cipher: auto
     udp: true
@@ -63,7 +63,7 @@ proxies:
     type: vmess
     server: cn.hncu.1aba.cn
     port: 26561
-    uuid: bef245c2-3b24-3037-a0bf-b3521802bed8
+    uuid: 2e6d1ceb-7257-3932-919b-da5e2089d394
     alterId: 0
     cipher: auto
     udp: true
@@ -72,7 +72,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 36501
-    uuid: bef245c2-3b24-3037-a0bf-b3521802bed8
+    uuid: 2e6d1ceb-7257-3932-919b-da5e2089d394
     alterId: 0
     cipher: auto
     udp: true
@@ -88,7 +88,7 @@ proxies:
     type: vmess
     server: ydgy.fosi.hk
     port: 18005
-    uuid: bef245c2-3b24-3037-a0bf-b3521802bed8
+    uuid: 2e6d1ceb-7257-3932-919b-da5e2089d394
     alterId: 0
     cipher: auto
     udp: true
@@ -104,7 +104,7 @@ proxies:
     type: vmess
     server: ydgy.fosi.hk
     port: 61492
-    uuid: bef245c2-3b24-3037-a0bf-b3521802bed8
+    uuid: 2e6d1ceb-7257-3932-919b-da5e2089d394
     alterId: 0
     cipher: auto
     udp: true
@@ -120,7 +120,7 @@ proxies:
     type: vmess
     server: syiepl.fosi.hk
     port: 45739
-    uuid: bef245c2-3b24-3037-a0bf-b3521802bed8
+    uuid: 2e6d1ceb-7257-3932-919b-da5e2089d394
     alterId: 0
     cipher: auto
     udp: true
@@ -136,7 +136,7 @@ proxies:
     type: vmess
     server: ydgy.fosi.hk
     port: 48260
-    uuid: bef245c2-3b24-3037-a0bf-b3521802bed8
+    uuid: 2e6d1ceb-7257-3932-919b-da5e2089d394
     alterId: 0
     cipher: auto
     udp: true
@@ -152,7 +152,7 @@ proxies:
     type: vmess
     server: ydgy.fosi.hk
     port: 18121
-    uuid: bef245c2-3b24-3037-a0bf-b3521802bed8
+    uuid: 2e6d1ceb-7257-3932-919b-da5e2089d394
     alterId: 0
     cipher: auto
     udp: true
@@ -168,7 +168,7 @@ proxies:
     type: vmess
     server: ydgy.fosi.hk
     port: 15332
-    uuid: bef245c2-3b24-3037-a0bf-b3521802bed8
+    uuid: 2e6d1ceb-7257-3932-919b-da5e2089d394
     alterId: 2
     cipher: auto
     udp: true
@@ -177,7 +177,7 @@ proxies:
     type: vmess
     server: gddx.fosi.hk
     port: 51264
-    uuid: bef245c2-3b24-3037-a0bf-b3521802bed8
+    uuid: 2e6d1ceb-7257-3932-919b-da5e2089d394
     alterId: 0
     cipher: auto
     udp: true
@@ -193,7 +193,7 @@ proxies:
     type: vmess
     server: syiepl.fosi.hk
     port: 59715
-    uuid: bef245c2-3b24-3037-a0bf-b3521802bed8
+    uuid: 2e6d1ceb-7257-3932-919b-da5e2089d394
     alterId: 0
     cipher: auto
     udp: true
@@ -209,7 +209,7 @@ proxies:
     type: vmess
     server: gddx.fosi.hk
     port: 18405
-    uuid: bef245c2-3b24-3037-a0bf-b3521802bed8
+    uuid: 2e6d1ceb-7257-3932-919b-da5e2089d394
     alterId: 0
     cipher: auto
     udp: true
@@ -225,7 +225,7 @@ proxies:
     type: vmess
     server: syiepl.fosi.hk
     port: 31094
-    uuid: bef245c2-3b24-3037-a0bf-b3521802bed8
+    uuid: 2e6d1ceb-7257-3932-919b-da5e2089d394
     alterId: 0
     cipher: auto
     udp: true
