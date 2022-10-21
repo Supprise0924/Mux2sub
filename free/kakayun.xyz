@@ -1,7 +1,7 @@
 #---------------------------------------------------#
-## 更新：2022-10-21 06:41:44
+## 更新：2022-10-21 10:33:30
 ## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
-## 链接：https://www.kakacloud.xyz/link/ap2WxwPt6e7UXteK?clash=1
+## 链接：https://www.kakacloud.xyz/link/VNvrRkiebt45WDEr?clash=1
 #---------------------------------------------------#
 
 # HTTP 代理端口
@@ -34,27 +34,27 @@ secret: ''
 
 
 proxies:
-  - {"name":"v1-台湾1 ||100M","type":"vmess","server":"6.kakacloud.xyz","port":36106,"uuid":"a8a60e98-7fe2-3e69-967e-79450fa51ee2","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"v1-新加坡1 ||100M","type":"vmess","server":"2.kakacloud.xyz","port":38102,"uuid":"a8a60e98-7fe2-3e69-967e-79450fa51ee2","alterId":4,"cipher":"auto","udp":true}
-  - {"name":"v1-新加坡2 ||100M","type":"vmess","server":"23.kakacloud.xyz","port":17123,"uuid":"a8a60e98-7fe2-3e69-967e-79450fa51ee2","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"v1-新加坡3 ||100M","type":"vmess","server":"13.kakacloud.xyz","port":28113,"uuid":"a8a60e98-7fe2-3e69-967e-79450fa51ee2","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"v1-新加坡4 ||100m","type":"vmess","server":"39.kakacloud.xyz","port":30139,"uuid":"a8a60e98-7fe2-3e69-967e-79450fa51ee2","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"v1-新加坡5 ||100M","type":"vmess","server":"35.kakacloud.xyz","port":26135,"uuid":"a8a60e98-7fe2-3e69-967e-79450fa51ee2","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"v1-日本1||100M","type":"vmess","server":"1.kakacloud.xyz","port":16101,"uuid":"a8a60e98-7fe2-3e69-967e-79450fa51ee2","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"v1-日本2 ||100M","type":"vmess","server":"16.kakacloud.xyz","port":16116,"uuid":"a8a60e98-7fe2-3e69-967e-79450fa51ee2","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"v1-日本3 ||100M","type":"vmess","server":"3.kakacloud.xyz","port":26103,"uuid":"a8a60e98-7fe2-3e69-967e-79450fa51ee2","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"v1-日本4 ||100M","type":"vmess","server":"17.kakacloud.xyz","port":16017,"uuid":"a8a60e98-7fe2-3e69-967e-79450fa51ee2","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/","ws-headers":{"Host":"17.kakacloud.xyz"}}
-  - {"name":"v1-日本5 ||100M","type":"vmess","server":"31.kakacloud.xyz","port":48031,"uuid":"a8a60e98-7fe2-3e69-967e-79450fa51ee2","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"v1-美国1 ||100M","type":"vmess","server":"19.kakacloud.xyz","port":16119,"uuid":"a8a60e98-7fe2-3e69-967e-79450fa51ee2","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"v1-美国2||电信中继||","type":"vmess","server":"32.kakacloud.xyz","port":28032,"uuid":"a8a60e98-7fe2-3e69-967e-79450fa51ee2","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"v1-韩国1 ||100M","type":"vmess","server":"14.kakacloud.xyz","port":28114,"uuid":"a8a60e98-7fe2-3e69-967e-79450fa51ee2","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"v1-韩国2 ||100M","type":"vmess","server":"25.kakacloud.xyz","port":26025,"uuid":"a8a60e98-7fe2-3e69-967e-79450fa51ee2","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"v1-韩国3 ||100M","type":"vmess","server":"24.kakacloud.xyz","port":28024,"uuid":"a8a60e98-7fe2-3e69-967e-79450fa51ee2","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"v1-香港1 ||100M","type":"vmess","server":"4.kakacloud.xyz","port":16104,"uuid":"a8a60e98-7fe2-3e69-967e-79450fa51ee2","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"v1-香港2 ||100M","type":"vmess","server":"5.kakacloud.xyz","port":56005,"uuid":"a8a60e98-7fe2-3e69-967e-79450fa51ee2","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"v1-香港4 ||100M","type":"vmess","server":"7.kakacloud.xyz","port":18107,"uuid":"a8a60e98-7fe2-3e69-967e-79450fa51ee2","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"v1-香港5 ||100M","type":"vmess","server":"15.kakacloud.xyz","port":46015,"uuid":"a8a60e98-7fe2-3e69-967e-79450fa51ee2","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"www.kakayun.xyz 到期请续费  限速10m","type":"vmess","server":"43.kakacloud.xyz","port":36143,"uuid":"a8a60e98-7fe2-3e69-967e-79450fa51ee2","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/","ws-headers":{"Host":"43.kakacloud.xyz"}}
+  - {"name":"v1-台湾1 ||100M","type":"vmess","server":"6.kakacloud.xyz","port":36106,"uuid":"1ee37ccf-c2f9-3494-ad91-8c0e51bd1d33","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"v1-新加坡1 ||100M","type":"vmess","server":"2.kakacloud.xyz","port":38102,"uuid":"1ee37ccf-c2f9-3494-ad91-8c0e51bd1d33","alterId":4,"cipher":"auto","udp":true}
+  - {"name":"v1-新加坡2 ||100M","type":"vmess","server":"23.kakacloud.xyz","port":17123,"uuid":"1ee37ccf-c2f9-3494-ad91-8c0e51bd1d33","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"v1-新加坡3 ||100M","type":"vmess","server":"13.kakacloud.xyz","port":28113,"uuid":"1ee37ccf-c2f9-3494-ad91-8c0e51bd1d33","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"v1-新加坡4 ||100m","type":"vmess","server":"39.kakacloud.xyz","port":30139,"uuid":"1ee37ccf-c2f9-3494-ad91-8c0e51bd1d33","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"v1-新加坡5 ||100M","type":"vmess","server":"35.kakacloud.xyz","port":26135,"uuid":"1ee37ccf-c2f9-3494-ad91-8c0e51bd1d33","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"v1-日本1||100M","type":"vmess","server":"1.kakacloud.xyz","port":16101,"uuid":"1ee37ccf-c2f9-3494-ad91-8c0e51bd1d33","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"v1-日本2 ||100M","type":"vmess","server":"16.kakacloud.xyz","port":16116,"uuid":"1ee37ccf-c2f9-3494-ad91-8c0e51bd1d33","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"v1-日本3 ||100M","type":"vmess","server":"3.kakacloud.xyz","port":26103,"uuid":"1ee37ccf-c2f9-3494-ad91-8c0e51bd1d33","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"v1-日本4 ||100M","type":"vmess","server":"17.kakacloud.xyz","port":16017,"uuid":"1ee37ccf-c2f9-3494-ad91-8c0e51bd1d33","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/","ws-headers":{"Host":"17.kakacloud.xyz"}}
+  - {"name":"v1-日本5 ||100M","type":"vmess","server":"31.kakacloud.xyz","port":48031,"uuid":"1ee37ccf-c2f9-3494-ad91-8c0e51bd1d33","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"v1-美国1 ||100M","type":"vmess","server":"19.kakacloud.xyz","port":16119,"uuid":"1ee37ccf-c2f9-3494-ad91-8c0e51bd1d33","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"v1-美国2||电信中继||","type":"vmess","server":"32.kakacloud.xyz","port":28032,"uuid":"1ee37ccf-c2f9-3494-ad91-8c0e51bd1d33","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"v1-韩国1 ||100M","type":"vmess","server":"14.kakacloud.xyz","port":28114,"uuid":"1ee37ccf-c2f9-3494-ad91-8c0e51bd1d33","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"v1-韩国2 ||100M","type":"vmess","server":"25.kakacloud.xyz","port":26025,"uuid":"1ee37ccf-c2f9-3494-ad91-8c0e51bd1d33","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"v1-韩国3 ||100M","type":"vmess","server":"24.kakacloud.xyz","port":28024,"uuid":"1ee37ccf-c2f9-3494-ad91-8c0e51bd1d33","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"v1-香港1 ||100M","type":"vmess","server":"4.kakacloud.xyz","port":16104,"uuid":"1ee37ccf-c2f9-3494-ad91-8c0e51bd1d33","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"v1-香港2 ||100M","type":"vmess","server":"5.kakacloud.xyz","port":56005,"uuid":"1ee37ccf-c2f9-3494-ad91-8c0e51bd1d33","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"v1-香港4 ||100M","type":"vmess","server":"7.kakacloud.xyz","port":18107,"uuid":"1ee37ccf-c2f9-3494-ad91-8c0e51bd1d33","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"v1-香港5 ||100M","type":"vmess","server":"15.kakacloud.xyz","port":46015,"uuid":"1ee37ccf-c2f9-3494-ad91-8c0e51bd1d33","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"www.kakayun.xyz 到期请续费  限速10m","type":"vmess","server":"43.kakacloud.xyz","port":36143,"uuid":"1ee37ccf-c2f9-3494-ad91-8c0e51bd1d33","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/","ws-headers":{"Host":"43.kakacloud.xyz"}}
 
 proxy-groups:
 -
