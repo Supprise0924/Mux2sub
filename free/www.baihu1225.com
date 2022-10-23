@@ -19,7 +19,7 @@
             <div class="title">Error 50X</div>
             <div class="description">因暂时超载或临时维护，您的 Web 服务器目前无法处理 HTTP 请求。其含义是，这是一个暂时情况，会有一些延误，过后将会得到缓解。</div>
             <div class="solution">如果您是管理者，请详见 <a href="https://www.funcdn.com/doc/#/faq?id=50x" target="_blank"> 怎样解决这个问题？</a></div>
-            <div class="info">20.245.43.206&nbsp;&nbsp;&nbsp;&nbsp;edge-59&nbsp;&nbsp;&nbsp;&nbsp;2022-10-23T14:38:51+00:00</div>
+            <div class="info">13.68.246.168&nbsp;&nbsp;&nbsp;&nbsp;edge-61&nbsp;&nbsp;&nbsp;&nbsp;2022-10-23T16:52:46+00:00</div>
         </div>
     </div>
     <div class="bottom">
