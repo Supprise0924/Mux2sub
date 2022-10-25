@@ -1,7 +1,7 @@
 #---------------------------------------------------#
-## 更新：2022-10-25 09:18:14
+## 更新：2022-10-25 10:51:21
 ## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
-## 链接：https://www.douluoyun.site/link/5NJ5skQJN9jNKF6b?clash=1
+## 链接：https://www.douluoyun.site/link/bih5Dbh4ReFEp1qB?clash=1
 #---------------------------------------------------#
 
 # HTTP 代理端口
@@ -34,7 +34,7 @@ secret: ''
 
 
 proxies:
-  - {"name":"www.douluoyun.top 到期请续费 防失联专用","type":"vmess","server":"34.douluoyun.top","port":29134,"uuid":"dc8308b8-62d8-3023-aade-be68f4003fbc","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/","ws-headers":{"Host":"34.douluoyun.top"}}
+  - {"name":"www.douluoyun.top 到期请续费 防失联专用","type":"vmess","server":"34.douluoyun.top","port":29134,"uuid":"d52651e4-178f-30b5-8897-428ed03e087a","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/","ws-headers":{"Host":"34.douluoyun.top"}}
 
 proxy-groups:
 -
