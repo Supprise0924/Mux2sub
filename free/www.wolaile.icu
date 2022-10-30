@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://www.wolaile.icu/link/PHyS77OMbfuj1hfw?clash=1
+#!MANAGED-CONFIG https://www.wolaile.icu/link/1kq5x8XSJGsWxVmN?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-10-30 04:40:50
+## 上次更新于：2022-10-30 06:38:51
 #---------------------------------------------------#
 
 port: 7890
@@ -18,7 +18,7 @@ proxies:
     type: vmess
     server: awsbj01.1aba.cn
     port: 19279
-    uuid: bbe824bf-8538-3aad-9b91-ee254d3ec1e1
+    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
     alterId: 0
     cipher: auto
     udp: true
@@ -27,7 +27,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 49977
-    uuid: bbe824bf-8538-3aad-9b91-ee254d3ec1e1
+    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
     alterId: 0
     cipher: auto
     udp: true
@@ -36,25 +36,16 @@ proxies:
     type: vmess
     server: ydgy.fosi.hk
     port: 25611
-    uuid: bbe824bf-8538-3aad-9b91-ee254d3ec1e1
+    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
     alterId: 0
     cipher: auto
     udp: true
   -
-    name: Ⅰ-do印度1—广港
+    name: V2-柬埔寨—广移
     type: vmess
-    server: ydgy.fosi.hk
-    port: 53701
-    uuid: bbe824bf-8538-3aad-9b91-ee254d3ec1e1
-    alterId: 2
-    cipher: auto
-    udp: true
-  -
-    name: Ⅰ-do印度2—广港
-    type: vmess
-    server: fsyy.fosi.hk
-    port: 33780
-    uuid: bbe824bf-8538-3aad-9b91-ee254d3ec1e1
+    server: gyiepl.1aba.cn
+    port: 37935
+    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
     alterId: 2
     cipher: auto
     udp: true
@@ -63,7 +54,7 @@ proxies:
     type: vmess
     server: cn.hncu.1aba.cn
     port: 26561
-    uuid: bbe824bf-8538-3aad-9b91-ee254d3ec1e1
+    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
     alterId: 0
     cipher: auto
     udp: true
@@ -71,8 +62,8 @@ proxies:
     name: Ⅰ-sc台湾1—广港
     type: vmess
     server: gyiepl.1aba.cn
-    port: 36501
-    uuid: bbe824bf-8538-3aad-9b91-ee254d3ec1e1
+    port: 38751
+    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
     alterId: 0
     cipher: auto
     udp: true
@@ -86,25 +77,25 @@ proxies:
   -
     name: "Ⅰ-sc台湾2—广港\t"
     type: vmess
-    server: ydgy.fosi.hk
-    port: 18005
-    uuid: bbe824bf-8538-3aad-9b91-ee254d3ec1e1
+    server: gyiepl.1aba.cn
+    port: 52200
+    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
     alterId: 0
     cipher: auto
     udp: true
     network: ws
     ws-path: /index
     ws-headers:
-      Host: ydgy.fosi.hk
+      Host: gyiepl.1aba.cn
     ws-opts:
       path: /index
-      headers: { Host: ydgy.fosi.hk }
+      headers: { Host: gyiepl.1aba.cn }
   -
     name: Ⅰ-sc新加坡1—广港
     type: vmess
     server: ydgy.fosi.hk
     port: 61492
-    uuid: bbe824bf-8538-3aad-9b91-ee254d3ec1e1
+    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
     alterId: 0
     cipher: auto
     udp: true
@@ -118,25 +109,18 @@ proxies:
   -
     name: Ⅰ-sc菲律宾1—广港
     type: vmess
-    server: syiepl.fosi.hk
-    port: 45739
-    uuid: bbe824bf-8538-3aad-9b91-ee254d3ec1e1
+    server: gyiepl.1aba.cn
+    port: 49138
+    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
     alterId: 0
     cipher: auto
     udp: true
-    network: ws
-    ws-path: /index
-    ws-headers:
-      Host: syiepl.fosi.hk
-    ws-opts:
-      path: /index
-      headers: { Host: syiepl.fosi.hk }
   -
     name: Ⅰ-sc菲律宾2—广港
     type: vmess
     server: ydgy.fosi.hk
     port: 48260
-    uuid: bbe824bf-8538-3aad-9b91-ee254d3ec1e1
+    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
     alterId: 0
     cipher: auto
     udp: true
@@ -152,7 +136,7 @@ proxies:
     type: vmess
     server: ydgy.fosi.hk
     port: 18121
-    uuid: bbe824bf-8538-3aad-9b91-ee254d3ec1e1
+    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
     alterId: 0
     cipher: auto
     udp: true
@@ -168,32 +152,25 @@ proxies:
     type: vmess
     server: ydgy.fosi.hk
     port: 15332
-    uuid: bbe824bf-8538-3aad-9b91-ee254d3ec1e1
+    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
     alterId: 2
     cipher: auto
     udp: true
   -
     name: Ⅰ-sc韩国1—广港
     type: vmess
-    server: gddx.fosi.hk
-    port: 51264
-    uuid: bbe824bf-8538-3aad-9b91-ee254d3ec1e1
+    server: syiepl.fosi.hk
+    port: 16000
+    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
     alterId: 0
     cipher: auto
     udp: true
-    network: ws
-    ws-path: /index
-    ws-headers:
-      Host: gddx.fosi.hk
-    ws-opts:
-      path: /index
-      headers: { Host: gddx.fosi.hk }
   -
     name: Ⅰ-sc韩国2—广港
     type: vmess
     server: syiepl.fosi.hk
     port: 59715
-    uuid: bbe824bf-8538-3aad-9b91-ee254d3ec1e1
+    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
     alterId: 0
     cipher: auto
     udp: true
@@ -207,26 +184,26 @@ proxies:
   -
     name: Ⅰ-sc香港1—广港
     type: vmess
-    server: gddx.fosi.hk
-    port: 18405
-    uuid: bbe824bf-8538-3aad-9b91-ee254d3ec1e1
-    alterId: 0
+    server: gyiepl.1aba.cn
+    port: 28235
+    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
+    alterId: 2
     cipher: auto
     udp: true
     network: ws
     ws-path: /index
     ws-headers:
-      Host: gddx.fosi.hk
+      Host: gyiepl.1aba.cn
     ws-opts:
       path: /index
-      headers: { Host: gddx.fosi.hk }
+      headers: { Host: gyiepl.1aba.cn }
   -
     name: Ⅰ-sc香港2—广港
     type: vmess
-    server: syiepl.fosi.hk
-    port: 31094
-    uuid: bbe824bf-8538-3aad-9b91-ee254d3ec1e1
-    alterId: 0
+    server: gyiepl.1aba.cn
+    port: 14853
+    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
+    alterId: 2
     cipher: auto
     udp: true
 proxy-groups:
@@ -237,8 +214,7 @@ proxy-groups:
       - V1-sc日本1—IEPL
       - V2-sc人妖天堂—广港
       - V2-sc新加坡2—广港
-      - Ⅰ-do印度1—广港
-      - Ⅰ-do印度2—广港
+      - V2-柬埔寨—广移
       - Ⅰ-do美国1—上海联通
       - Ⅰ-sc台湾1—广港
       - "Ⅰ-sc台湾2—广港\t"
@@ -266,8 +242,7 @@ proxy-groups:
       - V1-sc日本1—IEPL
       - V2-sc人妖天堂—广港
       - V2-sc新加坡2—广港
-      - Ⅰ-do印度1—广港
-      - Ⅰ-do印度2—广港
+      - V2-柬埔寨—广移
       - Ⅰ-do美国1—上海联通
       - Ⅰ-sc台湾1—广港
       - "Ⅰ-sc台湾2—广港\t"
@@ -288,8 +263,7 @@ proxy-groups:
       - V1-sc日本1—IEPL
       - V2-sc人妖天堂—广港
       - V2-sc新加坡2—广港
-      - Ⅰ-do印度1—广港
-      - Ⅰ-do印度2—广港
+      - V2-柬埔寨—广移
       - Ⅰ-do美国1—上海联通
       - Ⅰ-sc台湾1—广港
       - "Ⅰ-sc台湾2—广港\t"
@@ -310,8 +284,7 @@ proxy-groups:
       - V1-sc日本1—IEPL
       - V2-sc人妖天堂—广港
       - V2-sc新加坡2—广港
-      - Ⅰ-do印度1—广港
-      - Ⅰ-do印度2—广港
+      - V2-柬埔寨—广移
       - Ⅰ-do美国1—上海联通
       - Ⅰ-sc台湾1—广港
       - "Ⅰ-sc台湾2—广港\t"
@@ -332,8 +305,7 @@ proxy-groups:
       - V1-sc日本1—IEPL
       - V2-sc人妖天堂—广港
       - V2-sc新加坡2—广港
-      - Ⅰ-do印度1—广港
-      - Ⅰ-do印度2—广港
+      - V2-柬埔寨—广移
       - Ⅰ-do美国1—上海联通
       - Ⅰ-sc台湾1—广港
       - "Ⅰ-sc台湾2—广港\t"
@@ -354,8 +326,7 @@ proxy-groups:
       - V1-sc日本1—IEPL
       - V2-sc人妖天堂—广港
       - V2-sc新加坡2—广港
-      - Ⅰ-do印度1—广港
-      - Ⅰ-do印度2—广港
+      - V2-柬埔寨—广移
       - Ⅰ-do美国1—上海联通
       - Ⅰ-sc台湾1—广港
       - "Ⅰ-sc台湾2—广港\t"
