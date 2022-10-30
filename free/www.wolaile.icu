@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://www.wolaile.icu/link/1kq5x8XSJGsWxVmN?clash=1
+#!MANAGED-CONFIG https://www.wolaile.icu/link/zxKrYKBGm2sk0KrN?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-10-30 06:38:51
+## 上次更新于：2022-10-30 09:00:12
 #---------------------------------------------------#
 
 port: 7890
@@ -14,11 +14,20 @@ external-controller: '0.0.0.0:9090'
 secret: ''
 proxies:
   -
+    name: AAA临时节点美国免流
+    type: vmess
+    server: gyiepl.1aba.cn
+    port: 24940
+    uuid: 17f87dc2-bbef-38fc-9daa-6abb33fae72f
+    alterId: 2
+    cipher: auto
+    udp: true
+  -
     name: V1-sc日本1—IEPL
     type: vmess
     server: awsbj01.1aba.cn
     port: 19279
-    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
+    uuid: 17f87dc2-bbef-38fc-9daa-6abb33fae72f
     alterId: 0
     cipher: auto
     udp: true
@@ -27,7 +36,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 49977
-    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
+    uuid: 17f87dc2-bbef-38fc-9daa-6abb33fae72f
     alterId: 0
     cipher: auto
     udp: true
@@ -36,7 +45,7 @@ proxies:
     type: vmess
     server: ydgy.fosi.hk
     port: 25611
-    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
+    uuid: 17f87dc2-bbef-38fc-9daa-6abb33fae72f
     alterId: 0
     cipher: auto
     udp: true
@@ -45,17 +54,8 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 37935
-    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
+    uuid: 17f87dc2-bbef-38fc-9daa-6abb33fae72f
     alterId: 2
-    cipher: auto
-    udp: true
-  -
-    name: Ⅰ-do美国1—上海联通
-    type: vmess
-    server: cn.hncu.1aba.cn
-    port: 26561
-    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
-    alterId: 0
     cipher: auto
     udp: true
   -
@@ -63,7 +63,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 38751
-    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
+    uuid: 17f87dc2-bbef-38fc-9daa-6abb33fae72f
     alterId: 0
     cipher: auto
     udp: true
@@ -79,7 +79,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 52200
-    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
+    uuid: 17f87dc2-bbef-38fc-9daa-6abb33fae72f
     alterId: 0
     cipher: auto
     udp: true
@@ -95,7 +95,7 @@ proxies:
     type: vmess
     server: ydgy.fosi.hk
     port: 61492
-    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
+    uuid: 17f87dc2-bbef-38fc-9daa-6abb33fae72f
     alterId: 0
     cipher: auto
     udp: true
@@ -111,7 +111,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 49138
-    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
+    uuid: 17f87dc2-bbef-38fc-9daa-6abb33fae72f
     alterId: 0
     cipher: auto
     udp: true
@@ -120,7 +120,7 @@ proxies:
     type: vmess
     server: ydgy.fosi.hk
     port: 48260
-    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
+    uuid: 17f87dc2-bbef-38fc-9daa-6abb33fae72f
     alterId: 0
     cipher: auto
     udp: true
@@ -136,7 +136,7 @@ proxies:
     type: vmess
     server: ydgy.fosi.hk
     port: 18121
-    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
+    uuid: 17f87dc2-bbef-38fc-9daa-6abb33fae72f
     alterId: 0
     cipher: auto
     udp: true
@@ -152,7 +152,7 @@ proxies:
     type: vmess
     server: ydgy.fosi.hk
     port: 15332
-    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
+    uuid: 17f87dc2-bbef-38fc-9daa-6abb33fae72f
     alterId: 2
     cipher: auto
     udp: true
@@ -161,7 +161,7 @@ proxies:
     type: vmess
     server: syiepl.fosi.hk
     port: 16000
-    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
+    uuid: 17f87dc2-bbef-38fc-9daa-6abb33fae72f
     alterId: 0
     cipher: auto
     udp: true
@@ -170,7 +170,7 @@ proxies:
     type: vmess
     server: syiepl.fosi.hk
     port: 59715
-    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
+    uuid: 17f87dc2-bbef-38fc-9daa-6abb33fae72f
     alterId: 0
     cipher: auto
     udp: true
@@ -186,7 +186,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 28235
-    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
+    uuid: 17f87dc2-bbef-38fc-9daa-6abb33fae72f
     alterId: 2
     cipher: auto
     udp: true
@@ -202,7 +202,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 14853
-    uuid: 9c123cee-9123-300f-9d1f-b01710db0a9d
+    uuid: 17f87dc2-bbef-38fc-9daa-6abb33fae72f
     alterId: 2
     cipher: auto
     udp: true
@@ -211,11 +211,11 @@ proxy-groups:
     name: 🔰国外流量
     type: select
     proxies:
+      - AAA临时节点美国免流
       - V1-sc日本1—IEPL
       - V2-sc人妖天堂—广港
       - V2-sc新加坡2—广港
       - V2-柬埔寨—广移
-      - Ⅰ-do美国1—上海联通
       - Ⅰ-sc台湾1—广港
       - "Ⅰ-sc台湾2—广港\t"
       - Ⅰ-sc新加坡1—广港
@@ -239,11 +239,11 @@ proxy-groups:
     type: select
     proxies:
       - 🔰国外流量
+      - AAA临时节点美国免流
       - V1-sc日本1—IEPL
       - V2-sc人妖天堂—广港
       - V2-sc新加坡2—广港
       - V2-柬埔寨—广移
-      - Ⅰ-do美国1—上海联通
       - Ⅰ-sc台湾1—广港
       - "Ⅰ-sc台湾2—广港\t"
       - Ⅰ-sc新加坡1—广港
@@ -260,11 +260,11 @@ proxy-groups:
     type: select
     proxies:
       - 🔰国外流量
+      - AAA临时节点美国免流
       - V1-sc日本1—IEPL
       - V2-sc人妖天堂—广港
       - V2-sc新加坡2—广港
       - V2-柬埔寨—广移
-      - Ⅰ-do美国1—上海联通
       - Ⅰ-sc台湾1—广港
       - "Ⅰ-sc台湾2—广港\t"
       - Ⅰ-sc新加坡1—广港
@@ -281,11 +281,11 @@ proxy-groups:
     type: select
     proxies:
       - 🔰国外流量
+      - AAA临时节点美国免流
       - V1-sc日本1—IEPL
       - V2-sc人妖天堂—广港
       - V2-sc新加坡2—广港
       - V2-柬埔寨—广移
-      - Ⅰ-do美国1—上海联通
       - Ⅰ-sc台湾1—广港
       - "Ⅰ-sc台湾2—广港\t"
       - Ⅰ-sc新加坡1—广港
@@ -302,11 +302,11 @@ proxy-groups:
     type: select
     proxies:
       - 🚀直接连接
+      - AAA临时节点美国免流
       - V1-sc日本1—IEPL
       - V2-sc人妖天堂—广港
       - V2-sc新加坡2—广港
       - V2-柬埔寨—广移
-      - Ⅰ-do美国1—上海联通
       - Ⅰ-sc台湾1—广港
       - "Ⅰ-sc台湾2—广港\t"
       - Ⅰ-sc新加坡1—广港
@@ -323,11 +323,11 @@ proxy-groups:
     type: select
     proxies:
       - 🔰国外流量
+      - AAA临时节点美国免流
       - V1-sc日本1—IEPL
       - V2-sc人妖天堂—广港
       - V2-sc新加坡2—广港
       - V2-柬埔寨—广移
-      - Ⅰ-do美国1—上海联通
       - Ⅰ-sc台湾1—广港
       - "Ⅰ-sc台湾2—广港\t"
       - Ⅰ-sc新加坡1—广港
