@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://jx.2.akkcloud1.com/link/l6fZnFhYC7krbi63?clash=1
+#!MANAGED-CONFIG https://jx.2.akkcloud1.com/link/EQXN7EqThWaT1PHE?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-10-31 02:45:34
+## 上次更新于：2022-10-31 04:49:30
 #---------------------------------------------------#
 
 port: 7890
