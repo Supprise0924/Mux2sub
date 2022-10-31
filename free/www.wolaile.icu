@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://www.wolaile.icu/link/UHC772zsVj3P4U7y?clash=1
+#!MANAGED-CONFIG https://www.wolaile.icu/link/Yp1fTCiOL21aahqm?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-10-31 10:53:45
+## 上次更新于：2022-10-31 01:07:18
 #---------------------------------------------------#
 
 port: 7890
@@ -18,7 +18,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 24940
-    uuid: eeec2798-c273-396b-b7b7-299acf59733f
+    uuid: 7ff61ab6-a72b-381a-a594-53aa1404ba8b
     alterId: 2
     cipher: auto
     udp: true
@@ -27,7 +27,7 @@ proxies:
     type: vmess
     server: awsbj01.1aba.cn
     port: 19279
-    uuid: eeec2798-c273-396b-b7b7-299acf59733f
+    uuid: 7ff61ab6-a72b-381a-a594-53aa1404ba8b
     alterId: 0
     cipher: auto
     udp: true
@@ -36,7 +36,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 49977
-    uuid: eeec2798-c273-396b-b7b7-299acf59733f
+    uuid: 7ff61ab6-a72b-381a-a594-53aa1404ba8b
     alterId: 0
     cipher: auto
     udp: true
@@ -45,7 +45,7 @@ proxies:
     type: vmess
     server: ydgy.fosi.hk
     port: 25611
-    uuid: eeec2798-c273-396b-b7b7-299acf59733f
+    uuid: 7ff61ab6-a72b-381a-a594-53aa1404ba8b
     alterId: 0
     cipher: auto
     udp: true
@@ -54,7 +54,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 37935
-    uuid: eeec2798-c273-396b-b7b7-299acf59733f
+    uuid: 7ff61ab6-a72b-381a-a594-53aa1404ba8b
     alterId: 2
     cipher: auto
     udp: true
@@ -63,7 +63,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 38751
-    uuid: eeec2798-c273-396b-b7b7-299acf59733f
+    uuid: 7ff61ab6-a72b-381a-a594-53aa1404ba8b
     alterId: 0
     cipher: auto
     udp: true
@@ -79,7 +79,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 52200
-    uuid: eeec2798-c273-396b-b7b7-299acf59733f
+    uuid: 7ff61ab6-a72b-381a-a594-53aa1404ba8b
     alterId: 0
     cipher: auto
     udp: true
@@ -95,7 +95,7 @@ proxies:
     type: vmess
     server: ydgy.fosi.hk
     port: 61492
-    uuid: eeec2798-c273-396b-b7b7-299acf59733f
+    uuid: 7ff61ab6-a72b-381a-a594-53aa1404ba8b
     alterId: 0
     cipher: auto
     udp: true
@@ -111,7 +111,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 49138
-    uuid: eeec2798-c273-396b-b7b7-299acf59733f
+    uuid: 7ff61ab6-a72b-381a-a594-53aa1404ba8b
     alterId: 0
     cipher: auto
     udp: true
@@ -120,7 +120,7 @@ proxies:
     type: vmess
     server: ydgy.fosi.hk
     port: 48260
-    uuid: eeec2798-c273-396b-b7b7-299acf59733f
+    uuid: 7ff61ab6-a72b-381a-a594-53aa1404ba8b
     alterId: 0
     cipher: auto
     udp: true
@@ -136,7 +136,7 @@ proxies:
     type: vmess
     server: ydgy.fosi.hk
     port: 18121
-    uuid: eeec2798-c273-396b-b7b7-299acf59733f
+    uuid: 7ff61ab6-a72b-381a-a594-53aa1404ba8b
     alterId: 0
     cipher: auto
     udp: true
@@ -152,7 +152,7 @@ proxies:
     type: vmess
     server: ydgy.fosi.hk
     port: 15332
-    uuid: eeec2798-c273-396b-b7b7-299acf59733f
+    uuid: 7ff61ab6-a72b-381a-a594-53aa1404ba8b
     alterId: 2
     cipher: auto
     udp: true
@@ -161,7 +161,7 @@ proxies:
     type: vmess
     server: syiepl.fosi.hk
     port: 16000
-    uuid: eeec2798-c273-396b-b7b7-299acf59733f
+    uuid: 7ff61ab6-a72b-381a-a594-53aa1404ba8b
     alterId: 0
     cipher: auto
     udp: true
@@ -170,7 +170,7 @@ proxies:
     type: vmess
     server: syiepl.fosi.hk
     port: 59715
-    uuid: eeec2798-c273-396b-b7b7-299acf59733f
+    uuid: 7ff61ab6-a72b-381a-a594-53aa1404ba8b
     alterId: 0
     cipher: auto
     udp: true
@@ -186,7 +186,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 28235
-    uuid: eeec2798-c273-396b-b7b7-299acf59733f
+    uuid: 7ff61ab6-a72b-381a-a594-53aa1404ba8b
     alterId: 2
     cipher: auto
     udp: true
@@ -202,7 +202,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 14853
-    uuid: eeec2798-c273-396b-b7b7-299acf59733f
+    uuid: 7ff61ab6-a72b-381a-a594-53aa1404ba8b
     alterId: 2
     cipher: auto
     udp: true
