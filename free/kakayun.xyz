@@ -1,7 +1,7 @@
 #---------------------------------------------------#
-## 更新：2022-11-01 04:43:35
+## 更新：2022-11-01 06:41:00
 ## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
-## 链接：https://www.kakacloud.xyz/link/GuQz4ZlfnkfNuth7?clash=1
+## 链接：https://www.kakacloud.xyz/link/PsNMVmQTR1zhT4nz?clash=1
 #---------------------------------------------------#
 
 # HTTP 代理端口
@@ -34,7 +34,7 @@ secret: ''
 
 
 proxies:
-  - {"name":"www.kakayun.xyz 到期请续费  限速10m","type":"vmess","server":"43.kakacloud.xyz","port":36143,"uuid":"3c1fa961-0b0e-3a1f-82b6-49d5696862de","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/","ws-headers":{"Host":"43.kakacloud.xyz"}}
+  - {"name":"www.kakayun.xyz 到期请续费  限速10m","type":"vmess","server":"43.kakacloud.xyz","port":36143,"uuid":"189b3118-3c60-3f47-b769-618d6474540e","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/","ws-headers":{"Host":"43.kakacloud.xyz"}}
 
 proxy-groups:
 -
