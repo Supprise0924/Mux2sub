@@ -1,7 +1,7 @@
 #---------------------------------------------------#
-## 更新：2022-11-02 04:43:40
+## 更新：2022-11-02 06:40:23
 ## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
-## 链接：https://www.kakacloud.xyz/link/En13NiORorjbKA56?clash=1
+## 链接：https://www.kaikaiyun.beauty/link/7an9AM4dyDTlashG?clash=1
 #---------------------------------------------------#
 
 # HTTP 代理端口
@@ -34,14 +34,14 @@ secret: ''
 
 
 proxies:
-  - {"name":"www.kakayun.xyz 到期请续费  限速10m","type":"vmess","server":"43.kakacloud.xyz","port":36143,"uuid":"3480a9cb-a954-3063-8639-b3ef6194fd92","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/","ws-headers":{"Host":"43.kakacloud.xyz"}}
+  - {"name":"www.kakayun.lol 到期请续费  限速10m","type":"vmess","server":"43.kakacloud.xyz","port":36143,"uuid":"cccd87d0-31ca-3f8a-80a7-89e427e58474","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/","ws-headers":{"Host":"43.kakacloud.xyz"}}
 
 proxy-groups:
 -
   name: Proxy
   type: select
   proxies:
-    - 'www.kakayun.xyz 到期请续费  限速10m'
+    - 'www.kakayun.lol 到期请续费  限速10m'
 -
   name: Domestic
   type: select
