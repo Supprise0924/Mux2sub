@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://www.wolaile.icu/link/hbUuMkn260ksypSZ?clash=1
+#!MANAGED-CONFIG https://www.wolaile.icu/link/QH9nQWejIrhJHlvv?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-11-04 12:51:29
+## 上次更新于：2022-11-04 02:47:57
 #---------------------------------------------------#
 
 port: 7890
@@ -18,7 +18,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 24940
-    uuid: 8879aa57-d8bf-3380-964b-175ec01d9455
+    uuid: 59d2ec5a-2bc2-3e35-a537-c2b5a63257d7
     alterId: 2
     cipher: auto
     udp: true
@@ -27,7 +27,7 @@ proxies:
     type: vmess
     server: awsbj01.1aba.cn
     port: 19279
-    uuid: 8879aa57-d8bf-3380-964b-175ec01d9455
+    uuid: 59d2ec5a-2bc2-3e35-a537-c2b5a63257d7
     alterId: 0
     cipher: auto
     udp: true
@@ -36,7 +36,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 49977
-    uuid: 8879aa57-d8bf-3380-964b-175ec01d9455
+    uuid: 59d2ec5a-2bc2-3e35-a537-c2b5a63257d7
     alterId: 0
     cipher: auto
     udp: true
@@ -45,7 +45,7 @@ proxies:
     type: vmess
     server: gddxc.fosi.hk
     port: 13885
-    uuid: 8879aa57-d8bf-3380-964b-175ec01d9455
+    uuid: 59d2ec5a-2bc2-3e35-a537-c2b5a63257d7
     alterId: 0
     cipher: auto
     udp: true
@@ -54,7 +54,7 @@ proxies:
     type: vmess
     server: gddxc.fosi.hk
     port: 49898
-    uuid: 8879aa57-d8bf-3380-964b-175ec01d9455
+    uuid: 59d2ec5a-2bc2-3e35-a537-c2b5a63257d7
     alterId: 2
     cipher: auto
     udp: true
@@ -63,7 +63,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 38751
-    uuid: 8879aa57-d8bf-3380-964b-175ec01d9455
+    uuid: 59d2ec5a-2bc2-3e35-a537-c2b5a63257d7
     alterId: 0
     cipher: auto
     udp: true
@@ -79,7 +79,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 52200
-    uuid: 8879aa57-d8bf-3380-964b-175ec01d9455
+    uuid: 59d2ec5a-2bc2-3e35-a537-c2b5a63257d7
     alterId: 0
     cipher: auto
     udp: true
@@ -95,7 +95,7 @@ proxies:
     type: vmess
     server: gddxd.fosi.hk
     port: 21465
-    uuid: 8879aa57-d8bf-3380-964b-175ec01d9455
+    uuid: 59d2ec5a-2bc2-3e35-a537-c2b5a63257d7
     alterId: 0
     cipher: auto
     udp: true
@@ -111,7 +111,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 49138
-    uuid: 8879aa57-d8bf-3380-964b-175ec01d9455
+    uuid: 59d2ec5a-2bc2-3e35-a537-c2b5a63257d7
     alterId: 0
     cipher: auto
     udp: true
@@ -120,7 +120,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 36512
-    uuid: 8879aa57-d8bf-3380-964b-175ec01d9455
+    uuid: 59d2ec5a-2bc2-3e35-a537-c2b5a63257d7
     alterId: 0
     cipher: auto
     udp: true
@@ -136,7 +136,7 @@ proxies:
     type: vmess
     server: gddxd.fosi.hk
     port: 19360
-    uuid: 8879aa57-d8bf-3380-964b-175ec01d9455
+    uuid: 59d2ec5a-2bc2-3e35-a537-c2b5a63257d7
     alterId: 0
     cipher: auto
     udp: true
@@ -152,7 +152,7 @@ proxies:
     type: vmess
     server: gddxc.fosi.hk
     port: 25938
-    uuid: 8879aa57-d8bf-3380-964b-175ec01d9455
+    uuid: 59d2ec5a-2bc2-3e35-a537-c2b5a63257d7
     alterId: 2
     cipher: auto
     udp: true
@@ -161,7 +161,7 @@ proxies:
     type: vmess
     server: gddxd.fosi.hk
     port: 24956
-    uuid: 8879aa57-d8bf-3380-964b-175ec01d9455
+    uuid: 59d2ec5a-2bc2-3e35-a537-c2b5a63257d7
     alterId: 0
     cipher: auto
     udp: true
@@ -170,7 +170,7 @@ proxies:
     type: vmess
     server: gddxc.fosi.hk
     port: 44627
-    uuid: 8879aa57-d8bf-3380-964b-175ec01d9455
+    uuid: 59d2ec5a-2bc2-3e35-a537-c2b5a63257d7
     alterId: 0
     cipher: auto
     udp: true
@@ -186,7 +186,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 28235
-    uuid: 8879aa57-d8bf-3380-964b-175ec01d9455
+    uuid: 59d2ec5a-2bc2-3e35-a537-c2b5a63257d7
     alterId: 2
     cipher: auto
     udp: true
@@ -202,7 +202,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 14853
-    uuid: 8879aa57-d8bf-3380-964b-175ec01d9455
+    uuid: 59d2ec5a-2bc2-3e35-a537-c2b5a63257d7
     alterId: 2
     cipher: auto
     udp: true
