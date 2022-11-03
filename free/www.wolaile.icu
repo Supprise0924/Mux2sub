@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://www.wolaile.icu/link/PYJdWj7DbUwFApe9?clash=1
+#!MANAGED-CONFIG https://www.wolaile.icu/link/rXszRy9xpuNcfKbR?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-11-03 10:29:42
+## 上次更新于：2022-11-03 12:59:44
 #---------------------------------------------------#
 
 port: 7890
@@ -18,7 +18,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 24940
-    uuid: 4739e488-671c-3563-8367-0e48eecc20a1
+    uuid: 48549ccf-3039-316d-8628-250cbf9acf87
     alterId: 2
     cipher: auto
     udp: true
@@ -27,7 +27,7 @@ proxies:
     type: vmess
     server: awsbj01.1aba.cn
     port: 19279
-    uuid: 4739e488-671c-3563-8367-0e48eecc20a1
+    uuid: 48549ccf-3039-316d-8628-250cbf9acf87
     alterId: 0
     cipher: auto
     udp: true
@@ -36,7 +36,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 49977
-    uuid: 4739e488-671c-3563-8367-0e48eecc20a1
+    uuid: 48549ccf-3039-316d-8628-250cbf9acf87
     alterId: 0
     cipher: auto
     udp: true
@@ -45,7 +45,7 @@ proxies:
     type: vmess
     server: gddxc.fosi.hk
     port: 13885
-    uuid: 4739e488-671c-3563-8367-0e48eecc20a1
+    uuid: 48549ccf-3039-316d-8628-250cbf9acf87
     alterId: 0
     cipher: auto
     udp: true
@@ -54,7 +54,7 @@ proxies:
     type: vmess
     server: gddxc.fosi.hk
     port: 49898
-    uuid: 4739e488-671c-3563-8367-0e48eecc20a1
+    uuid: 48549ccf-3039-316d-8628-250cbf9acf87
     alterId: 2
     cipher: auto
     udp: true
@@ -63,7 +63,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 38751
-    uuid: 4739e488-671c-3563-8367-0e48eecc20a1
+    uuid: 48549ccf-3039-316d-8628-250cbf9acf87
     alterId: 0
     cipher: auto
     udp: true
@@ -79,7 +79,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 52200
-    uuid: 4739e488-671c-3563-8367-0e48eecc20a1
+    uuid: 48549ccf-3039-316d-8628-250cbf9acf87
     alterId: 0
     cipher: auto
     udp: true
@@ -95,7 +95,7 @@ proxies:
     type: vmess
     server: gddxd.fosi.hk
     port: 21465
-    uuid: 4739e488-671c-3563-8367-0e48eecc20a1
+    uuid: 48549ccf-3039-316d-8628-250cbf9acf87
     alterId: 0
     cipher: auto
     udp: true
@@ -111,7 +111,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 49138
-    uuid: 4739e488-671c-3563-8367-0e48eecc20a1
+    uuid: 48549ccf-3039-316d-8628-250cbf9acf87
     alterId: 0
     cipher: auto
     udp: true
@@ -120,7 +120,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 36512
-    uuid: 4739e488-671c-3563-8367-0e48eecc20a1
+    uuid: 48549ccf-3039-316d-8628-250cbf9acf87
     alterId: 0
     cipher: auto
     udp: true
@@ -136,7 +136,7 @@ proxies:
     type: vmess
     server: gddxd.fosi.hk
     port: 19360
-    uuid: 4739e488-671c-3563-8367-0e48eecc20a1
+    uuid: 48549ccf-3039-316d-8628-250cbf9acf87
     alterId: 0
     cipher: auto
     udp: true
@@ -150,43 +150,43 @@ proxies:
   -
     name: "Ⅰ-sc越南2—广港\t"
     type: vmess
-    server: ydgy.fosi.hk
-    port: 15332
-    uuid: 4739e488-671c-3563-8367-0e48eecc20a1
+    server: gddxc.fosi.hk
+    port: 25938
+    uuid: 48549ccf-3039-316d-8628-250cbf9acf87
     alterId: 2
     cipher: auto
     udp: true
   -
     name: Ⅰ-sc韩国1—广港
     type: vmess
-    server: syiepl.fosi.hk
-    port: 16000
-    uuid: 4739e488-671c-3563-8367-0e48eecc20a1
+    server: gddxd.fosi.hk
+    port: 24956
+    uuid: 48549ccf-3039-316d-8628-250cbf9acf87
     alterId: 0
     cipher: auto
     udp: true
   -
     name: Ⅰ-sc韩国2—广港
     type: vmess
-    server: syiepl.fosi.hk
-    port: 59715
-    uuid: 4739e488-671c-3563-8367-0e48eecc20a1
+    server: gddxc.fosi.hk
+    port: 44627
+    uuid: 48549ccf-3039-316d-8628-250cbf9acf87
     alterId: 0
     cipher: auto
     udp: true
     network: ws
     ws-path: /index
     ws-headers:
-      Host: syiepl.fosi.hk
+      Host: gddxc.fosi.hk
     ws-opts:
       path: /index
-      headers: { Host: syiepl.fosi.hk }
+      headers: { Host: gddxc.fosi.hk }
   -
     name: Ⅰ-sc香港1—广港
     type: vmess
     server: gyiepl.1aba.cn
     port: 28235
-    uuid: 4739e488-671c-3563-8367-0e48eecc20a1
+    uuid: 48549ccf-3039-316d-8628-250cbf9acf87
     alterId: 2
     cipher: auto
     udp: true
@@ -202,7 +202,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 14853
-    uuid: 4739e488-671c-3563-8367-0e48eecc20a1
+    uuid: 48549ccf-3039-316d-8628-250cbf9acf87
     alterId: 2
     cipher: auto
     udp: true
