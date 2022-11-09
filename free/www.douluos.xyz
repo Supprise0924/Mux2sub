@@ -1,7 +1,7 @@
 #---------------------------------------------------#
-## 更新：2022-11-09 09:06:21
+## 更新：2022-11-09 10:37:32
 ## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
-## 链接：https://www.douluoyun.site/link/nzUn0DpJ5z0o1Dey?clash=1
+## 链接：https://www.douluoyun.site/link/MyYtTuw8pUT5ZTnI?clash=1
 #---------------------------------------------------#
 
 # HTTP 代理端口
@@ -34,14 +34,14 @@ secret: ''
 
 
 proxies:
-  - {"name":"www.douluoyun.top 到期请续费 防失联专用","type":"vmess","server":"34.douluoyun.top","port":29134,"uuid":"42e71d22-f1ba-3a06-a589-30e85225702f","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/","ws-headers":{"Host":"34.douluoyun.top"}}
+  - {"name":"最新域名： www.douluoyun.lol  到期请续费 防失联专用","type":"vmess","server":"34.douluoyun.top","port":29134,"uuid":"83b53319-1973-3561-aa80-8e9b2b080609","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/","ws-headers":{"Host":"34.douluoyun.top"}}
 
 proxy-groups:
 -
   name: Proxy
   type: select
   proxies:
-    - 'www.douluoyun.top 到期请续费 防失联专用'
+    - '最新域名： www.douluoyun.lol  到期请续费 防失联专用'
 -
   name: Domestic
   type: select
