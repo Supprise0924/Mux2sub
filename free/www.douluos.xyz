@@ -1,7 +1,7 @@
 #---------------------------------------------------#
-## 更新：2022-11-12 12:46:35
+## 更新：2022-11-12 02:39:13
 ## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
-## 链接：https://www.douluoyun.site/link/YkBhf4SayWs8HClt?clash=1
+## 链接：https://www.douluoyun.site/link/VCjl2ffm9SMzEOND?clash=1
 #---------------------------------------------------#
 
 # HTTP 代理端口
@@ -34,25 +34,25 @@ secret: ''
 
 
 proxies:
-  - {"name":"vip1-新加坡1||限速100M","type":"vmess","server":"15.douluos.icu","port":53015,"uuid":"c20b178c-7243-3d47-96fb-0f22b8d9b118","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-新加坡2||限速100M","type":"vmess","server":"16.douluos.icu","port":53016,"uuid":"c20b178c-7243-3d47-96fb-0f22b8d9b118","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-新加坡4||限速100M","type":"vmess","server":"18.douluos.icu","port":54018,"uuid":"c20b178c-7243-3d47-96fb-0f22b8d9b118","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-新加坡5||100m","type":"vmess","server":"29.douluos.icu","port":36129,"uuid":"c20b178c-7243-3d47-96fb-0f22b8d9b118","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-新加坡5||限速100M","type":"vmess","server":"12.douluos.icu","port":53012,"uuid":"c20b178c-7243-3d47-96fb-0f22b8d9b118","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-新加坡6||限速100M","type":"vmess","server":"11.douluos.icu","port":51011,"uuid":"c20b178c-7243-3d47-96fb-0f22b8d9b118","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-日本12||限速100M","type":"vmess","server":"9.douluos.icu","port":33009,"uuid":"c20b178c-7243-3d47-96fb-0f22b8d9b118","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-日本1||限速100M","type":"vmess","server":"3.douluos.icu","port":51003,"uuid":"c20b178c-7243-3d47-96fb-0f22b8d9b118","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-日本2||限速100M","type":"vmess","server":"4.douluos.icu","port":53004,"uuid":"c20b178c-7243-3d47-96fb-0f22b8d9b118","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-日本4||限速100M","type":"vmess","server":"6.douluos.icu","port":54006,"uuid":"c20b178c-7243-3d47-96fb-0f22b8d9b118","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-日本5||限速100M","type":"vmess","server":"7.douluos.icu","port":53007,"uuid":"c20b178c-7243-3d47-96fb-0f22b8d9b118","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-日本6||限速100M","type":"vmess","server":"8.douluos.icu","port":43008,"uuid":"c20b178c-7243-3d47-96fb-0f22b8d9b118","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-美国1||限速100M","type":"vmess","server":"19.douluos.icu","port":53019,"uuid":"c20b178c-7243-3d47-96fb-0f22b8d9b118","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-韩国1||限速100M","type":"vmess","server":"22.douluos.icu","port":33022,"uuid":"c20b178c-7243-3d47-96fb-0f22b8d9b118","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-香港1||限速100M","type":"vmess","server":"10.douluos.icu","port":53010,"uuid":"c20b178c-7243-3d47-96fb-0f22b8d9b118","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-香港4||限速100M","type":"vmess","server":"13.douluos.icu","port":53013,"uuid":"c20b178c-7243-3d47-96fb-0f22b8d9b118","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-香港5||限速100M","type":"vmess","server":"14.douluos.icu","port":51014,"uuid":"c20b178c-7243-3d47-96fb-0f22b8d9b118","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-香港6||限速100M","type":"vmess","server":"20.douluos.icu","port":53020,"uuid":"c20b178c-7243-3d47-96fb-0f22b8d9b118","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"最新域名： www.douluoyun.lol  到期请续费 防失联专用","type":"vmess","server":"34.douluoyun.top","port":29134,"uuid":"c20b178c-7243-3d47-96fb-0f22b8d9b118","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/","ws-headers":{"Host":"34.douluoyun.top"}}
+  - {"name":"vip1-新加坡1||限速100M","type":"vmess","server":"15.douluos.icu","port":53015,"uuid":"0f604192-f0cb-3fc0-894b-ca82f877d067","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-新加坡2||限速100M","type":"vmess","server":"16.douluos.icu","port":53016,"uuid":"0f604192-f0cb-3fc0-894b-ca82f877d067","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-新加坡4||限速100M","type":"vmess","server":"18.douluos.icu","port":54018,"uuid":"0f604192-f0cb-3fc0-894b-ca82f877d067","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-新加坡5||100m","type":"vmess","server":"29.douluos.icu","port":36129,"uuid":"0f604192-f0cb-3fc0-894b-ca82f877d067","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-新加坡5||限速100M","type":"vmess","server":"12.douluos.icu","port":53012,"uuid":"0f604192-f0cb-3fc0-894b-ca82f877d067","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-新加坡6||限速100M","type":"vmess","server":"11.douluos.icu","port":51011,"uuid":"0f604192-f0cb-3fc0-894b-ca82f877d067","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-日本12||限速100M","type":"vmess","server":"9.douluos.icu","port":33009,"uuid":"0f604192-f0cb-3fc0-894b-ca82f877d067","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-日本1||限速100M","type":"vmess","server":"3.douluos.icu","port":51003,"uuid":"0f604192-f0cb-3fc0-894b-ca82f877d067","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-日本2||限速100M","type":"vmess","server":"4.douluos.icu","port":53004,"uuid":"0f604192-f0cb-3fc0-894b-ca82f877d067","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-日本4||限速100M","type":"vmess","server":"6.douluos.icu","port":54006,"uuid":"0f604192-f0cb-3fc0-894b-ca82f877d067","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-日本5||限速100M","type":"vmess","server":"7.douluos.icu","port":53007,"uuid":"0f604192-f0cb-3fc0-894b-ca82f877d067","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-日本6||限速100M","type":"vmess","server":"8.douluos.icu","port":43008,"uuid":"0f604192-f0cb-3fc0-894b-ca82f877d067","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-美国1||限速100M","type":"vmess","server":"19.douluos.icu","port":53019,"uuid":"0f604192-f0cb-3fc0-894b-ca82f877d067","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-韩国1||限速100M","type":"vmess","server":"22.douluos.icu","port":33022,"uuid":"0f604192-f0cb-3fc0-894b-ca82f877d067","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-香港1||限速100M","type":"vmess","server":"10.douluos.icu","port":53010,"uuid":"0f604192-f0cb-3fc0-894b-ca82f877d067","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-香港4||限速100M","type":"vmess","server":"13.douluos.icu","port":53013,"uuid":"0f604192-f0cb-3fc0-894b-ca82f877d067","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-香港5||限速100M","type":"vmess","server":"14.douluos.icu","port":51014,"uuid":"0f604192-f0cb-3fc0-894b-ca82f877d067","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-香港6||限速100M","type":"vmess","server":"20.douluos.icu","port":53020,"uuid":"0f604192-f0cb-3fc0-894b-ca82f877d067","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"最新域名： www.douluoyun.lol  到期请续费 防失联专用","type":"vmess","server":"34.douluoyun.top","port":29134,"uuid":"0f604192-f0cb-3fc0-894b-ca82f877d067","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/","ws-headers":{"Host":"34.douluoyun.top"}}
 
 proxy-groups:
 -
