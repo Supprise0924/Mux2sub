@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://lting.cyou/link/MaAMuabPiZnQIsZQ?clash=1
+#!MANAGED-CONFIG https://lting.cyou/link/wDNND1F8Fiqrp0cM?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-11-22 10:22:13
+## 上次更新于：2022-11-22 12:38:51
 #---------------------------------------------------#
 
 port: 7890
@@ -34,7 +34,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10010
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -51,7 +51,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10022
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -68,7 +68,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10032
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -85,7 +85,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10020
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -102,7 +102,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10001
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -119,7 +119,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10002
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -136,7 +136,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10003
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -153,7 +153,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10011
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -170,7 +170,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10037
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -187,7 +187,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10012
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -204,7 +204,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10007
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -221,7 +221,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10015
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -238,7 +238,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10033
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -255,7 +255,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10004
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -272,7 +272,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10016
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -289,7 +289,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10038
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -306,7 +306,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10005
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -323,7 +323,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10036
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -340,7 +340,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10043
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -357,7 +357,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10023
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -374,7 +374,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10031
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -391,7 +391,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10014
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -408,7 +408,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10021
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -425,7 +425,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10006
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -442,7 +442,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10008
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -459,7 +459,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10034
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -476,7 +476,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10035
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -493,7 +493,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10017
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -510,7 +510,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10018
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -527,7 +527,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10025
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -544,7 +544,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10026
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -561,7 +561,7 @@ proxies:
     type: vmess
     server: az.hk01.ssru7.casa
     port: 10019
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -576,9 +576,9 @@ proxies:
   -
     name: v2ray-2ah-az02(香港)
     type: vmess
-    server: ah.yd01.paopaocloud.cyou
+    server: ah.yd01.ssru7.casa
     port: 10010
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -593,9 +593,9 @@ proxies:
   -
     name: v2ray-2ah-br01(巴西)
     type: vmess
-    server: ah.yd01.paopaocloud.cyou
+    server: ah.yd01.ssru7.casa
     port: 10040
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -610,9 +610,9 @@ proxies:
   -
     name: v2ray-2ah-can01(加拿大)
     type: vmess
-    server: ah.yd01.paopaocloud.cyou
+    server: ah.yd01.ssru7.casa
     port: 10041
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -627,9 +627,9 @@ proxies:
   -
     name: v2ray-2ah-db01(迪拜)
     type: vmess
-    server: ah.yd01.paopaocloud.cyou
+    server: ah.yd01.ssru7.casa
     port: 10039
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -644,9 +644,9 @@ proxies:
   -
     name: v2ray-2ah-hk02(香港)
     type: vmess
-    server: ah.yd01.paopaocloud.cyou
+    server: ah.yd01.ssru7.casa
     port: 10020
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -661,9 +661,9 @@ proxies:
   -
     name: v2ray-2ah-hk03(香港Netflix)
     type: vmess
-    server: ah.yd01.paopaocloud.cyou
+    server: ah.yd01.ssru7.casa
     port: 10001
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -678,9 +678,9 @@ proxies:
   -
     name: v2ray-2ah-hk04(香港Netflix)
     type: vmess
-    server: ah.yd01.paopaocloud.cyou
+    server: ah.yd01.ssru7.casa
     port: 10002
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -695,9 +695,9 @@ proxies:
   -
     name: v2ray-2ah-hk05(香港)
     type: vmess
-    server: ah.yd01.paopaocloud.cyou
+    server: ah.yd01.ssru7.casa
     port: 10003
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -712,9 +712,9 @@ proxies:
   -
     name: v2ray-2ah-hk06(hkt香港Netflix)
     type: vmess
-    server: ah.yd01.paopaocloud.cyou
+    server: ah.yd01.ssru7.casa
     port: 10009
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -729,9 +729,9 @@ proxies:
   -
     name: v2ray-2ah-hk07(hgc香港Netflix)
     type: vmess
-    server: ah.yd01.paopaocloud.cyou
+    server: ah.yd01.ssru7.casa
     port: 10011
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -746,9 +746,9 @@ proxies:
   -
     name: v2ray-2ah-hk08(hgc香港Netflix)
     type: vmess
-    server: ah.yd01.paopaocloud.cyou
+    server: ah.yd01.ssru7.casa
     port: 10037
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -763,9 +763,9 @@ proxies:
   -
     name: v2ray-2ah-jp01(日本)
     type: vmess
-    server: ah.yd01.paopaocloud.cyou
+    server: ah.yd01.ssru7.casa
     port: 10007
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -780,9 +780,9 @@ proxies:
   -
     name: v2ray-2ah-jp02(日本Netflix|Abema|...)
     type: vmess
-    server: ah.yd01.paopaocloud.cyou
+    server: ah.yd01.ssru7.casa
     port: 10015
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -797,9 +797,9 @@ proxies:
   -
     name: v2ray-2ah-jp03(日本)
     type: vmess
-    server: ah.yd01.paopaocloud.cyou
+    server: ah.yd01.ssru7.casa
     port: 10033
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -814,9 +814,9 @@ proxies:
   -
     name: v2ray-2ah-jp05(日本Netflix|Abema|...)
     type: vmess
-    server: ah.yd01.paopaocloud.cyou
+    server: ah.yd01.ssru7.casa
     port: 10004
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -831,9 +831,9 @@ proxies:
   -
     name: v2ray-2ah-kr01(韩国)
     type: vmess
-    server: ah.yd01.paopaocloud.cyou
+    server: ah.yd01.ssru7.casa
     port: 10016
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -848,9 +848,9 @@ proxies:
   -
     name: v2ray-2ah-kr02(韩国)
     type: vmess
-    server: ah.yd01.paopaocloud.cyou
+    server: ah.yd01.ssru7.casa
     port: 10038
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -865,9 +865,9 @@ proxies:
   -
     name: v2ray-2ah-ph01(菲律宾)
     type: vmess
-    server: ah.yd01.paopaocloud.cyou
+    server: ah.yd01.ssru7.casa
     port: 10042
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -882,9 +882,9 @@ proxies:
   -
     name: v2ray-2ah-ru01(俄罗斯)
     type: vmess
-    server: ah.yd01.paopaocloud.cyou
+    server: ah.yd01.ssru7.casa
     port: 10023
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -899,9 +899,9 @@ proxies:
   -
     name: v2ray-2ah-sgp01(新加坡)
     type: vmess
-    server: ah.yd01.paopaocloud.cyou
+    server: ah.yd01.ssru7.casa
     port: 10014
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -916,9 +916,9 @@ proxies:
   -
     name: v2ray-2ah-tw01(台湾Netflix)
     type: vmess
-    server: ah.yd01.paopaocloud.cyou
+    server: ah.yd01.ssru7.casa
     port: 10006
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -933,9 +933,9 @@ proxies:
   -
     name: v2ray-2ah-tw03(台湾Netflix)
     type: vmess
-    server: ah.yd01.paopaocloud.cyou
+    server: ah.yd01.ssru7.casa
     port: 10034
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -950,9 +950,9 @@ proxies:
   -
     name: v2ray-2ah-tw04(台湾Netflix)
     type: vmess
-    server: ah.yd01.paopaocloud.cyou
+    server: ah.yd01.ssru7.casa
     port: 10035
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -967,9 +967,9 @@ proxies:
   -
     name: v2ray-2ah-us05(美国)
     type: vmess
-    server: ah.yd01.paopaocloud.cyou
+    server: ah.yd01.ssru7.casa
     port: 10025
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -984,9 +984,9 @@ proxies:
   -
     name: v2ray-2ah-us06(美国)
     type: vmess
-    server: ah.yd01.paopaocloud.cyou
+    server: ah.yd01.ssru7.casa
     port: 10026
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1001,9 +1001,9 @@ proxies:
   -
     name: v2ray-2ah-us07(美国流媒体解锁)
     type: vmess
-    server: ah.yd01.paopaocloud.cyou
+    server: ah.yd01.ssru7.casa
     port: 10027
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1018,9 +1018,9 @@ proxies:
   -
     name: v2ray-2ah-vn01(越南Netflix)
     type: vmess
-    server: ah.yd01.paopaocloud.cyou
+    server: ah.yd01.ssru7.casa
     port: 10019
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1037,7 +1037,7 @@ proxies:
     type: vmess
     server: aus01.cf.ssru7.casa
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1054,7 +1054,7 @@ proxies:
     type: vmess
     server: br01.cf.ssru7.casa
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1071,7 +1071,7 @@ proxies:
     type: vmess
     server: can01.cf.ssru7.casa
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1088,7 +1088,7 @@ proxies:
     type: vmess
     server: cl01.cf.ssru7.casa
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1105,7 +1105,7 @@ proxies:
     type: vmess
     server: db01.cf.ssru7.casa
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1122,7 +1122,7 @@ proxies:
     type: vmess
     server: ger01.cf.ssru7.casa
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1139,7 +1139,7 @@ proxies:
     type: vmess
     server: kr02.cf.ssru7.casa
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1156,7 +1156,7 @@ proxies:
     type: vmess
     server: lu01.cf.ssru7.casa
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1173,7 +1173,7 @@ proxies:
     type: vmess
     server: my01.cf.ssru7.casa
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1190,7 +1190,7 @@ proxies:
     type: vmess
     server: ph01.cf.ssru7.casa
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1207,7 +1207,7 @@ proxies:
     type: vmess
     server: tr01.cf.ssru7.casa
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1224,7 +1224,7 @@ proxies:
     type: vmess
     server: uk01.cf.ssru7.casa
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1241,7 +1241,7 @@ proxies:
     type: vmess
     server: us02.cf.ssru7.casa
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1258,7 +1258,7 @@ proxies:
     type: vmess
     server: jm.yd02.paopaocloud.cyou
     port: 10002
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1275,7 +1275,7 @@ proxies:
     type: vmess
     server: jm.yd02.paopaocloud.cyou
     port: 15623
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1292,7 +1292,7 @@ proxies:
     type: vmess
     server: jm.yd02.paopaocloud.cyou
     port: 15621
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1309,7 +1309,7 @@ proxies:
     type: vmess
     server: can01.paopaocloud.cyou
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1326,7 +1326,7 @@ proxies:
     type: vmess
     server: lu01.paopaocloud.cyou
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1343,7 +1343,7 @@ proxies:
     type: vmess
     server: in01.paopaocloud.cyou
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1360,7 +1360,7 @@ proxies:
     type: vmess
     server: paopao.v2.tw01.paopaocloud.cyou
     port: 13306
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1377,7 +1377,7 @@ proxies:
     type: vmess
     server: paopao.v2.tw02.paopaocloud.cyou
     port: 3306
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1394,7 +1394,7 @@ proxies:
     type: vmess
     server: paopao.v2.tw03.paopaocloud.cyou
     port: 3306
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1411,7 +1411,7 @@ proxies:
     type: vmess
     server: paopao.v2.tw04.paopaocloud.cyou
     port: 3306
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1428,7 +1428,7 @@ proxies:
     type: vmess
     server: tr01.paopaocloud.cyou
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1445,7 +1445,7 @@ proxies:
     type: vmess
     server: br01.paopaocloud.cyou
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1462,7 +1462,7 @@ proxies:
     type: vmess
     server: ger01.paopaocloud.cyou
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1479,7 +1479,7 @@ proxies:
     type: vmess
     server: paopao.v2.mol01.paopaocloud.cyou
     port: 3306
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1496,7 +1496,7 @@ proxies:
     type: vmess
     server: paopao.v2.sgp01.paopaocloud.cyou
     port: 10551
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1513,7 +1513,7 @@ proxies:
     type: vmess
     server: paopao.v2.sgp02.paopaocloud.cyou
     port: 10551
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1530,7 +1530,7 @@ proxies:
     type: vmess
     server: paopao.v2.sgp03.paopaocloud.cyou
     port: 3306
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1547,7 +1547,7 @@ proxies:
     type: vmess
     server: ssru.v2.ru01.2yun.win
     port: 3306
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1564,7 +1564,7 @@ proxies:
     type: vmess
     server: ssru.v2.ru02.2yun.win
     port: 3307
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1581,7 +1581,7 @@ proxies:
     type: vmess
     server: ssru.v2.jp01.2yun.win
     port: 3306
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1598,7 +1598,7 @@ proxies:
     type: vmess
     server: ssru.v2.jp03.2yun.win
     port: 13306
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1615,7 +1615,7 @@ proxies:
     type: vmess
     server: paopao.v2.jp05.paopaocloud.cyou
     port: 3307
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1632,7 +1632,7 @@ proxies:
     type: vmess
     server: cl01.paopaocloud.cyou
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1649,7 +1649,7 @@ proxies:
     type: vmess
     server: fr01.paopaocloud.cyou
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1666,7 +1666,7 @@ proxies:
     type: vmess
     server: aus01.paopaocloud.cyou
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1683,7 +1683,7 @@ proxies:
     type: vmess
     server: paopao.v2.us01.paopaocloud.cyou
     port: 3307
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1700,7 +1700,7 @@ proxies:
     type: vmess
     server: us02.paopaocloud.cyou
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1717,7 +1717,7 @@ proxies:
     type: vmess
     server: ssru.v2.us03.2yun.win
     port: 13306
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1734,7 +1734,7 @@ proxies:
     type: vmess
     server: paopao.v2.us05.paopaocloud.cyou
     port: 3306
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1751,7 +1751,7 @@ proxies:
     type: vmess
     server: paopao.v2.us06.paopaocloud.cyou
     port: 3306
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1768,7 +1768,7 @@ proxies:
     type: vmess
     server: paopao.v2.us07.paopaocloud.cyou
     port: 3307
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1785,7 +1785,7 @@ proxies:
     type: vmess
     server: uk01.paopaocloud.cyou
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1802,7 +1802,7 @@ proxies:
     type: vmess
     server: paopao.v2.hl01.paopaocloud.cyou
     port: 3306
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1819,7 +1819,7 @@ proxies:
     type: vmess
     server: ph01.paopaocloud.cyou
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1836,7 +1836,7 @@ proxies:
     type: vmess
     server: paopao.v2.vn01.paopaocloud.cyou
     port: 3306
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1853,7 +1853,7 @@ proxies:
     type: vmess
     server: db01.paopaocloud.cyou
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1870,7 +1870,7 @@ proxies:
     type: vmess
     server: paopao.v2.kr01.paopaocloud.cyou
     port: 10552
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1887,7 +1887,7 @@ proxies:
     type: vmess
     server: kr02.paopaocloud.cyou
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1904,7 +1904,7 @@ proxies:
     type: vmess
     server: paopao.v2.hk01.paopaocloud.cyou
     port: 11050
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1921,7 +1921,7 @@ proxies:
     type: vmess
     server: paopao.v2.hk02.paopaocloud.cyou
     port: 13312
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1938,7 +1938,7 @@ proxies:
     type: vmess
     server: paopao.v2.hk03.paopaocloud.cyou
     port: 8901
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1955,7 +1955,7 @@ proxies:
     type: vmess
     server: paopao.v2.hk04.paopaocloud.cyou
     port: 20801
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1972,7 +1972,7 @@ proxies:
     type: vmess
     server: paopao.v2.hk05.paopaocloud.cyou
     port: 21050
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -1989,7 +1989,7 @@ proxies:
     type: vmess
     server: paopao.v2.hk06.paopaocloud.cyou
     port: 10390
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -2006,7 +2006,7 @@ proxies:
     type: vmess
     server: paopao.v2.hk08.paopaocloud.cyou
     port: 3309
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -2023,7 +2023,7 @@ proxies:
     type: vmess
     server: my01.paopaocloud.cyou
     port: 443
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -2040,7 +2040,7 @@ proxies:
     type: vmess
     server: paopao.v2.az01.paopaocloud.cyou
     port: 13312
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -2057,7 +2057,7 @@ proxies:
     type: vmess
     server: jm.yd01.paopaocloud.cyou
     port: 20141
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -2074,7 +2074,7 @@ proxies:
     type: vmess
     server: jm.yd01.paopaocloud.cyou
     port: 20137
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -2083,7 +2083,7 @@ proxies:
     type: vmess
     server: jm.yd01.paopaocloud.cyou
     port: 20119
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
@@ -2092,7 +2092,7 @@ proxies:
     type: vmess
     server: paopao.v2.hk07.paopaocloud.cyou
     port: 10432
-    uuid: 1c82966e-61ae-3aca-a060-93e2d7e5e51e
+    uuid: 8235d4b1-2324-344e-929f-1799ccc2b41e
     alterId: 0
     cipher: auto
     udp: true
