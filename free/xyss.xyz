@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://my.xyss.xyz/link/KStCxE95EBs0kjPl?clash=1
+#!MANAGED-CONFIG https://my.xyss.xyz/link/AMEH9JH7KtRHSCFN?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-11-29 10:32:02
+## 上次更新于：2022-11-30 12:44:08
 #---------------------------------------------------#
 
 port: 7890
@@ -17,9 +17,9 @@ proxies:
     name: '官网:my.xyss.xyz'
     type: ssr
     server: my.xyss.xyz
-    port: 48872
+    port: 34178
     cipher: chacha20-ietf
-    password: VyoMKQ8cbo0jonTU
+    password: csLuNK44GlHzCh4d
     protocol: auth_aes128_sha1
     protocol-param: ''
     obfs: http_simple
