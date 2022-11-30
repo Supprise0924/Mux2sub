@@ -1,7 +1,7 @@
 #---------------------------------------------------#
-## 更新：2022-11-30 11:03:12
+## 更新：2022-11-30 12:37:59
 ## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
-## 链接：https://apt.download-config-ppy.cyou/link/g1vDlcEXOdZf3zxV?clash=1
+## 链接：https://apt.download-config-ppy.cyou/link/Q0b6rLcwcsGmCZqc?clash=1
 #---------------------------------------------------#
 
 # HTTP 代理端口
