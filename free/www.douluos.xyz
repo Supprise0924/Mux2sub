@@ -1,7 +1,7 @@
 #---------------------------------------------------#
-## 更新：2022-12-06 02:34:28
+## 更新：2022-12-06 04:30:27
 ## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
-## 链接：https://www.douluoyun.site/link/KvYSHKicUCJr69g1?clash=1
+## 链接：https://www.douluoyun.site/link/kNvCvDYqg23WkUn1?clash=1
 #---------------------------------------------------#
 
 # HTTP 代理端口
@@ -34,25 +34,25 @@ secret: ''
 
 
 proxies:
-  - {"name":"vip1-新加坡1||限速100M","type":"vmess","server":"15.douluo.beauty","port":53015,"uuid":"e251e3d2-699c-3704-af28-932c8a942cf3","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-新加坡2||限速100M","type":"vmess","server":"16.douluo.beauty","port":53016,"uuid":"e251e3d2-699c-3704-af28-932c8a942cf3","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-新加坡4||限速100M","type":"vmess","server":"18.douluo.beauty","port":54018,"uuid":"e251e3d2-699c-3704-af28-932c8a942cf3","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-新加坡5||100m","type":"vmess","server":"29.douluo.beauty","port":56129,"uuid":"e251e3d2-699c-3704-af28-932c8a942cf3","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-新加坡5||限速100M","type":"vmess","server":"12.douluo.beauty","port":53012,"uuid":"e251e3d2-699c-3704-af28-932c8a942cf3","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-新加坡6||限速100M","type":"vmess","server":"11.douluo.beauty","port":51011,"uuid":"e251e3d2-699c-3704-af28-932c8a942cf3","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-日本12||限速100M","type":"vmess","server":"9.douluo.beauty","port":33009,"uuid":"e251e3d2-699c-3704-af28-932c8a942cf3","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-日本1||限速100M","type":"vmess","server":"3.douluo.beauty","port":51003,"uuid":"e251e3d2-699c-3704-af28-932c8a942cf3","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-日本2||限速100M","type":"vmess","server":"4.douluo.beauty","port":53004,"uuid":"e251e3d2-699c-3704-af28-932c8a942cf3","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-日本4||限速100M","type":"vmess","server":"6.douluo.beauty","port":54006,"uuid":"e251e3d2-699c-3704-af28-932c8a942cf3","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-日本5||限速100M","type":"vmess","server":"7.douluo.beauty","port":53007,"uuid":"e251e3d2-699c-3704-af28-932c8a942cf3","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-日本6||限速100M","type":"vmess","server":"8.douluo.beauty","port":43008,"uuid":"e251e3d2-699c-3704-af28-932c8a942cf3","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-美国1||限速100M","type":"vmess","server":"19.douluo.beauty","port":53019,"uuid":"e251e3d2-699c-3704-af28-932c8a942cf3","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-韩国1||限速100M","type":"vmess","server":"22.douluo.beauty","port":33022,"uuid":"e251e3d2-699c-3704-af28-932c8a942cf3","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-香港1||限速100M","type":"vmess","server":"10.douluo.beauty","port":53010,"uuid":"e251e3d2-699c-3704-af28-932c8a942cf3","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-香港4||限速100M","type":"vmess","server":"13.douluo.beauty","port":53013,"uuid":"e251e3d2-699c-3704-af28-932c8a942cf3","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-香港5||限速100M","type":"vmess","server":"14.douluo.beauty","port":51014,"uuid":"e251e3d2-699c-3704-af28-932c8a942cf3","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"vip1-香港6||限速100M","type":"vmess","server":"20.douluo.beauty","port":53020,"uuid":"e251e3d2-699c-3704-af28-932c8a942cf3","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"最新域名： www.douluoyun.lol  到期请续费 防失联专用","type":"vmess","server":"34.douluoyun.top","port":29134,"uuid":"e251e3d2-699c-3704-af28-932c8a942cf3","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/","ws-headers":{"Host":"34.douluoyun.top"}}
+  - {"name":"vip1-新加坡1||限速100M","type":"vmess","server":"15.douluo.beauty","port":53015,"uuid":"afbfb385-afe8-33d6-b7a3-4a30c7a3f242","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-新加坡2||限速100M","type":"vmess","server":"16.douluo.beauty","port":53016,"uuid":"afbfb385-afe8-33d6-b7a3-4a30c7a3f242","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-新加坡4||限速100M","type":"vmess","server":"18.douluo.beauty","port":54018,"uuid":"afbfb385-afe8-33d6-b7a3-4a30c7a3f242","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-新加坡5||100m","type":"vmess","server":"29.douluo.beauty","port":56129,"uuid":"afbfb385-afe8-33d6-b7a3-4a30c7a3f242","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-新加坡5||限速100M","type":"vmess","server":"12.douluo.beauty","port":53012,"uuid":"afbfb385-afe8-33d6-b7a3-4a30c7a3f242","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-新加坡6||限速100M","type":"vmess","server":"11.douluo.beauty","port":51011,"uuid":"afbfb385-afe8-33d6-b7a3-4a30c7a3f242","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-日本12||限速100M","type":"vmess","server":"9.douluo.beauty","port":33009,"uuid":"afbfb385-afe8-33d6-b7a3-4a30c7a3f242","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-日本1||限速100M","type":"vmess","server":"3.douluo.beauty","port":51003,"uuid":"afbfb385-afe8-33d6-b7a3-4a30c7a3f242","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-日本2||限速100M","type":"vmess","server":"4.douluo.beauty","port":53004,"uuid":"afbfb385-afe8-33d6-b7a3-4a30c7a3f242","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-日本4||限速100M","type":"vmess","server":"6.douluo.beauty","port":54006,"uuid":"afbfb385-afe8-33d6-b7a3-4a30c7a3f242","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-日本5||限速100M","type":"vmess","server":"7.douluo.beauty","port":53007,"uuid":"afbfb385-afe8-33d6-b7a3-4a30c7a3f242","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-日本6||限速100M","type":"vmess","server":"8.douluo.beauty","port":43008,"uuid":"afbfb385-afe8-33d6-b7a3-4a30c7a3f242","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-美国1||限速100M","type":"vmess","server":"19.douluo.beauty","port":53019,"uuid":"afbfb385-afe8-33d6-b7a3-4a30c7a3f242","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-韩国1||限速100M","type":"vmess","server":"22.douluo.beauty","port":33022,"uuid":"afbfb385-afe8-33d6-b7a3-4a30c7a3f242","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-香港1||限速100M","type":"vmess","server":"10.douluo.beauty","port":53010,"uuid":"afbfb385-afe8-33d6-b7a3-4a30c7a3f242","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-香港4||限速100M","type":"vmess","server":"13.douluo.beauty","port":53013,"uuid":"afbfb385-afe8-33d6-b7a3-4a30c7a3f242","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-香港5||限速100M","type":"vmess","server":"14.douluo.beauty","port":51014,"uuid":"afbfb385-afe8-33d6-b7a3-4a30c7a3f242","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"vip1-香港6||限速100M","type":"vmess","server":"20.douluo.beauty","port":53020,"uuid":"afbfb385-afe8-33d6-b7a3-4a30c7a3f242","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"最新域名： www.douluoyun.lol  到期请续费 防失联专用","type":"vmess","server":"34.douluoyun.top","port":29134,"uuid":"afbfb385-afe8-33d6-b7a3-4a30c7a3f242","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/","ws-headers":{"Host":"34.douluoyun.top"}}
 
 proxy-groups:
 -
