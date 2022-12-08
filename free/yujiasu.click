@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://yjssub.pro/link/J3AGoZWWJaQjZ4g6?clash=1
+#!MANAGED-CONFIG https://yjssub.pro/link/k3LtYcAFTBHhPXJO?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-12-09 12:40:36
+## 上次更新于：2022-12-09 02:35:02
 #---------------------------------------------------#
 
 mixed-port: 7890
