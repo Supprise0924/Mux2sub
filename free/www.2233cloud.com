@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://1.2233cloud.com/link/qa7G4GfOc8xMSBhk?clash=1
+#!MANAGED-CONFIG https://1.2233cloud.com/link/ORG3gZGO2FTGB2bM?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-12-21 02:33:22
+## 上次更新于：2022-12-21 04:29:54
 #---------------------------------------------------#
 
 port: 7890
@@ -18,14 +18,14 @@ proxies:
     type: trojan
     server: 2233Cloud
     port: 443
-    password: a42ec259-d5cd-30c5-b183-ac572753befb
+    password: dff89858-774d-3c4f-a524-8359ed4c6d6e
     sni: 2233Cloud
   -
     name: 有问题提交工单注意看公告
     type: trojan
     server: 2233Cloud
     port: 443
-    password: a42ec259-d5cd-30c5-b183-ac572753befb
+    password: dff89858-774d-3c4f-a524-8359ed4c6d6e
     sni: 2233Cloud
 proxy-groups:
   -
