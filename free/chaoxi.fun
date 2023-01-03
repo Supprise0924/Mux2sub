@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://cxsub.pro/link/x1S5mAVGdIXsL8xi?clash=1
+#!MANAGED-CONFIG https://cxsub.pro/link/Dzk7cWCL6Zeo4z0Z?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2023-01-03 08:50:18
+## 上次更新于：2023-01-03 10:28:25
 #---------------------------------------------------#
 
 mixed-port: 7890
